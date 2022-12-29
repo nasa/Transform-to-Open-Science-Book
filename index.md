@@ -10,8 +10,12 @@ Welcome to the open science guide for Transform to Open Science (TOPS), a NASA O
 - Open Science [stories](https://science.nasa.gov/open-science/transform-to-open-science/stories)
 - [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
 
-
-<img align="right" src="/docs/Area1_Engagement/branding_graphics/Tops_Badge_Nasa.png" width="300" alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site">
+<!-- Updated way of including images based on Jupyter-book documentation (https://jupyterbook.org/en/stable/content/figures.html) -->
+```{image} /docs/Area1_Engagement/branding_graphics/Tops_Badge_Nasa.png
+:alt: Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site
+:width: 300px
+:align: right
+```
 
 ## What We Do
 

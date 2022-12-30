@@ -2,7 +2,9 @@
 Welcome to the open science guide for Transform to Open Science (TOPS), a NASA Open-Source Science Initiative mission.
 
 ## Announcements!
-- TOPS was at AGU Fall meeting! If you missed us, you can find all our presentations on our [Zenodo](https://doi.org/10.5281/zenodo.7444034). If you met us at AGU and are just checking out our repo for the first time - Welcome! We are so excited you are here. 
+- TOPS will be at the AMS (American Meteorological Society) Annual Meeting from Jan. 7-12 in Denver, CO! 
+- TOPS will also be at the AAS (American Astronomical Society) Meeting from Jan. 8-12 in Seattle, WA!
+- TOPS was at the AGU Fall meeting! If you missed us, you can find all our presentations on our [Zenodo](https://doi.org/10.5281/zenodo.7444034). If you met us at AGU and are just checking out our repo for the first time - Welcome! We are so excited you are here. 
 - NASA's new Science Information Policy has been released! You can find resources, frequently asked questions and the full text of the policy at [science.nasa.gov](https://science.nasa.gov/researchers/science-data/science-information-policy). At TOPS, we are especially excited about the [Open-Source Science Guidance for researchers funded by NASA's Science Mission Directorate](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf)
 - SMD's Data Portal has been [launched](https://science.data.nasa.gov/)! Explore NASA's science data as you explore open science. 
 - Proposal [guidance](./docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)

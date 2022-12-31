@@ -1,0 +1,924 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.17.1: http://docutils.sourceforge.net/" />
+
+    <title>Transform to Open Science &#8212; NASA&#39;s Transform to Open Science Mission</title>
+    
+  <!-- Loaded before other Sphinx assets -->
+  <link href="_static/styles/theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+<link href="_static/styles/pydata-sphinx-theme.css?digest=1999514e3f237ded88cf" rel="stylesheet">
+
+    
+  <link rel="stylesheet"
+    href="_static/vendor/fontawesome/5.13.0/css/all.min.css">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-solid-900.woff2">
+  <link rel="preload" as="font" type="font/woff2" crossorigin
+    href="_static/vendor/fontawesome/5.13.0/webfonts/fa-brands-400.woff2">
+
+    <link rel="stylesheet" type="text/css" href="_static/pygments.css" />
+    <link rel="stylesheet" href="_static/styles/sphinx-book-theme.css?digest=5115cc725059bd94278eecd172e13a965bf8f5a9" type="text/css" />
+    <link rel="stylesheet" type="text/css" href="_static/togglebutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/copybutton.css" />
+    <link rel="stylesheet" type="text/css" href="_static/mystnb.css" />
+    <link rel="stylesheet" type="text/css" href="_static/sphinx-thebe.css" />
+    <link rel="stylesheet" type="text/css" href="_static/design-style.b7bb847fb20b106c3d81b95245e65545.min.css" />
+    
+  <!-- Pre-loaded scripts that we'll load fully later -->
+  <link rel="preload" as="script" href="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf">
+
+    <script data-url_root="./" id="documentation_options" src="_static/documentation_options.js"></script>
+    <script src="_static/jquery.js"></script>
+    <script src="_static/underscore.js"></script>
+    <script src="_static/doctools.js"></script>
+    <script src="_static/clipboard.min.js"></script>
+    <script src="_static/copybutton.js"></script>
+    <script src="_static/scripts/sphinx-book-theme.js?digest=9c920249402e914e316237a7dbc6769907cce411"></script>
+    <script>let toggleHintShow = 'Click to show';</script>
+    <script>let toggleHintHide = 'Click to hide';</script>
+    <script>let toggleOpenOnPrint = 'true';</script>
+    <script src="_static/togglebutton.js"></script>
+    <script>var togglebuttonSelector = '.toggle, .admonition.dropdown, .tag_hide_input div.cell_input, .tag_hide-input div.cell_input, .tag_hide_output div.cell_output, .tag_hide-output div.cell_output, .tag_hide_cell.cell, .tag_hide-cell.cell';</script>
+    <script src="_static/design-tabs.js"></script>
+    <script>const THEBE_JS_URL = "https://unpkg.com/thebe@0.8.2/lib/index.js"
+const thebe_selector = ".thebe,.cell"
+const thebe_selector_input = "pre"
+const thebe_selector_output = ".output, .cell_output"
+</script>
+    <script async="async" src="_static/sphinx-thebe.js"></script>
+    <link rel="canonical" href="https://nasa.github.io/Transform-to-Open-Science-Book/index.html" />
+    <link rel="index" title="Index" href="genindex.html" />
+    <link rel="search" title="Search" href="search.html" />
+    <link rel="next" title="Frequently Asked Questions" href="tops_faq.html" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="docsearch:language" content="None">
+    
+
+    <!-- Google Analytics -->
+    
+  </head>
+  <body data-spy="scroll" data-target="#bd-toc-nav" data-offset="60">
+<!-- Checkboxes to toggle the left sidebar -->
+<input type="checkbox" class="sidebar-toggle" name="__navigation" id="__navigation" aria-label="Toggle navigation sidebar">
+<label class="overlay overlay-navbar" for="__navigation">
+    <div class="visually-hidden">Toggle navigation sidebar</div>
+</label>
+<!-- Checkboxes to toggle the in-page toc -->
+<input type="checkbox" class="sidebar-toggle" name="__page-toc" id="__page-toc" aria-label="Toggle in-page Table of Contents">
+<label class="overlay overlay-pagetoc" for="__page-toc">
+    <div class="visually-hidden">Toggle in-page Table of Contents</div>
+</label>
+<!-- Headers at the top -->
+<div class="announcement header-item noprint"></div>
+<div class="header header-item noprint"></div>
+
+    
+    <div class="container-fluid" id="banner"></div>
+
+    
+
+    <div class="container-xl">
+      <div class="row">
+          
+<!-- Sidebar -->
+<div class="bd-sidebar noprint" id="site-navigation">
+    <div class="bd-sidebar__content">
+        <div class="bd-sidebar__top"><div class="navbar-brand-box">
+    <a class="navbar-brand text-wrap" href="#">
+      
+        <!-- `logo` is deprecated in Sphinx 4.0, so remove this when we stop supporting 3 -->
+        
+      
+      
+      <img src="_static/Tops_Badge_Nasa.png" class="logo" alt="logo">
+      
+      
+      <h1 class="site-logo" id="site-title">NASA's Transform to Open Science Mission</h1>
+      
+    </a>
+</div><form class="bd-search d-flex align-items-center" action="search.html" method="get">
+  <i class="icon fas fa-search"></i>
+  <input type="search" class="form-control" name="q" id="search-input" placeholder="Search this book..." aria-label="Search this book..." autocomplete="off" >
+</form><nav class="bd-links" id="bd-docs-nav" aria-label="Main">
+    <div class="bd-toc-item active">
+        <p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  About TOPS
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="tops_faq.html">
+   Frequently Asked Questions
+  </a>
+ </li>
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="CONTRIBUTING.html">
+   Contributing to Our GitHub
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-1" name="toctree-checkbox-1" type="checkbox"/>
+  <label for="toctree-checkbox-1">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="LICENSE.html">
+     Public Domain
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="CODE_OF_CONDUCT.html">
+     TOPS Code of Conduct
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  TOPS' Guide to Open Science
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="Open_Science_Cookbook/readme.html">
+   TOPS’ Guide to Open Science
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-2" name="toctree-checkbox-2" type="checkbox"/>
+  <label for="toctree-checkbox-2">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2 has-children">
+    <a class="reference internal" href="Open_Science_Cookbook/Your_Open_Science_Journey.html">
+     Guide for Your Open Science Journey
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-3" name="toctree-checkbox-3" type="checkbox"/>
+    <label for="toctree-checkbox-3">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Open_Science_Cookbook/reading_list.html">
+       TOPS Reading List
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Open_Science_Cookbook/code_learning_resources.html">
+       Code Learning Resources
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Open_Science_Cookbook/software_citation_checklist.html">
+       Software Citation Checklist
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="Open_Science_Cookbook/Your_Teams_Open_Science_Journey.html">
+     Guide for Your Team’s Open Science Journey
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="Open_Science_Cookbook/Your_Organizations_Open_Science_Journey.html">
+     Guide for Your Organization’s Open Science Journey
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Organizing Open Science Activities
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="Organizing_OS_Activities/readme.html">
+   Organizing Open Science Activities
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-4" name="toctree-checkbox-4" type="checkbox"/>
+  <label for="toctree-checkbox-4">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2 has-children">
+    <a class="reference internal" href="Organizing_OS_Activities/booth/readme.html">
+     Organize a TOPS Booth at Your Next Conference!
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-5" name="toctree-checkbox-5" type="checkbox"/>
+    <label for="toctree-checkbox-5">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/booth/booth_checklist.html">
+       Booth Checklist
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="Organizing_OS_Activities/branding_and_graphics/readme.html">
+     TOPS Graphics and Icons
+    </a>
+   </li>
+   <li class="toctree-l2 has-children">
+    <a class="reference internal" href="Organizing_OS_Activities/keynote/readme.html">
+     Organize a TOPS Keynote
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-6" name="toctree-checkbox-6" type="checkbox"/>
+    <label for="toctree-checkbox-6">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/keynote/TOPS_keynote_example1.html">
+       TOPS Keynote Example 1
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/keynote/TOPS_keynote_example2.html">
+       TOPS Keynote Example 2
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/keynote/TOPS_keynote_example3.html">
+       TOPS Keynote Example 3
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/keynote/keynote_checklist.html">
+       Keynote Checklist
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toctree-l2 has-children">
+    <a class="reference internal" href="Organizing_OS_Activities/panel/readme.html">
+     Organize an Open Science Panel with TOPS
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-7" name="toctree-checkbox-7" type="checkbox"/>
+    <label for="toctree-checkbox-7">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/panel/panel_example_short.html">
+       TOPS Panel Submission Example - Short Text
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/panel/panel_example.html">
+       TOPS Panel Submission Example - Long Text
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/panel/panel_checklist.html">
+       Panel Checklist
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toctree-l2 has-children">
+    <a class="reference internal" href="Organizing_OS_Activities/presentation/readme.html">
+     Present on TOPS at Your Next Event
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-8" name="toctree-checkbox-8" type="checkbox"/>
+    <label for="toctree-checkbox-8">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/presentation/presentation_checklist.html">
+       Presentation Checklist
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="Organizing_OS_Activities/student_conference/readme.html">
+     Organize a TOPS Student Conference
+    </a>
+   </li>
+   <li class="toctree-l2 has-children">
+    <a class="reference internal" href="Organizing_OS_Activities/townhall/readme.html">
+     Organize a TOPS Town Hall Event
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-9" name="toctree-checkbox-9" type="checkbox"/>
+    <label for="toctree-checkbox-9">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/townhall/session_200words_example.html">
+       TOPS Session Description
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/townhall/session_250words_example.html">
+       TOPS Session Description
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/townhall/townhall_example.html">
+       TOPS Town Hall Example 1
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/townhall/townhall_example2.html">
+       TOPS Town Hall Example 2
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/townhall/townhall_checklist.html">
+       Town Hall Checklist
+      </a>
+     </li>
+    </ul>
+   </li>
+   <li class="toctree-l2 has-children">
+    <a class="reference internal" href="Organizing_OS_Activities/workshops/readme.html">
+     Organizing a Workshop
+    </a>
+    <input class="toctree-checkbox" id="toctree-checkbox-10" name="toctree-checkbox-10" type="checkbox"/>
+    <label for="toctree-checkbox-10">
+     <i class="fas fa-chevron-down">
+     </i>
+    </label>
+    <ul>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/workshops/workshop_abstract_example.html">
+       Example Workshop Submission
+      </a>
+     </li>
+     <li class="toctree-l3">
+      <a class="reference internal" href="Organizing_OS_Activities/workshops/workshop_checklist.html">
+       Workshop Checklist
+      </a>
+     </li>
+    </ul>
+   </li>
+  </ul>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  Year of Open Science
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1">
+  <a class="reference internal" href="Year_of_Open_Science_Guide/readme.html">
+   Guide to NASA’s Year of Open Science
+  </a>
+ </li>
+ <li class="toctree-l1">
+  <a class="reference internal" href="Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.html">
+   Conferences with TOPS for the Year of Open Science
+  </a>
+ </li>
+</ul>
+<p aria-level="2" class="caption" role="heading">
+ <span class="caption-text">
+  TOPS Proposal Resources
+ </span>
+</p>
+<ul class="nav bd-sidenav">
+ <li class="toctree-l1 has-children">
+  <a class="reference internal" href="docs/Area4_Moving_To_Openness/TOPST/readme.html">
+   TOPS Training Solicitation
+  </a>
+  <input class="toctree-checkbox" id="toctree-checkbox-11" name="toctree-checkbox-11" type="checkbox"/>
+  <label for="toctree-checkbox-11">
+   <i class="fas fa-chevron-down">
+   </i>
+  </label>
+  <ul>
+   <li class="toctree-l2">
+    <a class="reference internal" href="docs/Area4_Moving_To_Openness/TOPST/proposal_resources.html">
+     NASA Proposal Resources
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="docs/Area4_Moving_To_Openness/TOPST/TOPST_proposal_elements.html">
+     TOPST Proposal Elements
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="docs/Area4_Moving_To_Openness/TOPST/inclusion_plan_resources.html">
+     Resources for Writing a NASA Inclusion Plan
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="docs/Area4_Moving_To_Openness/TOPST/NASA_open_data.html">
+     Where do I find NASA’s openly available data?
+    </a>
+   </li>
+   <li class="toctree-l2">
+    <a class="reference internal" href="docs/Area4_Moving_To_Openness/TOPST/TOPST_FAQ.html">
+     TOPST Frequently Asked Questions
+    </a>
+   </li>
+  </ul>
+ </li>
+</ul>
+
+    </div>
+</nav></div>
+        <div class="bd-sidebar__bottom">
+             <!-- To handle the deprecated key -->
+            
+            <div class="navbar_extra_footer">
+            Powered by <a href="https://jupyterbook.org">Jupyter Book</a>
+            </div>
+            
+        </div>
+    </div>
+    <div id="rtd-footer-container"></div>
+</div>
+
+
+          
+
+
+          
+<!-- A tiny helper pixel to detect if we've scrolled -->
+<div class="sbt-scroll-pixel-helper"></div>
+<!-- Main content -->
+<div class="col py-0 content-container">
+    
+    <div class="header-article row sticky-top noprint">
+        
+
+
+
+<div class="col py-1 d-flex header-article-main">
+    <div class="header-article__left">
+        
+        <label for="__navigation"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="right"
+title="Toggle navigation"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-bars"></i>
+  </span>
+
+</label>
+
+        
+    </div>
+    <div class="header-article__right">
+<button onclick="toggleFullScreen()"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="bottom"
+title="Fullscreen mode"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-expand"></i>
+  </span>
+
+</button>
+
+<div class="menu-dropdown menu-dropdown-repository-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Source repositories">
+      <i class="fab fa-github"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="https://github.com/nasa/Transform-to-Open-Science-Book"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Source repository"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fab fa-github"></i>
+  </span>
+<span class="headerbtn__text-container">repository</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://github.com/nasa/Transform-to-Open-Science-Book/issues/new?title=Issue%20on%20page%20%2Findex.html&body=Your%20issue%20content%20here."
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Open an issue"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-lightbulb"></i>
+  </span>
+<span class="headerbtn__text-container">open issue</span>
+</a>
+
+      </li>
+      
+      <li>
+        <a href="https://github.com/nasa/Transform-to-Open-Science-Book/edit/main/index.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Edit this page"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-pencil-alt"></i>
+  </span>
+<span class="headerbtn__text-container">suggest edit</span>
+</a>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+
+<div class="menu-dropdown menu-dropdown-download-buttons">
+  <button class="headerbtn menu-dropdown__trigger"
+      aria-label="Download this page">
+      <i class="fas fa-download"></i>
+  </button>
+  <div class="menu-dropdown__content">
+    <ul>
+      <li>
+        <a href="_sources/index.md"
+   class="headerbtn"
+   data-toggle="tooltip"
+data-placement="left"
+title="Download source file"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file"></i>
+  </span>
+<span class="headerbtn__text-container">.md</span>
+</a>
+
+      </li>
+      
+      <li>
+        
+<button onclick="printPdf(this)"
+  class="headerbtn"
+  data-toggle="tooltip"
+data-placement="left"
+title="Print to PDF"
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-file-pdf"></i>
+  </span>
+<span class="headerbtn__text-container">.pdf</span>
+</button>
+
+      </li>
+      
+    </ul>
+  </div>
+</div>
+<label for="__page-toc"
+  class="headerbtn headerbtn-page-toc"
+  
+>
+  
+
+<span class="headerbtn__icon-container">
+  <i class="fas fa-list"></i>
+  </span>
+
+</label>
+
+    </div>
+</div>
+
+<!-- Table of contents -->
+<div class="col-md-3 bd-toc show noprint">
+    <div class="tocsection onthispage pt-5 pb-3">
+        <i class="fas fa-list"></i> Contents
+    </div>
+    <nav id="bd-toc-nav" aria-label="Page">
+        <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#announcements">
+   Announcements!
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#what-we-do">
+   What We Do
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#strategic-objectives">
+   Strategic Objectives
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#learn-more-about-our-implementation-plan-in-the-following-areas">
+     Learn More About Our Implementation Plan in the Following Areas
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#tops-and-the-year-of-open-science">
+   TOPS and the Year of Open Science
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#join-tops-mailing-list">
+   Join TOPS Mailing List
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#contributors">
+   Contributors ✨
+  </a>
+ </li>
+</ul>
+
+    </nav>
+</div>
+    </div>
+    <div class="article row">
+        <div class="col pl-md-3 pl-lg-5 content-container">
+            <!-- Table of contents that is only displayed when printing the page -->
+            <div id="jb-print-docs-body" class="onlyprint">
+                <h1>Transform to Open Science</h1>
+                <!-- Table of contents -->
+                <div id="print-main-content">
+                    <div id="jb-print-toc">
+                        
+                        <div>
+                            <h2> Contents </h2>
+                        </div>
+                        <nav aria-label="Page">
+                            <ul class="visible nav section-nav flex-column">
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#announcements">
+   Announcements!
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#what-we-do">
+   What We Do
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#strategic-objectives">
+   Strategic Objectives
+  </a>
+  <ul class="nav section-nav flex-column">
+   <li class="toc-h3 nav-item toc-entry">
+    <a class="reference internal nav-link" href="#learn-more-about-our-implementation-plan-in-the-following-areas">
+     Learn More About Our Implementation Plan in the Following Areas
+    </a>
+   </li>
+  </ul>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#tops-and-the-year-of-open-science">
+   TOPS and the Year of Open Science
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#join-tops-mailing-list">
+   Join TOPS Mailing List
+  </a>
+ </li>
+ <li class="toc-h2 nav-item toc-entry">
+  <a class="reference internal nav-link" href="#contributors">
+   Contributors ✨
+  </a>
+ </li>
+</ul>
+
+                        </nav>
+                    </div>
+                </div>
+            </div>
+            <main id="main-content" role="main">
+                
+              <div>
+                
+  <section class="tex2jax_ignore mathjax_ignore" id="transform-to-open-science">
+<h1>Transform to Open Science<a class="headerlink" href="#transform-to-open-science" title="Permalink to this headline">#</a></h1>
+<p>Welcome to the open science guide for Transform to Open Science (TOPS), a NASA Open-Source Science Initiative mission.</p>
+<section id="announcements">
+<h2>Announcements!<a class="headerlink" href="#announcements" title="Permalink to this headline">#</a></h2>
+<ul class="simple">
+<li><p>TOPS will be at the AMS (American Meteorological Society) Annual Meeting from Jan. 7-12 in Denver, CO!</p></li>
+<li><p>TOPS will also be at the AAS (American Astronomical Society) Meeting from Jan. 8-12 in Seattle, WA!</p></li>
+<li><p>TOPS was at the AGU Fall meeting! If you missed us, you can find all our presentations on our <a class="reference external" href="https://doi.org/10.5281/zenodo.7444034">Zenodo</a>. If you met us at AGU and are just checking out our repo for the first time - Welcome! We are so excited you are here.</p></li>
+<li><p>NASA’s new Science Information Policy has been released! You can find resources, frequently asked questions and the full text of the policy at <a class="reference external" href="https://science.nasa.gov/researchers/science-data/science-information-policy">science.nasa.gov</a>. At TOPS, we are especially excited about the <a class="reference external" href="https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf">Open-Source Science Guidance for researchers funded by NASA’s Science Mission Directorate</a></p></li>
+<li><p>SMD’s Data Portal has been <a class="reference external" href="https://science.data.nasa.gov/">launched</a>! Explore NASA’s science data as you explore open science.</p></li>
+<li><p>Proposal <a class="reference internal" href="docs/Area4_Moving_To_Openness/TOPST/proposal_resources.html"><span class="doc std std-doc">guidance</span></a></p></li>
+<li><p>Open Science funding <a class="reference external" href="https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/funding_opportunities.md">opportunities</a></p></li>
+<li><p>Open Science <a class="reference external" href="https://science.nasa.gov/open-science/transform-to-open-science/stories">stories</a></p></li>
+<li><p><a class="reference external" href="https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/job_opportunities.md">New Job Opportunities</a></p></li>
+</ul>
+<!-- Updated way of including images based on Jupyter-book documentation (https://jupyterbook.org/en/stable/content/figures.html) -->
+<a class="reference internal image-reference" href="_images/Tops_Badge_Nasa.png"><img alt="Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site" class="align-right" src="_images/Tops_Badge_Nasa.png" style="width: 300px;" /></a>
+</section>
+<section id="what-we-do">
+<h2>What We Do<a class="headerlink" href="#what-we-do" title="Permalink to this headline">#</a></h2>
+<p>The world is changing rapidly. Everyday new problems emerge and it takes groundbreaking scientific discoveries to solve them. To stay ahead, the pace of science must accelerate and science needs to be even better, more accurate, and faster to enable the truly transformative breakthroughs that will help us thrive. Closed science, hoarding information and resources, silos of knowledge holds science back by limiting who can participate. We need more voices that work together and share knowledge and resources. Only then will we find new and better solutions. NASA’s Transform to Open Science (TOPS) mission will allow us to create a scientific culture that is ready for 21st century challenges. Open Science will <strong>broaden participation, increase accessibility to knowledge, and embrace new technologies</strong> that can respond to these changes at scale. We hope you will join us in creating an open science infrastructure in your organization. TOPS will show you how!</p>
+</section>
+<section id="strategic-objectives">
+<h2>Strategic Objectives<a class="headerlink" href="#strategic-objectives" title="Permalink to this headline">#</a></h2>
+<p>Open Science creates more advanced and inclusive research faster, builds a more just and equitable world, and ensures that minds from all walks of life can participate in science. TOPS is NASA’s ambitious plan to accelerate open science practices. It’s a 5 year journey that will</p>
+<ol class="simple">
+<li><p>Accelerate major scientific discoveries</p></li>
+<li><p>Broaden participation by historically excluded communities</p></li>
+<li><p>Increase understanding and adoption of open science principles and techniques</p></li>
+</ol>
+<section id="learn-more-about-our-implementation-plan-in-the-following-areas">
+<h3>Learn More About Our Implementation Plan in the Following Areas<a class="headerlink" href="#learn-more-about-our-implementation-plan-in-the-following-areas" title="Permalink to this headline">#</a></h3>
+<ul class="simple">
+<li><p><a class="reference external" href="https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area1_Engagement/readme.md">Engagement</a>: Building community, publishing articles, appearing on podcasts, expanding knowledge about open science, integrating Open Science into themes at large-scale events and conferences.</p></li>
+<li><p><a class="reference external" href="https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md">Capacity Sharing</a>: Producing online, free, open science curriculum, hosting workshops, events, cohorts, science team meetings, hackathons, and constructing multiple pathways to an Open Science Badge.</p></li>
+<li><p><a class="reference external" href="https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area3_Incentives/readme.md">Incentives</a>: Developing Open Science Badge/Certification and establishing high profile awards in support of open science research.</p></li>
+<li><p><a class="reference external" href="https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/readme.md">Moving Towards Openness</a>: Recognizing open science practices, holding open meetings, sharing hidden knowledge, and inclusive collaborations.</p></li>
+</ul>
+</section>
+</section>
+<section id="tops-and-the-year-of-open-science">
+<h2>TOPS and the Year of Open Science<a class="headerlink" href="#tops-and-the-year-of-open-science" title="Permalink to this headline">#</a></h2>
+<p>2023 is the Year Of Open Science, a NASA initiative to spark change and inspire open science engagement through events and activities that will shift the current paradigm and change practices. <em>The Transform to Open Science (TOPS) community coordinates efforts designed to rapidly transform agencies, organizations, and communities.</em></p>
+</section>
+<section id="join-tops-mailing-list">
+<h2>Join TOPS Mailing List<a class="headerlink" href="#join-tops-mailing-list" title="Permalink to this headline">#</a></h2>
+<p>Please join the TOPS <a class="reference external" href="https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform">email list</a> to hear about further activities and become more involved! <a class="reference external" href="https://github.com/nasa/Transform-to-Open-Science/discussions">Discussions</a> are enabled for this GitHub repository, so feel free to ask questions or join conversations there.</p>
+<p><strong>We hope you will join us and champion open science!</strong></p>
+</section>
+<section id="contributors">
+<h2>Contributors ✨<a class="headerlink" href="#contributors" title="Permalink to this headline">#</a></h2>
+<p>Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<a class="reference external" href="#contributors-"><img alt="All Contributors" src="https://img.shields.io/badge/all_contributors-37-orange.svg?style=flat-square" /></a></p>
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
+<p>Thanks goes to these wonderful people who have contributed to our <a class="reference external" href="https://github.com/nasa/Transform-to-Open-Science">GitHub repository</a> (<a class="reference external" href="https://allcontributors.org/docs/en/emoji-key">emoji key</a>. Learn how you can become a contributor <a class="reference internal" href="CONTRIBUTING.html"><span class="doc std std-doc">here</span></a>.):</p>
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="http://cgentemann.github.io"><img src="https://avatars.githubusercontent.com/u/35538868?v=4?s=100" width="100px;" alt="Chelle Gentemann"/><br /><sub><b>Chelle Gentemann</b></sub></a><br /><a href="#ideas-cgentemann" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=cgentemann" title="Code">💻</a> <a href="#projectManagement-cgentemann" title="Project Management">📆</a></td>
+      <td align="center"><a href="https://github.com/reeseIngraham"><img src="https://avatars.githubusercontent.com/u/39513784?v=4?s=100" width="100px;" alt="Reese Ingraham"/><br /><sub><b>Reese Ingraham</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=reeseIngraham" title="Code">💻</a></td>
+      <td align="center"><a href="https://zenodo.org/communities/tops"><img src="https://avatars.githubusercontent.com/u/108359421?v=4?s=100" width="100px;" alt="Isabella Bello Martinez"/><br /><sub><b>Isabella Bello Martinez</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=bello-mart-isabella" title="Code">💻</a> <a href="#ideas-bello-mart-isabella" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-bello-mart-isabella" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/Earth2Ivey"><img src="https://avatars.githubusercontent.com/u/68339799?v=4?s=100" width="100px;" alt="Yvonne Ivey"/><br /><sub><b>Yvonne Ivey</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=Earth2Ivey" title="Code">💻</a> <a href="#ideas-Earth2Ivey" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Earth2Ivey" title="Project Management">📆</a></td>
+      <td align="center"><a href="https://github.com/nasa/Transform-to-Open-Science"><img src="https://avatars.githubusercontent.com/u/84465804?v=4?s=100" width="100px;" alt="Cynthia Hall"/><br /><sub><b>Cynthia Hall</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=chall-nasa" title="Code">💻</a> <a href="#ideas-chall-nasa" title="Ideas, Planning, & Feedback">🤔</a> <a href="#promotion-chall-nasa" title="Promotion">📣</a></td>
+      <td align="center"><a href="https://github.com/nasacrawford"><img src="https://avatars.githubusercontent.com/u/88837638?v=4?s=100" width="100px;" alt="Steve Crawford"/><br /><sub><b>Steve Crawford</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=nasacrawford" title="Code">💻</a> <a href="#ideas-nasacrawford" title="Ideas, Planning, & Feedback">🤔</a> <a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/pulls?q=is%3Apr+reviewed-by%3Anasacrawford" title="Reviewed Pull Requests">👀</a></td>
+      <td align="center"><a href="https://justingosses.com/"><img src="https://avatars.githubusercontent.com/u/11600445?v=4?s=100" width="100px;" alt="Justin Gosses"/><br /><sub><b>Justin Gosses</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/issues?q=author%3AJustinGOSSES" title="Bug reports">🐛</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="http://daniellegroenen.com"><img src="https://avatars.githubusercontent.com/u/89479247?v=4?s=100" width="100px;" alt="Danielle Groenen"/><br /><sub><b>Danielle Groenen</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=daniellegroenen" title="Code">💻</a></td>
+      <td align="center"><a href="https://www.michaeljfox.org/"><img src="https://avatars.githubusercontent.com/u/3680365?v=4?s=100" width="100px;" alt="Chris Erdmann"/><br /><sub><b>Chris Erdmann</b></sub></a><br /><a href="#content-libcce" title="Content">🖋</a></td>
+      <td align="center"><a href="https://wetlands.io"><img src="https://avatars.githubusercontent.com/u/5016453?v=4?s=100" width="100px;" alt="Qiusheng Wu"/><br /><sub><b>Qiusheng Wu</b></sub></a><br /><a href="#content-giswqs" title="Content">🖋</a></td>
+      <td align="center"><a href="http://slesa.com.np"><img src="https://avatars.githubusercontent.com/u/7830949?v=4?s=100" width="100px;" alt="Slesa Adhikari"/><br /><sub><b>Slesa Adhikari</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/issues?q=author%3Aslesaad" title="Bug reports">🐛</a></td>
+      <td align="center"><a href="https://github.com/selgebali"><img src="https://avatars.githubusercontent.com/u/23166543?v=4?s=100" width="100px;" alt="Sara"/><br /><sub><b>Sara</b></sub></a><br /><a href="#content-selgebali" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/abhilipsasahoo03"><img src="https://avatars.githubusercontent.com/u/80174214?v=4?s=100" width="100px;" alt="Abhilipsa Sahoo"/><br /><sub><b>Abhilipsa Sahoo</b></sub></a><br /><a href="#maintenance-abhilipsasahoo03" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="https://github.com/danielskatz"><img src="https://avatars.githubusercontent.com/u/2913845?v=4?s=100" width="100px;" alt="Daniel S. Katz"/><br /><sub><b>Daniel S. Katz</b></sub></a><br /><a href="#maintenance-danielskatz" title="Maintenance">🚧</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://orcid.org/0000-0001-9488-1870"><img src="https://avatars.githubusercontent.com/u/465923?v=4?s=100" width="100px;" alt="Daniel Mietchen"/><br /><sub><b>Daniel Mietchen</b></sub></a><br /><a href="#maintenance-Daniel-Mietchen" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="https://edwinkofler.com"><img src="https://avatars.githubusercontent.com/u/24364012?v=4?s=100" width="100px;" alt="Edwin Kofler"/><br /><sub><b>Edwin Kofler</b></sub></a><br /><a href="#maintenance-hyperupcall" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="https://www.linkedin.com/in/logankilpatrick/"><img src="https://avatars.githubusercontent.com/u/35577566?v=4?s=100" width="100px;" alt="Logan Kilpatrick "/><br /><sub><b>Logan Kilpatrick </b></sub></a><br /><a href="#content-logankilpatrick" title="Content">🖋</a> <a href="#maintenance-logankilpatrick" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="http://www.lisafederer.net"><img src="https://avatars.githubusercontent.com/u/7302608?v=4?s=100" width="100px;" alt="Lisa Federer"/><br /><sub><b>Lisa Federer</b></sub></a><br /><a href="#content-informationista" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/maxrjones"><img src="https://avatars.githubusercontent.com/u/14077947?v=4?s=100" width="100px;" alt="Max Jones"/><br /><sub><b>Max Jones</b></sub></a><br /><a href="#maintenance-maxrjones" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="http://tysonswetnam.com"><img src="https://avatars.githubusercontent.com/u/11527041?v=4?s=100" width="100px;" alt="Tyson L. Swetnam"/><br /><sub><b>Tyson L. Swetnam</b></sub></a><br /><a href="#maintenance-tyson-swetnam" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="https://www.quantum-mads.com/"><img src="https://avatars.githubusercontent.com/u/11914201?v=4?s=100" width="100px;" alt="Jon Ander Oribe"/><br /><sub><b>Jon Ander Oribe</b></sub></a><br /><a href="#maintenance-JonanOribe" title="Maintenance">🚧</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/Sierra-MC"><img src="https://avatars.githubusercontent.com/u/88336748?v=4?s=100" width="100px;" alt="Sierra V. Brown"/><br /><sub><b>Sierra V. Brown</b></sub></a><br /><a href="#maintenance-Sierra-MC" title="Maintenance">🚧</a> <a href="#content-Sierra-MC" title="Content">🖋</a></td>
+      <td align="center"><a href="https://batool-almarzouq.netlify.app/"><img src="https://avatars.githubusercontent.com/u/53487593?v=4?s=100" width="100px;" alt="Batool Almarzouq"/><br /><sub><b>Batool Almarzouq</b></sub></a><br /><a href="#maintenance-BatoolMM" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="https://github.com/amangoel185"><img src="https://avatars.githubusercontent.com/u/10528392?v=4?s=100" width="100px;" alt="Aman Goel"/><br /><sub><b>Aman Goel</b></sub></a><br /><a href="#maintenance-amangoel185" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="http://www.agilescientific.com/"><img src="https://avatars.githubusercontent.com/u/1692372?v=4?s=100" width="100px;" alt="Matt Hall"/><br /><sub><b>Matt Hall</b></sub></a><br /><a href="#content-kwinkunks" title="Content">🖋</a></td>
+      <td align="center"><a href="http://malvikasharan.github.io/"><img src="https://avatars.githubusercontent.com/u/5370471?v=4?s=100" width="100px;" alt="Malvika Sharan"/><br /><sub><b>Malvika Sharan</b></sub></a><br /><a href="#content-malvikasharan" title="Content">🖋</a></td>
+      <td align="center"><a href="http://space.mit.edu/home/guenther/"><img src="https://avatars.githubusercontent.com/u/498688?v=4?s=100" width="100px;" alt="Hans Moritz Günther"/><br /><sub><b>Hans Moritz Günther</b></sub></a><br /><a href="#maintenance-hamogu" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="https://tomchor.github.io/"><img src="https://avatars.githubusercontent.com/u/13205162?v=4?s=100" width="100px;" alt="Tomas Chor"/><br /><sub><b>Tomas Chor</b></sub></a><br /><a href="#maintenance-tomchor" title="Maintenance">🚧</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://github.com/emilyscassidy"><img src="https://avatars.githubusercontent.com/u/58826433?v=4?s=100" width="100px;" alt="Emily Cassidy"/><br /><sub><b>Emily Cassidy</b></sub></a><br /><a href="#maintenance-emilyscassidy" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="https://github.com/senya2"><img src="https://avatars.githubusercontent.com/u/45128147?v=4?s=100" width="100px;" alt="Senya Stein"/><br /><sub><b>Senya Stein</b></sub></a><br /><a href="#maintenance-senya2" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=TSUNA36"><img src="https://avatars.githubusercontent.com/u/1802656?v=4?s=100" width="100px;" alt="Ting Sun"/><br /><sub><b>Ting Sun</b></sub></a><br /><a href="#maintenance-sunt05" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt="All Contributors"/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#maintenance-all-contributors" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="https://github.com/SALONICONTRACTOR"><img src="https://avatars.githubusercontent.com/u/90577825?v=4?s=100" width="100px;" alt="SALONICONTRACTOR"/><br /><sub><b>SALONICONTRACTOR</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=SALONICONTRACTOR" title="Code">💻</a></td>
+      <td align="center"><a href="http://paigem.github.io"><img src="https://avatars.githubusercontent.com/u/26591824?v=4?s=100" width="100px;" alt="Paige Martin"/><br /><sub><b>Paige Martin</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science/commits?author=paigem" title="Code">💻</a> <a href="#ideas-paigem" title="Ideas, Planning, & Feedback">🤔</a> <a href="#content-paigem" title="Content">🖋</a></td>
+      <td align="center"><a href="https://github.com/peternewman"><img src="https://avatars.githubusercontent.com/u/6216436?v=4?s=100" width="100px;" alt="Peter Newman"/><br /><sub><b>Peter Newman</b></sub></a><br /><a href="#maintenance-peternewman" title="Maintenance">🚧</a></td>
+    </tr>
+    <tr>
+      <td align="center"><a href="https://bsipocz.github.io/"><img src="https://avatars.githubusercontent.com/u/6788290?v=4?s=100" width="100px;" alt="Brigitta Sipőcz"/><br /><sub><b>Brigitta Sipőcz</b></sub></a><br /><a href="#maintenance-bsipocz" title="Maintenance">🚧</a></td>
+      <td align="center"><a href="http://natashabatalha.github.io"><img src="https://avatars.githubusercontent.com/u/6554465?v=4?s=100" width="100px;" alt="Natasha Batalha"/><br /><sub><b>Natasha Batalha</b></sub></a><br /><a href="#content-natashabatalha" title="Content">🖋</a></td>
+    </tr>
+  </tbody>
+</table>
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+<p>This project follows the <a class="reference external" href="https://github.com/all-contributors/all-contributors">all-contributors</a> specification. Contributions of any kind welcome! Don’t see your name? Let us know using <a class="reference external" href="https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY/edit">our contact form</a>.</p>
+</section>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+<div class="toctree-wrapper compound">
+</div>
+</section>
+
+    <script type="text/x-thebe-config">
+    {
+        requestKernel: true,
+        binderOptions: {
+            repo: "binder-examples/jupyter-stacks-datascience",
+            ref: "master",
+        },
+        codeMirrorConfig: {
+            theme: "abcdef",
+            mode: "python"
+        },
+        kernelOptions: {
+            kernelName: "python3",
+            path: "./."
+        },
+        predefinedOutput: true
+    }
+    </script>
+    <script>kernelName = 'python3'</script>
+
+              </div>
+              
+            </main>
+            <footer class="footer-article noprint">
+                
+    <!-- Previous / next buttons -->
+<div class='prev-next-area'>
+    <a class='right-next' id="next-link" href="tops_faq.html" title="next page">
+    <div class="prev-next-info">
+        <p class="prev-next-subtitle">next</p>
+        <p class="prev-next-title">Frequently Asked Questions</p>
+    </div>
+    <i class="fas fa-angle-right"></i>
+    </a>
+</div>
+            </footer>
+        </div>
+    </div>
+    <div class="footer-content row">
+        <footer class="col footer"><p>
+  
+    By TOPS Community<br/>
+  
+      &copy; Copyright CC-BY.<br/>
+</p>
+        </footer>
+    </div>
+    
+</div>
+
+
+      </div>
+    </div>
+  
+  <!-- Scripts loaded after <body> so the DOM is not blocked -->
+  <script src="_static/scripts/pydata-sphinx-theme.js?digest=1999514e3f237ded88cf"></script>
+
+
+  </body>
+</html>

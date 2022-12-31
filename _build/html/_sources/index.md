@@ -10,7 +10,7 @@ Welcome to the open science guide for Transform to Open Science (TOPS), a NASA O
 - Proposal [guidance](./docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md)
 - Open Science funding [opportunities](./docs/Area4_Moving_To_Openness/funding_opportunities.md)
 - Open Science [stories](https://science.nasa.gov/open-science/transform-to-open-science/stories)
-- [New Job Opportunities](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/job_opportunities.md)
+- [New Job Opportunities](./docs/Area4_Moving_To_Openness/job_opportunities.md)
 
 <!-- Updated way of including images based on Jupyter-book documentation (https://jupyterbook.org/en/stable/content/figures.html) -->
 ```{image} /docs/Area1_Engagement/branding_graphics/Tops_Badge_Nasa.png

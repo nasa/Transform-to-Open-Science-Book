@@ -22,7 +22,7 @@ With so many reasons to get started, it can be hard to determine the first thing
 * Finding community software repositories 
 * Understanding how to hold open meetings
 
-Below, we present you with three easy steps to get started with each core area. You can also learn more about each topic in our ever-growing list of [open science resources](https://github.com/nasa/Transform-to-Open-Science/blob/main/Open_Science_Cookbook/reading_list.md). 
+Below, we present you with three easy steps to get started with each core area. You can also learn more about each topic in our ever-growing list of [open science resources](./reading_list.md). 
 
 ### Get An ORCID
 An [ORCID](https://orcid.org/) is a persistent digital identifier that distinguishes you from other researchers. Creating an ORCID allows you to share, and get proper credit for, your data, research, code, and presentations.

@@ -22,7 +22,7 @@ With so many reasons to get started, it can be hard to determine the first thing
 * Finding community software repositories 
 * Understanding how to hold open meetings
 
-Below, we present you with three easy steps to get started with each core area. You can also learn more about each topic in our ever-growing list of [open science resources](https://github.com/nasa/Transform-to-Open-Science/blob/main/Open_Science_Cookbook/reading_list.md). 
+Below, we present you with three easy steps to get started with each core area. You can also learn more about each topic in our ever-growing list of [open science resources](./reading_list.md). 
 
 ### Get An ORCID
 An [ORCID](https://orcid.org/) is a persistent digital identifier that distinguishes you from other researchers. Creating an ORCID allows you to share, and get proper credit for, your data, research, code, and presentations.
@@ -270,4 +270,4 @@ To help make this effort a success, TOPS will provide organizations with the fol
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name.
 
 ### Open Science at Conferences
-Wish to promote the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Guide](https://github.com/nasa/Transform-to-Open-Science/blob/main/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md) to learn how.
+Wish to promote the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Guide](/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md) to learn how.

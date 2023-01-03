@@ -2,7 +2,7 @@
 
 Transform to Open Science Training or "TOPST" is a Research Opportunities in Space and Earth Science (ROSES) solicitation. TOPST is solicitation F.14 and can be found [here](https://nspires.nasaprs.com/external/viewrepositorydocument/cmdocumentid=860824/solicitationId=%7BAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7D/viewSolicitationDocument=1/F.14_TOPST_Amend46.pdf). 
 
-Resources for proposal development are available [here](./proposal_resources.md).
+Resources for proposal development are available [here](/Proposal_Resources/readme.md).
 
 **TOPST element solicits proposals for:**
 
@@ -19,9 +19,9 @@ The training material as well as the design of the learning activities should be
 
 ## Additional Proposal Resources
 * Navigate [here](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init) for the NSPIRES landing page for this element
-* Look [here](./NASA_open_data.md) for information on NASA's open data archives
-* Look [here](./proposal_resources.md) for a curated list of guides, examples, and templates
-* Look [here](./inclusion_plan_resources.md) for a list of resources to guide the creation of Inclusion Plans
+* Look [here](/Proposal_Resources/NASA_open_data.md) for information on NASA's open data archives
+* Look [here](/Proposal_Resources/readme.md) for a curated list of guides, examples, and templates
+* Look [here](/Proposal_Resources/inclusion_plan_resources.md) for a list of resources to guide the creation of Inclusion Plans
 * Look [here](https://science.nasa.gov/researchers/dual-anonymous-peer-review) for information on the Dual Anonymous Peer Review process
 * Look [here](./TOPST_proposal_elements.md) for information on the Open-Source Science Development Plan and Equal Access Plan 
 * You can find collaborators by posting [here](https://github.com/nasa/Transform-to-Open-Science/discussions/281)

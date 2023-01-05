@@ -15,7 +15,7 @@ TOPS is a $40 million, 5-year NASA Science Mission Directorate mission geared to
 These areas are designed to increase awareness about open science, provide learning resources for those looking to deepen their understanding and usage of open science practices and principles, and to promote events that support transitioning to open science. By partnering and collaborating with other organizations, NASA will support and enable the scientific community to move towards open science. 
 
 <!-- Updated way of including images based on Jupyter-book documentation (https://jupyterbook.org/en/stable/content/figures.html) -->
-```{image} /docs/Area1_Engagement/branding_graphics/Tops_Badge_Nasa.png
+```{image} /About/Tops_Badge_Nasa.png
 :alt: Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site
 :width: 300px
 :align: right

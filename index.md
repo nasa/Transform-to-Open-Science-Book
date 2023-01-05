@@ -1,5 +1,5 @@
 # Transform to Open Science 
-Welcome to the open science guide for Transform to Open Science (TOPS), a NASA Open-Source Science Initiative mission.
+Welcome to the open science guide for Transform to Open Science (TOPS), a NASA [Open-Source Science Initiative](https://science.nasa.gov/open-science-overview) mission.
 
 ## What is Open Science?
 Open science—-opening up the scientific process from idea inception to result—-increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable, and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.

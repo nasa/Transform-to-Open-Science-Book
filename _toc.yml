@@ -3,10 +3,10 @@ root: index
 parts:
 - caption: About TOPS
   chapters:
+  - file: About/About-Announcements
   - file: About/tops_faq
   - file: About/CONTRIBUTING
     sections:
-    - file: About/About-Announcements
     - file: About/LICENSE
     - file: About/CODE_OF_CONDUCT
 - caption: TOPS' Guide to Open Science  

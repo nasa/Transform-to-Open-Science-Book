@@ -43,7 +43,7 @@ Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 [![All Contributors](https://img.shields.io/badge/all_contributors-38-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-Thanks goes to these wonderful people who have contributed to our [GitHub repository](https://github.com/nasa/Transform-to-Open-Science) ([emoji key](https://allcontributors.org/docs/en/emoji-key). Learn how you can become a contributor [here](/CONTRIBUTING.md).):
+Thanks goes to these wonderful people who have contributed to our [GitHub repository](https://github.com/nasa/Transform-to-Open-Science) ([emoji key](https://allcontributors.org/docs/en/emoji-key)). Learn how you can become a contributor [here](/About/CONTRIBUTING.md).):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
@@ -108,4 +108,4 @@ Thanks goes to these wonderful people who have contributed to our [GitHub reposi
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome! Don't see your name? Let us know using [our contact form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY).
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!

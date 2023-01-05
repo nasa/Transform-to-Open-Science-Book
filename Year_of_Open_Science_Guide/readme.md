@@ -2,10 +2,7 @@
 
 A Guide for Participating in the Year of Open Science!
 
-## Open Science 
-Open science—opening up the scientific process from idea inception to result—increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.
-
-**NASA - along with like-minded agencies across the USA government - has announced the Year of Open Science to celebrate the benefits and successes of open science, and inspire more scientists to join the movement. Ultimately, the success of the Year of Open Science will be driven by collaborations with individuals, teams, and organizations who are ready to transform the culture of federal research into one that celebrates openness, and inclusion!**
+NASA - along with like-minded agencies across the USA government - has announced the Year of Open Science to celebrate the benefits and successes of open science, and inspire more scientists to join the movement. Ultimately, the success of the Year of Open Science will be driven by collaborations with individuals, teams, and organizations who are ready to transform the culture of federal research into one that celebrates openness, and inclusion!
 
 ## Who is Participating?
 *This section will be updated soon!*

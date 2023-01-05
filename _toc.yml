@@ -3,11 +3,11 @@ root: index
 parts:
 - caption: About TOPS
   chapters:
-  - file: tops_faq
-  - file: CONTRIBUTING
+  - file: About/tops_faq
+  - file: About/CONTRIBUTING
     sections:
-    - file: LICENSE
-    - file: CODE_OF_CONDUCT
+    - file: About/LICENSE
+    - file: About/CODE_OF_CONDUCT
 - caption: TOPS' Guide to Open Science  
   chapters:
   - file: Open_Science_Cookbook/readme

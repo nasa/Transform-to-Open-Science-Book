@@ -61,8 +61,8 @@ parts:
   chapters:
   - file: Proposal_Resources/readme
     sections:
-    - file: docs/Area4_Moving_To_Openness/TOPST/inclusion_plan_resources
-    - file: docs/Area4_Moving_To_Openness/TOPST/NASA_open_data
+    - file: Proposal_Resources/NASA_open_data
+    - file: Proposal_Resources/inclusion_plan_resources
 - caption: TOPS Training Solicitation
   chapters:
   - file: TOPST/readme

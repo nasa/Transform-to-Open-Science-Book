@@ -3,11 +3,12 @@ root: index
 parts:
 - caption: About TOPS
   chapters:
-  - file: tops_faq
-  - file: CONTRIBUTING
+  - file: About/About-Announcements
+  - file: About/tops_faq
+  - file: About/CONTRIBUTING
     sections:
-    - file: LICENSE
-    - file: CODE_OF_CONDUCT
+    - file: About/LICENSE
+    - file: About/CODE_OF_CONDUCT
 - caption: TOPS' Guide to Open Science  
   chapters:
   - file: Open_Science_Cookbook/readme
@@ -61,8 +62,8 @@ parts:
   chapters:
   - file: Proposal_Resources/readme
     sections:
-    - file: docs/Area4_Moving_To_Openness/TOPST/inclusion_plan_resources
-    - file: docs/Area4_Moving_To_Openness/TOPST/NASA_open_data
+    - file: Proposal_Resources/NASA_open_data
+    - file: Proposal_Resources/inclusion_plan_resources
 - caption: TOPS Training Solicitation
   chapters:
   - file: TOPST/readme

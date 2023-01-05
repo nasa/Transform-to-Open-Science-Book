@@ -2,7 +2,7 @@
 
 This page is your one-stop shop for uncovering the many resources for open science that are on the TOPS GitHub! Read on to learn more about how to use our GitHub, how to engage with TOPS and participate in the Year of Open Science, and identify resources to help you, your research team, and your organization get started with open science.
 
-Before contributing, please read our [LICENSE](./LICENSE.md) and our [Code of Conduct](./CODE_OF_CONDUCT.md). A summary of the code of conduct is also below.
+Before contributing, please read our [LICENSE](/About/LICENSE.md) and our [Code of Conduct](/About/CODE_OF_CONDUCT.md). A summary of the code of conduct is also below.
 
 ## We Want Your Help!
 
@@ -18,7 +18,7 @@ Everyone reading this page is a community member, and we hope everyone will post
 All community members must abide by the code of conduct when engaging with TOPS, either online or in-person. 
 
 ## Code of Conduct
-The TOPS code of conduct can be found [here](./CODE_OF_CONDUCT.md). Responses to code of conduct violations on this GitHub are based on the level of impact, which is tied to where the violation took place–either a comment, discussion post, or in a pull request (PR) to the repository. Code of conduct violations for the GitHub will be addressed in the following manner: 
+The TOPS code of conduct can be found [here](/About/CODE_OF_CONDUCT.md). Responses to code of conduct violations on this GitHub are based on the level of impact, which is tied to where the violation took place–either a comment, discussion post, or in a pull request (PR) to the repository. Code of conduct violations for the GitHub will be addressed in the following manner: 
 * First code of conduct violation 
     * **Participant:** Comment removed + contacted by TOPS moderator
     * **Contributor**:  PR not accepted and removed from GitHub + contacted by TOPS moderator

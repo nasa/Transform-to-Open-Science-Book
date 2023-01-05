@@ -352,12 +352,21 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "TKantz",
+      "name": "TKantz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111452618?v=4",
+      "profile": "https://github.com/TKantz",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "skipCi": true,
   "repoType": "github",
   "repoHost": "https://github.com",
-  "projectName": "Transform-to-Open-Science",
+  "projectName": "Transform-to-Open-Science-Book",
   "projectOwner": "bello-mart-isabella"
 }

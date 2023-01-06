@@ -2,7 +2,11 @@
 
 A Guide for Participating in the Year of Open Science!
 
-NASA - along with like-minded agencies across the USA government - has announced the Year of Open Science to celebrate the benefits and successes of open science, and inspire more scientists to join the movement. Ultimately, the success of the Year of Open Science will be driven by collaborations with individuals, teams, and organizations who are ready to transform the culture of federal research into one that celebrates openness, and inclusion!
+NASA - along with like-minded agencies across the USA government - has announced the Year of Open Science to celebrate the benefits and successes of open science, and inspire more scientists to join the movement. Ultimately, the success of the Year of Open Science will be driven by collaborations with individuals, teams, and organizations who are ready to transform the culture of federal research into one that celebrates openness, and inclusion! The Year of Open Science has set out 4 goals to work towards:
+1. Develop a strategic plan for open science
+1. Improve the transparency, integrity, and equity of reviews
+1. Account for open science activities in evaluations
+1. Engage underrepresented communities in the advancement of open science
 
 ## Who is Participating?
 *This section will be updated soon!*

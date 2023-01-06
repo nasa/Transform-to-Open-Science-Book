@@ -7,6 +7,9 @@ NASA - along with like-minded agencies across the USA government - has announced
 ## Who is Participating?
 *This section will be updated soon!*
 
+## Sign up!
+To sign up your organization and be listed above, fill out this [form](https://forms.gle/KPKaejc2WP7dm5XVA).
+
 ## Join Us!
 ### For You
 Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog. All of these behaviors exemplify open science and we would like for you to join us in the Year of Open Science! 

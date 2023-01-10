@@ -17,7 +17,7 @@ NASA - along with like-minded agencies across the USA government - has announced
 
 ## Who is Participating?
 ### Higher Education Leadership Initiative for Open Scholarship (HELIOS)
-```{image} /About/Tops_Badge_Nasa.png
+```{image} /About/logos/logo_helios_RGB.png
 :alt: The HELIOS logo
 :width: 150px
 :align: right

@@ -2,6 +2,13 @@
 
 A Guide for Participating in the Year of Open Science!
 
+<!-- Updated way of including images based on Jupyter-book documentation (https://jupyterbook.org/en/stable/content/figures.html) -->
+```{image} /About/Tops_Badge_Nasa.png
+:alt: Transform to Open Science Logo that shows a top as a rocket taking off and the text Transform to Open Science in the white vapor plume around the launch site
+:width: 300px
+:align: right
+```
+
 NASA - along with like-minded agencies across the USA government - has announced the Year of Open Science to celebrate the benefits and successes of open science, and inspire more scientists to join the movement. Ultimately, the success of the Year of Open Science will be driven by collaborations with individuals, teams, and organizations who are ready to transform the culture of federal research into one that celebrates openness, and inclusion! The Year of Open Science has set out 4 goals to work towards:
 1. Develop a strategic plan for open science
 1. Improve the transparency, integrity, and equity of reviews
@@ -9,7 +16,48 @@ NASA - along with like-minded agencies across the USA government - has announced
 1. Engage underrepresented communities in the advancement of open science
 
 ## Who is Participating?
-*This section will be updated soon!*
+### Advancing Research Impact in Society (ARIS) 
+```{image} /About/logos/ARIS.png
+:alt: The ARIS logo.
+:width: 150px
+:align: right
+```
+ARIS enthusiastically supports the Year of Open Science and NASA’s efforts to facilitate open science research, policy and culture. Removing barriers to connecting with scientific discoveries is central to the mission of ARIS and complements NASA’s goal of engaging underrepresented communities in the advancement of open science.
+
+Learn more at [researchinsociety.org](researchinsociety.org).
+
+### eLife
+```{image} /About/logos/eLife.png
+:alt: The eLife logo.
+:width: 150px
+:align: right
+```
+Alongside our new publishing model, eLife is committed to listening to and elevating the voices of our diverse, global community of researchers, contributing to a future that shares open results for the benefit of all.
+
+Learn more at [elifesciences.org/community](https://elifesciences.org/community).
+
+### Center for Open Science
+```{image} /About/logos/cos-dark-stacked-RGB.png
+:alt: The Center for Open Science logo
+:width: 150px
+:align: right
+```
+[The Center for Open Science is] excited to work with the community to change the default to open.
+
+Learn more at [cos.io](https://cos.io/).
+
+### Higher Education Leadership Initiative for Open Scholarship (HELIOS)
+```{image} /About/logos/logo_helios_RGB.png
+:alt: The HELIOS logo
+:width: 150px
+:align: right
+```
+"The Year of Open Science is a great step forward in promoting productive ways for researchers and scholars to communicate their work more openly and inclusively for the benefit of both science and society," said Dr. Michael Crow, President of Arizona State University and Co-Chair of the Higher Education Leadership Initiative for Open Scholarship (HELIOS). "HELIOS is excited to team with NASA to advance this important initiative."
+
+"We are excited to partner with federal agencies to make open science easier and more rewarding for both individuals and the organizations that support them," said Dr. Geeta Swamy, Duke University Associate Vice President for Research and Vice Dean for Scientific Integrity and Strategic Lead for the Higher Education Leadership Initiative for Open Scholarship (HELIOS).  "HELIOS member institutions are eager to develop actionable policies, resources, guidance, metrics, and infrastructure to advance open science scholarship.  Cross-sector coordination through initiatives such as the Year of Open Science are critical to harmonizing and scaling these efforts."
+
+Learn more at [heliosopen.org](https://www.heliosopen.org/).
+
 
 ## Sign up!
 To sign up your organization and be listed above, fill out this [form](https://forms.gle/KPKaejc2WP7dm5XVA).

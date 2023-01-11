@@ -24,7 +24,7 @@ NASA - along with like-minded agencies across the USA government - has announced
 ```
 ARIS enthusiastically supports the Year of Open Science and NASA’s efforts to facilitate open science research, policy and culture. Removing barriers to connecting with scientific discoveries is central to the mission of ARIS and complements NASA’s goal of engaging underrepresented communities in the advancement of open science.
 
-Learn more at [researchinsociety.org](researchinsociety.org).
+Learn more at [researchinsociety.org](https://researchinsociety.org/).
 
 ### eLife
 ```{image} /About/logos/eLife.png

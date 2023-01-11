@@ -17,8 +17,8 @@ NASA - along with like-minded agencies across the USA government - has announced
 
 ## Who is Participating?
 ### Advancing Research Impact in Society (ARIS) 
-```{image} /About/logos/logo_helios_RGB.png
-:alt: The HELIOS logo
+```{image} /About/logos/ARIS.png
+:alt: The ARIS logo.
 :width: 150px
 :align: right
 ```
@@ -27,8 +27,8 @@ ARIS enthusiastically supports the Year of Open Science and NASA’s efforts to 
 Learn more at [researchinsociety.org](researchinsociety.org).
 
 ### eLife
-```{image} /About/logos/logo_helios_RGB.png
-:alt: The HELIOS logo
+```{image} /About/logos/eLife.png
+:alt: The eLife logo.
 :width: 150px
 :align: right
 ```
@@ -37,8 +37,8 @@ Alongside our new publishing model, eLife is committed to listening to and eleva
 Learn more at [elifesciences.org/community](https://elifesciences.org/community).
 
 ### Center for Open Science
-```{image} /About/logos/logo_helios_RGB.png
-:alt: The HELIOS logo
+```{image} /About/logos/cos-dark-stacked-RGB.png
+:alt: The Center for Open Science logo
 :width: 150px
 :align: right
 ```

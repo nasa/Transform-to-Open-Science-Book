@@ -1,6 +1,9 @@
 # About NASA Transform to Open Science 
 
 ## Announcements!
+- Biden-⁠Harris Administration Announces New Actions to Advance Open and Equitable Research [factsheet](https://www.whitehouse.gov/ostp/news-updates/2023/01/11/fact-sheet-biden-harris-administration-announces-new-actions-to-advance-open-and-equitable-research/)
+- Nature Article: [Why NASA and federal agencies are declaring this the Year of Open Science](https://www.nature.com/articles/d41586-023-00019-y) 
+- Federal [portal](https://open.science.gov/)
 - TOPS will be at the AMS (American Meteorological Society) Annual Meeting from Jan. 7-12 in Denver, CO! 
 - TOPS will also be at the AAS (American Astronomical Society) Meeting from Jan. 8-12 in Seattle, WA!
 - NASA's new Science Information Policy has been released! You can find resources, frequently asked questions and the full text of the policy at [science.nasa.gov](https://science.nasa.gov/researchers/science-data/science-information-policy). At TOPS, we are especially excited about the [Open-Source Science Guidance for researchers funded by NASA's Science Mission Directorate](https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf)

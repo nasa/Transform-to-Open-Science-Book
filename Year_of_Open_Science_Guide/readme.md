@@ -59,7 +59,7 @@ Learn more at [cos.io](https://cos.io/).
 Learn more at [heliosopen.org](https://www.heliosopen.org/).
 
 ### TARDIS!
-```{image} /About/logos/tardis.svg
+```{image} /About/logos/TARDIS.svg
 :alt: The TARDIS logo. 
 :width: 150px
 :align: right

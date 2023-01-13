@@ -58,6 +58,17 @@ Learn more at [cos.io](https://cos.io/).
 
 Learn more at [heliosopen.org](https://www.heliosopen.org/).
 
+### ICOR
+```{image} /About/logos/ICOR-logo.png
+:alt: The ICOR logo. 
+:width: 150px
+:align: right
+```
+
+The mission of Incentivizing Collaborative and Open Research (ICOR) "is to facilitate and learn from real world open research implementations, gathering evidence and establishing best practices and standards. ICOR is focused on the science of open research."
+
+Learn more at [incentivizingopen.org](https://incentivizingopen.org/).
+
 ### TARDIS!
 ```{image} /About/logos/TARDIS.svg
 :alt: The TARDIS logo. 

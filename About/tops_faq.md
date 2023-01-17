@@ -3,6 +3,9 @@ This page is a living document of the most common questions posed to the TOPS te
 
 <details> 
   <summary><span style="font-size:x-large;">General Questions about Open Science</span></summary>
+  
+  <h4>What is open science?</h4>
+  Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity. <a href = "https://open.science.gov/">(source)</a>
 
   <h4>What is open-source science (OSS)?</h4>
   Open-source science is a commitment to the open sharing of software, data, and knowledge (algorithms, papers, documents, ancillary information) from the start of research activities. The principles of OSS are to make publicly funded scientific research transparent, inclusive, accessible, and reproducible. OSS is enabled by advances in technology, including collaboration tools and cloud computing. More information is available from NASA's Science Mission Directorate (SMD) Policy Document <a href = "https://science.nasa.gov/researchers/science-data/science-information-policy">(SPD-41)</a> on science information policy.

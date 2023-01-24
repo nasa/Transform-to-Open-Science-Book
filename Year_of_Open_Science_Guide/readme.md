@@ -15,6 +15,9 @@ NASA - along with like-minded agencies across the USA government - has announced
 1. Account for open science activities in evaluations
 1. Engage underrepresented communities in the advancement of open science
 
+## Sign up!
+To sign up your organization and be listed below, please fill out this [form](https://forms.gle/KPKaejc2WP7dm5XVA).
+
 ## Who is Participating?
 ### Advancing Research Impact in Society (ARIS) 
 ```{image} /About/logos/ARIS.png
@@ -90,9 +93,6 @@ Learn more at [incentivizingopen.org](https://incentivizingopen.org/).
 "At TARDIS, we believe that open science is vital for driving innovation and discovery in the field of astronomy. As an open-source Monte Carlo radiative-transfer spectral synthesis code, TARDIS provides powerful and flexible tools for the spectral modeling of supernovae and other astronomical transients. Specifically, TARDIS is used to analyze data from NASA missions such as the Hubble Space Telescope and James Webb Space Telescope. The TARDIS community not only provides these tools but also performs research on supernovae, making new discoveries and contributions to the field. In addition, TARDIS has a strong educational mission, training undergraduates, graduate students, postdoctoral researchers, and other researchers in open-source and open-collaboration techniques. By providing tools and resources for research, training the next generation of scientists, and promoting open science, we aim to support the advancement of our understanding of supernovae and other astronomical transients, and contribute to the broader goals of the Year of Open Science as well as the research efforts of NASA missions."
 
 Learn more about the [TARDIS software](https://tardis-sn.github.io/tardis/index.html).
-
-## Sign up!
-To sign up your organization and be listed above, fill out this [form](https://forms.gle/KPKaejc2WP7dm5XVA).
 
 ## Join Us!
 ### For You

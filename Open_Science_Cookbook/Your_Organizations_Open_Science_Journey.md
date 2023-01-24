@@ -149,7 +149,7 @@ It can be a bit difficult to know when to begin when you are updating existing o
     * Research that produces data? (And do the requirements maintain that the data must be properly assigned metadata and be made available alongside the results OR prior to the results being published OR in a publicly accessible database so that others may use it?)  
     * Research in which the primary result is code or software development? 
 * Does your organization provide training in open science practices such as the use of open databases, or the sharing of open-source software? How about training in bias and anti-bias practices both in the distribution of funding, and in the interpretation of research results (e.g., data dredging, p-hacking and HARK-ing)? 
-    * Consider adopting and adapting the [TOPS Open Science curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md), the work of the European Union’s [FOSTER project](https://www.fosteropenscience.eu/toolkit) or/and what has been done by the [Berkeley Initiative for Transparency in the Social Sciences (BITSS)](https://www.bitss.org/resource-library/) to your needs and incentivizing funded researchers to learn more about open science. 
+    * Consider adopting and adapting the [TOPS Open Science curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/), the work of the European Union’s [FOSTER project](https://www.fosteropenscience.eu/toolkit) or/and what has been done by the [Berkeley Initiative for Transparency in the Social Sciences (BITSS)](https://www.bitss.org/resource-library/) to your needs and incentivizing funded researchers to learn more about open science. 
 * Does your organization have access to makerspaces? 
     * Who can use them? Are they open to all or only to a certain group? 
     * Consider creating a pathway for community members–particularly high schoolers, study teams organized via libraries, Girl and Boy Scouts, YMCAs, and other organized youth groups–to be able to apply to use these spaces.
@@ -298,7 +298,7 @@ To help make this event a success, TOPS will provide organizations with the foll
 
 **What is it?**
 
-Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. The core TOPS open science curriculum, [the OpenCore](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md), will provide beginners with important definitions, tools, resources and best practices. 
+Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. The core TOPS [open science curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/), will provide beginners with important definitions, tools, resources and best practices. 
 
 To help scientists and researchers deepen their knowledge of open science practices in a particular field, gain advanced skills in data science or other research-enabling practices, and gain a more nuanced understanding of open science principles, TOPS aims to create the [ScienceCore](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/ScienceCore/readme.md). 
 
@@ -319,16 +319,16 @@ Science team summer schools are five-day workshops, hosted by various partner an
 More information on TOPS open science summer schools is contained in ROSES [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init), in Section 3.2. Please refer to the official solicitation for additional details.
 * Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md) are available. 
 
-### Run an OpenCore Virtual Cohort
+### Run a Virtual Cohort
 
 **What is it?**
 
 Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. As such, one of TOPS' priorities is to develop and launch an open science curriculum that includes important definitions, tools, resources and best practices. You can learn more about the TOPS curriculum on [our GitHub](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md). 
 
-TOPS is seeking solicitations for organizations who will organize and run “virtual cohorts” of learners to take the TOPS core open science curriculum (OpenCore).    
+TOPS is seeking solicitations for organizations who will organize and run “virtual cohorts” of learners to take the TOPS core open science curriculum.    
 
 **How do I get started?**
 
-More information on TOPS OpenCore virtual cohorts is contained in ROSES [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init), in Section 3.2. Please refer to the official solicitation for additional details.
+More information on TOPS virtual cohorts is contained in ROSES [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init), in Section 3.2. Please refer to the official solicitation for additional details.
 * Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md) are available. 
 

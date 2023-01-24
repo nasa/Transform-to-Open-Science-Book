@@ -38,7 +38,7 @@ Learn more at [researchinsociety.org](https://researchinsociety.org/).
 
 ASAPbio is a biologist-driven non-profit working to promote the productive use of preprints and open peer review in the life sciences. ASAPbio looks forward to collaborating with NASA and other organizations to advance open science across disciplines this year.
 
-Learn more at [https://asapbio.org/](https://asapbio.org/).
+Learn more at [asapbio.org/](https://asapbio.org/).
 
 ### eLife
 ```{image} /About/logos/eLife.png

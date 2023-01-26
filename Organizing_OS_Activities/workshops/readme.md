@@ -4,7 +4,7 @@
 
 Here is all you need for a self-organized workshop. 
 
-TOPS welcomes you to organize and run your own workshop. Please connect with any of our trained instructors(TBD) who can teach the workshop. First, please notify us that you intend to organize a workshop by registering your workshop here(TBD). Most workshops will teach one or more modules from OpenCore.
+TOPS welcomes you to organize and run your own workshop. Please connect with any of our trained instructors(TBD) who can teach the workshop. First, please notify us that you intend to organize a workshop by registering your workshop here(TBD). Most workshops will teach one or more modules from NASA's Open Science 101.
 
 Get started with our [workshop checklist](./workshop_checklist.md). Thank you to the Carpentries and their [workshops](https://carpentries.org/workshops/) for getting us started! 
 
@@ -17,7 +17,7 @@ A TOPS workshop must meet the following requirements:
      - [Open Science Training Handbook](https://open-science-training-handbook.gitbook.io/book/on-learning-and-training)
      - [Complexity Explorer Introduction to Open science](https://www.complexityexplorer.org/courses/125-introduction-to-open-science)
      - [Train the Trainer Seminar](https://youtu.be/RbeY0dXER6g), which is not specific to open science but provides guidance for how to lead a training 
-- Must use The TOPS [OpenCore](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md) or [ScienceCore](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/ScienceCore/readme.md) curriculum
+- Must use The TOPS [Open Science 101](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/) or [ScienceCore](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/ScienceCore/readme.md) curriculum
 - Use the TOPS surveys to help us evaluate the curriculum content. Contact us [using this form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY/edit) to get the latest survey.
 - Abide by the TOPS Code of Conduct, which is found [here](/CODE_OF_CONDUCT.md).
 

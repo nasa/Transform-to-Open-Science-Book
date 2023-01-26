@@ -125,7 +125,7 @@ Ready to talk to others about your open science journey? Excited to learn more a
 
 ## Section 3: Open Science at Work
 
-Now that you have committed to adopting open science into your work, you may be wondering how the core skills listed above fit into a scientific workflow. This next section walks through how they relate to different aspects of research, and introduces additional tools. These recommendations mirror the structure that will be used in NASA’s Open Science Core Curriculum or [“OpenCore,”](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore) which will be released online in Spring 2023. 
+Now that you have committed to adopting open science into your work, you may be wondering how the core skills listed above fit into a scientific workflow. This next section walks through how they relate to different aspects of research, and introduces additional tools. These recommendations mirror the structure that will be used in NASA’s [Open Science Curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/) which will be released online in Spring 2023. 
 
 ### Ethos of Open Science: The values that drive open science practice
 
@@ -229,7 +229,7 @@ A “fast-pass” option will be available for those who are already well-versed
 
 **How do I get started?**
 
-Join the [TOPS email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to get announcements, including the dates when the first version of the core open science curriculum, the OpenCore, is released. Once available, share the OpenCore with your organization and encourage participation via newsletters, announcement boards, tweets, emails or whichever communication method you prefer. 
+Join the [TOPS email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to get announcements, including the dates when the first version of the NASA open science curriculum is released. Once available, share the Open Science 101 with your organization and encourage participation via newsletters, announcement boards, tweets, emails or whichever communication method you prefer. 
 
 **Basic Requirements**
 

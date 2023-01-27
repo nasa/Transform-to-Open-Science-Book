@@ -1,5 +1,5 @@
 # Aligning Science Across Parkinson's (ASAP)
-```{image} /About/logos/ASAP.png
+```{image} /About/logos/ASAP-logo.jpeg
 :alt: The Aligning Science Across Parkinson's (ASAP) logo.
 :width: 150px
 :align: right

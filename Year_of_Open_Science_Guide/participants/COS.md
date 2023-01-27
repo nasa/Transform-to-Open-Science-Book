@@ -4,6 +4,6 @@
 :width: 150px
 :align: right
 ```
-[The Center for Open Science is] excited to work with the community to change the default to open.
+The Center for Open Science is excited to work with the community to change the default to open.
 
 Learn more at [cos.io](https://cos.io/).

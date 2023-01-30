@@ -18,6 +18,12 @@ NASA - along with like-minded agencies across the USA government - has announced
 ## Join Us! 
 To sign up your organization and be listed below, please fill out this [form](https://forms.gle/KPKaejc2WP7dm5XVA).
 
+## Participating organizations
+- [Aligning Science Across Parkinson's (ASAP)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/ASAP.html)
+- [Center for Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/COS.html)
+- [Higher Education Leadership Initiative for Open Scholarship (HELIOS)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/HELIOS.html)
+- [PREreview](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/PREreview.html)
+
 ### For You
 Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog. All of these behaviors exemplify open science and we would like for you to join us in the Year of Open Science! 
 

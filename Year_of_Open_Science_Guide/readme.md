@@ -31,7 +31,7 @@ Is your organization ready to devote people, funds, and other resources to adopt
 
 Not sure if your organizations is ready? Explore our guide on [Organization Actions for the Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Organizations_Open_Science_Journey.html) to see what open science at the organizational level is all about! You can also review our expectations for participating organizations [here](./participants/readme.md).
 
-**We hope you will join us and the following organizations in the Year of Open Science**
+**We hope you will join us and the following organizations in the Year of Open Science!**
 - [Aligning Science Across Parkinson's (ASAP)](./participants/ASAP.md)
 - [ASAPbio](./participants/ASAPbio.md)
 - [Center for Open Science (COS)](./participants/COS.md)

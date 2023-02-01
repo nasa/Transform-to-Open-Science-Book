@@ -36,6 +36,7 @@ Not sure if your organizations is ready? Explore our guide on [Organization Acti
 - [ASAPbio](./participants/ASAPbio.md)
 - [Center for Open Science (COS)](./participants/COS.md)
 - [Children's Tumor Foundation (CTF)](./participants/CTF.md)
+- [Gathering for Open Science Hardware (GOSH)](./participants/GOSH.md)
 - [Higher Education Leadership Initiative for Open Scholarship (HELIOS)](./participants/HELIOS.md)
 - [PREreview](./participants/PREreview.md)
 

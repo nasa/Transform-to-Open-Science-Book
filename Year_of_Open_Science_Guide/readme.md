@@ -51,6 +51,3 @@ If you are excited to learn and encourage others to learn about open science as 
 Is your team interested in adopting open science principles and practices, but unsure of how to begin? The Year of Open Science team activities could help you reflect together on how to equip the people at your organization with practical knowledge in open science, as well as introduce them to a wider community of open science practitioners. 
 
 Learn how to get your team involved in [Team Actions for the Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Teams_Open_Science_Journey.html#section-1-engage-with-open-science)!
-
-### Participating Organizations
-

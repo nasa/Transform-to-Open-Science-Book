@@ -59,10 +59,13 @@ parts:
   - file: Year_of_Open_Science_Guide/readme
     sections:
     - file: Year_of_Open_Science_Guide/participants/ASAP.md
-    - file: Year_of_Open_Science_Guide/participants/SAPbio.md
+    - file: Year_of_Open_Science_Guide/participants/ASAPbio.md
+    - file: Year_of_Open_Science_Guide/participants/CTF.md
     - file: Year_of_Open_Science_Guide/participants/COS.md
+    - file: Year_of_Open_Science_Guide/participants/GOSH.md
     - file: Year_of_Open_Science_Guide/participants/HELIOS.md
     - file: Year_of_Open_Science_Guide/participants/PREreview.md
+    - file: Year_of_Open_Science_Guide/participants/readme.md
   - file: Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science
 - caption: TOPS Proposal Resources
   chapters:

@@ -24,23 +24,31 @@ The Year of Open Science has set out 4 goals to work towards:
 1. Engage underrepresented communities in the advancement of open science
 
 ## Join Us! 
-To sign up your organization and be listed below, please fill out this [form](https://forms.gle/KPKaejc2WP7dm5XVA).
+To sign up your organization and be listed below, please fill out this [form]().
 
-## Participating organizations
-- [Aligning Science Across Parkinson's (ASAP)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/ASAP.html)
-- [Center for Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/COS.html)
-- [Higher Education Leadership Initiative for Open Scholarship (HELIOS)](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/HELIOS.html)
-- [PREreview](https://nasa.github.io/Transform-to-Open-Science-Book/Year_of_Open_Science_Guide/participants/PREreview.html)
+### Participating Organizations
+Is your organization ready to devote people, funds, and other resources to adopting open science? If your leaders are committed to becoming known as an open science organization, and excited to facilitate open science research through its policy and actions, then we invite you to join us by [signing up here](https://forms.gle/KPKaejc2WP7dm5XVA)!
 
-### For You
+Not sure if your organizations is ready? Explore our guide on [Organization Actions for the Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Organizations_Open_Science_Journey.html) to see what open science at the organizational level is all about! You can also review our expectations for participating organizations [here](./participants/readme.md).
+
+**We hope you will join us and the following organizations in the Year of Open Science!**
+- [Aligning Science Across Parkinson's (ASAP)](./participants/ASAP.md)
+- [ASAPbio](./participants/ASAPbio.md)
+- [Center for Open Science (COS)](./participants/COS.md)
+- [Children's Tumor Foundation (CTF)](./participants/CTF.md)
+- [Gathering for Open Science Hardware (GOSH)](./participants/GOSH.md)
+- [Higher Education Leadership Initiative for Open Scholarship (HELIOS)](./participants/HELIOS.md)
+- [PREreview](./participants/PREreview.md)
+
+## For You and For Your Team
+The Year of Open Science is not just for organizations, check out our Year of Open Science materials for you and your team!
+
+### Individual Participation
 Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog. All of these behaviors exemplify open science and we would like for you to join us in the Year of Open Science! 
 
 If you are excited to learn and encourage others to learn about open science as part of the Year of Open Science, then we invite you to explore how to take [Individual Actions for the Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#section-3-open-science-at-work)!
 
-### For Your Team
+### Team Participation
 Is your team interested in adopting open science principles and practices, but unsure of how to begin? The Year of Open Science team activities could help you reflect together on how to equip the people at your organization with practical knowledge in open science, as well as introduce them to a wider community of open science practitioners. 
 
 Learn how to get your team involved in [Team Actions for the Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Teams_Open_Science_Journey.html#section-1-engage-with-open-science)!
-
-### For Your Entire Organization
-Is your organization is ready to devote people, funds, and other resources to adopting open science throughout the organization. If your leaders are committed to becoming known as an open science organization, and excited to facilitate open science research through its policy and actions, then we invite you to explore [Organization Actions for the Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Organizations_Open_Science_Journey.html)!

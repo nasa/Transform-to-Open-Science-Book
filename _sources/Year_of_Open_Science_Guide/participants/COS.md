@@ -1,4 +1,4 @@
-# Center for Open Science
+# Center for Open Science (COS)
 ```{image} /About/logos/cos-dark-stacked-RGB.png
 :alt: The Center for Open Science logo
 :width: 150px

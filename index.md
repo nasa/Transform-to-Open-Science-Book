@@ -44,7 +44,7 @@ Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6
 ## Contributors ✨
 
 Credit: <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-39-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-40-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 Thanks goes to these wonderful people who have contributed to our [GitHub repository](https://github.com/nasa/Transform-to-Open-Science) ([emoji key](https://allcontributors.org/docs/en/emoji-key)). Learn how you can become a contributor [here](/About/CONTRIBUTING.md).):
@@ -104,6 +104,7 @@ Thanks goes to these wonderful people who have contributed to our [GitHub reposi
       <td align="center" valign="top" width="14.28%"><a href="http://natashabatalha.github.io"><img src="https://avatars.githubusercontent.com/u/6554465?v=4?s=100" width="100px;" alt="Natasha Batalha"/><br /><sub><b>Natasha Batalha</b></sub></a><br /><a href="#content-natashabatalha" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TKantz"><img src="https://avatars.githubusercontent.com/u/111452618?v=4?s=100" width="100px;" alt="TKantz"/><br /><sub><b>TKantz</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science-Book/commits?author=TKantz" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.sophieclayton.com"><img src="https://avatars.githubusercontent.com/u/7740937?v=4?s=100" width="100px;" alt="Sophie Clayton"/><br /><sub><b>Sophie Clayton</b></sub></a><br /><a href="#maintenance-sophieclayton" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/dasaderi"><img src="https://avatars.githubusercontent.com/u/13750121?v=4?s=100" width="100px;" alt="Daniela Saderi"/><br /><sub><b>Daniela Saderi</b></sub></a><br /><a href="#content-dasaderi" title="Content">🖋</a></td>
     </tr>
   </tbody>
 </table>

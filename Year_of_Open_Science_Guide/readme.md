@@ -24,7 +24,7 @@ The Year of Open Science has set out 4 goals to work towards:
 1. Engage underrepresented communities in the advancement of open science
 
 ## Join Us! 
-To sign up your organization and be listed below, please fill out this [form]().
+To sign up your organization and be listed below, please fill out this [form](https://forms.gle/KPKaejc2WP7dm5XVA).
 
 ### Participating Organizations
 Is your organization ready to devote people, funds, and other resources to adopting open science? If your leaders are committed to becoming known as an open science organization, and excited to facilitate open science research through its policy and actions, then we invite you to join us by [signing up here](https://forms.gle/KPKaejc2WP7dm5XVA)!
@@ -37,8 +37,8 @@ Not sure if your organizations is ready? Explore our guide on [Organization Acti
 - [Center for Open Science (COS)](./participants/COS.md)
 - [Children's Tumor Foundation (CTF)](./participants/CTF.md)
 - [Gathering for Open Science Hardware (GOSH)](./participants/GOSH.md)
-- [Health Research Alliance (HRA)](./participants/HRA.html)
 - [Higher Education Leadership Initiative for Open Scholarship (HELIOS)](./participants/HELIOS.md)
+- [Health Research Alliance (HRA)](./participants/HRA.md)
 - [PREreview](./participants/PREreview.md)
 
 ## For You and For Your Team

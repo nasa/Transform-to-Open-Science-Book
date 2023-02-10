@@ -370,6 +370,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "dasaderi",
+      "name": "Daniela Saderi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13750121?v=4",
+      "profile": "https://github.com/dasaderi",
+      "contributions": [
+        "content"
+      ]
     }
   ],
   "contributorsPerLine": 7,

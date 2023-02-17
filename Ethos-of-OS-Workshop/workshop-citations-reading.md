@@ -25,7 +25,7 @@ We would like to thank the following open science subject matter experts for the
 
 The TOPS Code of Conduct can be found [here](/About/CODE_OF_CONDUCT.md). Workshop participants are expected to abide by the code of conduct and treat all other participants, facilitators, and instructors with respect. Any concerns can be communicated to the TOPS team by emailing Chelle Gentemann at chelle.gentemann@nasa.gov.
 
-To learn more about Federal activities for the Year of Open Science, please head to [open.science.gov](https://open.science.gov/). To learn morea about NASA's open-source science initiative, please head to [science.nasa.gov/open-science-overview](https://science.nasa.gov/open-science-overview). And to learn more about the Transform to Open Science mission and the Year of Open Science, feel free to explore [nasa.github.io/Transform-to-Open-Science](https://nasa.github.io/Transform-to-Open-Science/).
+To learn more about Federal activities for the Year of Open Science, please head to [open.science.gov](https://open.science.gov/). To learn more about NASA's open-source science initiative, please head to [science.nasa.gov/open-science-overview](https://science.nasa.gov/open-science-overview). And to learn more about the Transform to Open Science mission and the Year of Open Science, feel free to explore [nasa.github.io/Transform-to-Open-Science](https://nasa.github.io/Transform-to-Open-Science/).
 
 ## Workshop Introduction: Current Open Science Successes and Barriers
 
@@ -65,7 +65,7 @@ The definition of open science used by TOPS is from [open.science.gov](https://o
 "Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity." 
 Learn more about how NASA defines open science on [our website](https://nasa.github.io/Transform-to-Open-Science/what-is-open-science/).
 
-Open Science graphcis that TOPS uses in the presentation also include one by [UNESCO](https://www.scientificinfographics.com/21-towards-an-open-science) and the [Digital Skills for Library Staff and Researchers Working Group](10.5281/zenodo.3702400).
+Open Science graphics that TOPS uses in the presentation also include one by [UNESCO](https://www.scientificinfographics.com/21-towards-an-open-science) and the [Digital Skills for Library Staff and Researchers Working Group](10.5281/zenodo.3702400).
 
 To learn about the controversy surrounding "proprietary time" on science missions, we suggest starting with ["Should Webb telescope's data be open to all?"](https://www.science.org/content/article/should-webb-telescope-s-data-be-open-all) by Daniel Clery for Science.org.
 
@@ -77,7 +77,7 @@ Articles and research papers on how open science benefits individual researchers
 * "Is the open access citation advantage real? A systematic review of the citation of open access and subscription-based articles" by Allison Langham-Putrow, Caitlin Bakker, and Amy Riegelman. [https://doi.org/10.1371/journal.pone.0253129](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253129)
 * "The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles" by Heather Piwowar, Jason Priem, Vincent Larivière, Juan Pablo Alperin, Lisa Matthias, Bree Norlander, Ashley Farley, Jevin West, and Stefanie Haustein. [DOI: 10.7717/peerj.4375](https://peerj.com/articles/4375/)
 * "The citation advantage of linking publications to research data" by Giovanni Colavizza, Iain Hrynaszkiewicz, Isla Staden, Kirstie Whitaker, and Barbara McGillivray. [DOI: https://doi.org/10.1371/journal.pone.0230416](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0230416)
-* "A diverse view of science to catalyse change" by César A. Urbina-Blanco, Safia Z. Jilani, Isaiah R. Speight, Michael J. Bojdys, Tomislav Friščić, J. Fraser Stoddart, Toby L. Nelson, James Mack, Renã A. S. Robinson, Emanuel A. Waddell, Jodie L. Lutkenhaus, Murrell Godfrey, Martine I. Abboud, Stephen O. Aderinto, Damilola Aderohunmu, Lučka Bibič, João Borges, Vy M. Dong, Lori Ferrins, Fun Man Fung, Torsten John, Felicia P. L. Lim, Sarah L. Masters, Dickson Mambwe, Pall Thordarson, Maria-Magdalena Titirici, Gabriela D. Tormet-González, Miriam M. Unterlass, Austin Wadle, Vivian W.-W. Yam, and Ying-Wei Yang. [DOI: https://doi.org/10.1038/s41557-020-0529-x](https://www.nature.com/articles/s41557-020-0529-x)
+* "A diverse view of science to catalyze change" by César A. Urbina-Blanco, Safia Z. Jilani, Isaiah R. Speight, Michael J. Bojdys, Tomislav Friščić, J. Fraser Stoddart, Toby L. Nelson, James Mack, Renã A. S. Robinson, Emanuel A. Waddell, Jodie L. Lutkenhaus, Murrell Godfrey, Martine I. Abboud, Stephen O. Aderinto, Damilola Aderohunmu, Lučka Bibič, João Borges, Vy M. Dong, Lori Ferrins, Fun Man Fung, Torsten John, Felicia P. L. Lim, Sarah L. Masters, Dickson Mambwe, Pall Thordarson, Maria-Magdalena Titirici, Gabriela D. Tormet-González, Miriam M. Unterlass, Austin Wadle, Vivian W.-W. Yam, and Ying-Wei Yang. [DOI: https://doi.org/10.1038/s41557-020-0529-x](https://www.nature.com/articles/s41557-020-0529-x)
 * "Open science, communal culture, and women's participation in the movement to improve science" by Mary C Murphy, Amanda F Mejia, Jorge Mejia, Xiaoran Yan, Sapna Cheryan, Nilanjana Dasgupta, Mesmin Destin, Stephanie A Fryberg, Julie A Garcia, Elizabeth L Haines, Judith M Harackiewicz, Alison Ledgerwood, Corinne A Moss-Racusin, Lora E Park, Sylvia P Perry, Kate A Ratliff, Aneeta Rattan, Diana T Sanchez, Krishna Savani, Denise Sekaquaptewa, Jessi L Smith, Valerie Jones Taylor, Dustin B Thoman, Daryl A Wout, Patricia L Mabry, Susanne Ressl, Amanda B Diekman, and Franco Pestilli. [DOI: 10.1073/pnas.1921320117](https://pubmed.ncbi.nlm.nih.gov/32929006/) 
 
 If you are interested in learning more about advancing open science from the perspective of various stakeholders in the scientific process,the Board on Research Data and Information of the National Academies of Sciences, Engineering,and Medicine held a roundtable discussion on the topic on September 20, 2019 and made the [proceedings of that workshop](https://nap.nationalacademies.org/catalog/25725/advancing-open-science-practices-stakeholder-perspectives-on-incentives-and-disincentives) available. 
@@ -86,7 +86,7 @@ To learn more about the "JunoCam" and citizen science at NASA, we invite you to 
 
 ## How to get started with Open Science!
 
-TOPS has a guide for [Getting Started with Open Science](/Open_Science_Cookbook/Your_Open_Science_Journey.md) which has step-by-step guides for aquiring each of the [Core Open Science Skills](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#section-1-core-open-science-skills) which will be the learning outcomes from the full, TOPS Open Science Certification.
+TOPS has a guide for [Getting Started with Open Science](/Open_Science_Cookbook/Your_Open_Science_Journey.md) which has step-by-step guides for acquiring each of the [Core Open Science Skills](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#section-1-core-open-science-skills) which will be the learning outcomes from the full, TOPS Open Science Certification.
 
 To get started practicing the concepts or using the tools mentioned during the workshop, we refer you to the following resources:
 * [Metadata](https://guides.lib.unc.edu/metadata/definition)
@@ -105,3 +105,4 @@ Read all the resources and looking for more? TOPS has examples of these open sci
 ## TOPS Open Science Reading List
 
 Interested in learning more? Have more open science reading to suggest? Check out our [Open Science Reading List](/Open_Science_Cookbook/reading_list.md)! 
+

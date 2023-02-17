@@ -34,8 +34,7 @@ To learn more about Federal activities for the Year of Open Science, please head
 
 To learn more about the first image of a black hole, you can explore [this video and post](https://www.nasa.gov/ames/ocs/summerseries/19/katie-bouman) by NASA. Most of the images are from the Facebook site of the mission team, and you can find a summary [here](https://www.huffpost.com/entry/photo-woman-researcher-black-hole_n_5cae82e7e4b0a983fce3e5ad).
 
-To learn more about how open-source is enabling innovation with data from the James Webb Space Telescope, check out these links: "Whether it’s the [core data pipeline](https://github.com/spacetelescope/jwst) that turns raw images into science-ready data, [simulation tools](https://github.com/spacetelescope/webbpsf) to help astronomers understand how to best use the telescope, or the [tools](https://github.com/spacetelescope/jdaviz) that astronomers will use to make new discoveries, open source is at the heart of all of [JWST’s] innovation.” 
-* Quote Credit to Arfon Smith, from the article [“How open source is supporting NASA’s new eyes in space”](https://github.blog/2022-01-18-how-open-source-is-supporting-nasas-new-eyes-in-space/)
+To learn more about how open-source is enabling innovation with data from the James Webb Space Telescope, check out these links: "Whether it’s the [core data pipeline](https://github.com/spacetelescope/jwst) that turns raw images into science-ready data, [simulation tools](https://github.com/spacetelescope/webbpsf) to help astronomers understand how to best use the telescope, or the [tools](https://github.com/spacetelescope/jdaviz) that astronomers will use to make new discoveries, open source is at the heart of all of [JWST’s] innovation.” Quote is credited to Arfon Smith, from the article [“How open source is supporting NASA’s new eyes in space”](https://github.blog/2022-01-18-how-open-source-is-supporting-nasas-new-eyes-in-space/)
 
 To learn more about the 2011 study on scientists who were published in AAAS and who failed to make data available after a data-sharing policy was enacted, refer to ["An empirical analysis of journal policy effectiveness for computational reproducibility"](https://www.pnas.org/doi/full/10.1073/pnas.1708290115) by [Victoria Stodden](https://orcid.org/0000-0003-2015-7825), [Jennifer Seiler](https://www.pnas.org/doi/full/10.1073/pnas.1708290115#con2), and [Zhaokun Ma](https://www.pnas.org/doi/full/10.1073/pnas.1708290115#con3).
 
@@ -55,9 +54,10 @@ To learn more about the Double Asteroid Redirection Test (DART) mission, please 
 You can find TOPS' "open science wheel" on our [graphic and images page](/Organizing_OS_Activities/branding_and_graphics/readme.md).
 
 Image Credits for NASA Science Mission Photography:
-* [JSC](images-assets.nasa.gov/image/iss065e086842/iss065e086842~orig.jpg)
-* [MSFC](images-assets.nasa.gov/image/1100792/1100792~orig.tif)
-* [JPL](images-assets.nasa.gov/image/PIA24466/PIA24466~orig.jpg) and [JPL](images-assets.nasa.gov/image/PIA25634/PIA25634~orig.jpg)
+* JSC: images-assets.nasa.gov/image/iss065e086842/iss065e086842~orig.jpg
+* MSFC: images-assets.nasa.gov/image/1100792/1100792~orig.tif
+* JPL: images-assets.nasa.gov/image/PIA24466/PIA24466~orig.jpg
+* JPL: images-assets.nasa.gov/image/PIA25634/PIA25634~orig.jpg
 * [Worldview.earthdata](https://worldview.earthdata.nasa.gov/)
 
 ## What is Open Science? 
@@ -66,7 +66,7 @@ The definition of open science used by TOPS is from [open.science.gov](https://o
 "Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity." 
 Learn more about how NASA defines open science on [our website](https://nasa.github.io/Transform-to-Open-Science/what-is-open-science/).
 
-Open Science graphics that TOPS uses in the Ethos of Open Science workshop include ["Towards an Open Science" from UNESCO](https://www.scientificinfographics.com/21-towards-an-open-science) and the ["Open Science Skills Visualisation" from the Digital Skills for Library Staff and Researchers (LIBER) Working Group]([10.5281/zenodo.3702400](https://zenodo.org/record/3702401#.Y-_S1uzMKW0)).
+Open Science graphics that TOPS uses in the Ethos of Open Science workshop include ["Towards an Open Science" from UNESCO](https://www.scientificinfographics.com/21-towards-an-open-science) and the ["Open Science Skills Visualisation" from the Digital Skills for Library Staff and Researchers (LIBER) Working Group](https://zenodo.org/record/3702401#.Y-_S1uzMKW0).
 
 To learn about the controversy surrounding "proprietary time" on science missions, we suggest starting with ["Should Webb telescope's data be open to all?"](https://www.science.org/content/article/should-webb-telescope-s-data-be-open-all) by Daniel Clery for Science.org.
 

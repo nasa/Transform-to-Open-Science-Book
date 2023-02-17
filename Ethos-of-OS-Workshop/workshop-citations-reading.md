@@ -27,8 +27,12 @@ The TOPS Code of Conduct can be found [here](/About/CODE_OF_CONDUCT.md). Worksho
 
 To learn more about Federal activities for the Year of Open Science, please head to [open.science.gov](https://open.science.gov/). To learn morea about NASA's open-source science initiative, please head to [science.nasa.gov/open-science-overview](https://science.nasa.gov/open-science-overview). And to learn more about the Transform to Open Science mission and the Year of Open Science, feel free to explore [nasa.github.io/Transform-to-Open-Science](https://nasa.github.io/Transform-to-Open-Science/).
 
+## What is Open Science? 
 
+To learn more about the **first image of a black hole** you can explore [this video and post](https://www.nasa.gov/ames/ocs/summerseries/19/katie-bouman) by NASA. Most of the images are from the team's Facebook site, and you can find a summary of them [here](https://www.huffpost.com/entry/photo-woman-researcher-black-hole_n_5cae82e7e4b0a983fce3e5ad).
 
+Quote from Arfon Smith: "Whether it’s the core data pipeline that turns raw images into science-ready data, simulation tools to help astronomers understand how to best use the telescope, or the tools that astronomers will use to make new discoveries, open source is at the heart of all of [JWST’s] innovation.” 
+Arfon Smith, (“How open source is supporting NASA’s new eyes in space”, Numrich, 2022)
 
 
 ## TOPS Open Science Reading List

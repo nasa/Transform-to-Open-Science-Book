@@ -19,7 +19,7 @@ We would like to thank the following open science subject matter experts for the
 |  |Stephen Klusza|Esther Plomp| Babatunde Onabajo| Batool Almarzouq |Reina Camacho Toro|
 |  |Mariana Meireles| Pauline Karega |      | Melissa Black|Elio Campitelli|
 
-[Link to SME bio's!](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/curriculum_leads.md#2022-tops-curricula-module-leads).
+[Link to SME bios!](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/curriculum_leads.md#2022-tops-curricula-module-leads).
 
 ## Thank you TOPS team and community members!
 [The TOPS community](https://github.com/nasa/Transform-to-Open-Science#contributors-) has helped to curate these resources throughout our mission. Thank you for your enthusiasm and expertise! 

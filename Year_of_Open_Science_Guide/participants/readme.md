@@ -1,4 +1,4 @@
-## Expectations for Organizations Joining the Year of Open Science 
+## Expectations for Organizations Joining a Year of Open Science 
 
 **To sign up your organization, please fill out [this form](https://forms.gle/KPKaejc2WP7dm5XVA).**
 
@@ -13,7 +13,7 @@ The four goals are:
 Additionally, TOPS asks that:
 * Within a month of joining, a member of the participating organization adds the following to the JupyterBook page that TOPS will create on our Open Science Guide:
      * A brief description about how the organization supports open science
-     * A summary of the Year of Open Science goal the organization will be pursuing 
+     * A summary of a Year of Open Science goal the organization will be pursuing for 2023
 * Each organization commits to sending at least one representative to TOPS’ virtual forums and/or workshops
 * Each organization adds a link on their website pointing to the TOPS Open Science Guide, and to encourage its members and/or employees to participate in TOPS' events
 

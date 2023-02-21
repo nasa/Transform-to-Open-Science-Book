@@ -7,7 +7,7 @@ The United States government [defines](https://open.science.gov/) open science a
 We believe that open science—-opening up the scientific process from idea inception to result—-increases access to knowledge and expands opportunities for participation. Sharing the data, code, results, and knowledge associated with the scientific process enables more inclusive, diverse and equitable participation in science, while also leading to more transparent, replicable, and reproducible results. But achieving this openness requires changing how we work, to help us move forward together.
 
 ## NASA’s Transform to Open Science mission
-To help catalyze the move to open science and support changing cultural norms, NASA is championing the Transform to Open Science (TOPS) mission and has declared 2023 the Year of Open Science. 
+To help catalyze the move to open science and support changing cultural norms, NASA is championing the Transform to Open Science (TOPS) mission and has declared 2023 a Year of Open Science. 
 
 TOPS is a $40 million, 5-year NASA Science Mission Directorate mission geared towards accelerating the adoption and understanding of open science. TOPS will focus on four areas of action—engagement, capacity sharing, incentives, and moving towards opennessto—to make progress against three goals:
 - To accelerate major scientific discoveries
@@ -30,11 +30,11 @@ Other researchers and organizations have come to advocate for open science throu
 
 This guide is for you, your team, or your organization to become more involved with this movement. *We are so glad that you are here on the road to open science with us!*
 
-## TOPS and the Year of Open Science
+## TOPS and a Year of Open Science
 
-2023 is the Year Of Open Science! Learn more about Federal Year of Open science at [https://open.science.gov/](https://open.science.gov/). 
+2023 is a Year Of Open Science! Learn more about Federal Year of Open science at [https://open.science.gov/](https://open.science.gov/). 
 
-At NASA, we hope that the Year of Open Science will spark change and inspire open science engagement through events and activities that will shift the current paradigm and change practices. *The Transform to Open Science (TOPS) community coordinates efforts designed to rapidly transform agencies, organizations, and communities.*
+At NASA, we hope that this Year of Open Science will spark change and inspire open science engagement through events and activities that will shift the current paradigm and change practices. *The Transform to Open Science (TOPS) community coordinates efforts designed to rapidly transform agencies, organizations, and communities.*
 
 ## Join the TOPS Mailing List
 Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activities. If you are ready to become more involved or have an idea for a collaboration, you can [contact us using this form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY).

@@ -28,7 +28,7 @@ When highlighting how your organization is already engaging in open science, you
 * Examples (provide links) of publications that followed the open science policies that you are highlighting. The projects chosen may not be good examples of every open science principle, and that is okay! Describe what was done well, and point to the relevant organizational practice and/or policy. 
 
 ### Join the TOPS Movement
-To help catalyze the move to open science and support changing cultural norms, NASA is championing the Transform to Open Science (TOPS) mission. As part of that mission, NASA has decreed that [**2023 as the Year Of Open Science**](https://github.com/nasa/Transform-to-Open-Science/blob/main/Year_of_Open_Science_Guide/readme.md). But it does not stop there. TOPS is a growing, global initiative rooted in community values that aims to spark change and inspire broad open science engagement. Through TOPS [four areas of action](https://github.com/nasa/Transform-to-Open-Science#implementation), the mission will increase awareness about open science, provide learning resources, and host and co-host events to support a cultural transition to open science. 
+To help catalyze the move to open science and support changing cultural norms, NASA is championing the Transform to Open Science (TOPS) mission. As part of that mission, NASA has decreed that [**2023 as a Year Of Open Science**](https://github.com/nasa/Transform-to-Open-Science/blob/main/Year_of_Open_Science_Guide/readme.md). But it does not stop there. TOPS is a growing, global initiative rooted in community values that aims to spark change and inspire broad open science engagement. Through TOPS [four areas of action](https://github.com/nasa/Transform-to-Open-Science#implementation), the mission will increase awareness about open science, provide learning resources, and host and co-host events to support a cultural transition to open science. 
 
 **Through collaboration with other organizations, NASA will support and enable the scientific community to move towards open science.** The following list of planned activities represents the areas in which TOPS aims to take action to transform towards open science. If you and your organization are ready to add your strength--via your people, resources, and work--to this transformation, we invite you to join us in these areas of action. 
 
@@ -188,17 +188,17 @@ Recommendations for this page were pulled from the following publications. Thank
 
 **What is it?**
 
-The Year of Open Science will activate our communities, encouraging everyone to adopt and champion open science practices. TOPS invites all organizations to join us on the Year of Open Science, and suggests that organizations set aside a budget for targeted activities best suited to transform the culture in your organization. 
+The Year of Open Science will activate our communities, encouraging everyone to adopt and champion open science practices. TOPS invites all organizations to join us during a Year of Open Science, and suggests that organizations set aside a budget for targeted activities best suited to transform the culture in your organization. 
 
 **How do I get started?**
 
-This collaboration guide has examples of several Year of Open Science activities, including hackathons, open science training, webinars, listening sessions, and town halls. The employees of your organization may be more motivated to participate in these if they are compensated for their time; and some of the activities require funding for the resources necessary to complete them. Decide on the Year of Open Science strategy that works for you, and consider if pre-existing budgets–for example, for training–can be utilized. 
+This collaboration guide has examples of several Year of Open Science activities, including hackathons, open science training, webinars, listening sessions, and town halls. The employees of your organization may be more motivated to participate in these if they are compensated for their time; and some of the activities require funding for the resources necessary to complete them. Decide on a Year of Open Science strategy that works for you, and consider if pre-existing budgets–for example, for training–can be utilized. 
 
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
-* Packet of engagement ideas for the Year of Open Science 
+* Packet of engagement ideas for a Year of Open Science 
 
 ### Host a Hackathon 
 

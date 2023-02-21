@@ -4,7 +4,7 @@ After deepening [your understanding of open science](./Your_Open_Science_Journey
 
 Looking to inspire your team-mates to also adopt open science? Or are you ready to re-build some of your team practices to better mirror open science principles? Begin with **Section 1: Engage With Open Science**
 
-Looking to join TOPS activities in the Year of Open Science and beyond? Skip ahead to **Section 2: Team Collaborations with TOPS**
+Looking to join TOPS activities for a Year of Open Science? Skip ahead to **Section 2: Team Collaborations with TOPS**
 
 **Is your team ready to embark on a journey towards open science?**
 
@@ -42,8 +42,8 @@ This can seem like a daunting task, but any amount of openness, such as putting 
     * Can this code be made publicly available via GitHub, BitBucket or other mechanisms? 
     * Consider how much of the work of your group ought to be kept “closed” and how much can be made available to advance the work of others, particularly young professionals and early career researchers.
   
-### Get Involved in the Year of Open Science
-Ready to talk to others about your open science journey? Excited to learn more about open science at NASA? [Join in](/Year_of_Open_Science_Guide/readme.md) on the activities for 2023 the Year of Open Science!
+### Get Involved in a Year of Open Science
+Ready to talk to others about your open science journey? Excited to learn more about open science at NASA? [Join in](/Year_of_Open_Science_Guide/readme.md) on the activities for 2023!
 
 ## Section 2: Team Collaborations with TOPS
 
@@ -115,7 +115,7 @@ To help make this event a success, TOPS will provide organizations with the foll
 
 To complement its [open science curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md), TOPS is creating a series of TOPS digital micro-badges, which can be earned by either completing open science activities or the modules of the TOPS open science curriculum. Participants who complete all five modules will also earn the TOPS open science badge. Additional, supporting information on the TOPS badging program can be found on our GitHub, in [Micro-Badging Details](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area3_Incentives/micro-badging_details.md).
 
-Teams can encourage one another to support the Year of Open Science by setting a team “badging goal,” and conduct a targeted communications campaign to reach that goal by the end of 2023.    
+Teams can encourage one another to support a Year of Open Science by setting a team “badging goal,” and conduct a targeted communications campaign to reach that goal by the end of 2023.    
 
 **How do I get started?**
 
@@ -140,4 +140,4 @@ To help make this event a success, TOPS will provide organizations with the foll
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
 ### Engage at Conferences
-Wish to invite others to engage with the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Guide](/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md) to learn how.
+Wish to invite others to engage with a Year of Open Science at your next conference? Navigate to the [TOPS Conferences Guide](/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md) to learn how.

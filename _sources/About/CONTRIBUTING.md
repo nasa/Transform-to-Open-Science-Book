@@ -1,6 +1,6 @@
 # Contributing to Our GitHub
 
-This page is your one-stop shop for uncovering the many resources for open science that are on the TOPS GitHub! Read on to learn more about how to use our GitHub, how to engage with TOPS and participate in the Year of Open Science, and identify resources to help you, your research team, and your organization get started with open science.
+This page is your one-stop shop for uncovering the many resources for open science that are on the TOPS GitHub! Read on to learn more about how to use our GitHub, how to engage with TOPS and participate in a Year of Open Science, and identify resources to help you, your research team, and your organization get started with open science.
 
 Before contributing, please read our [LICENSE](/About/LICENSE.md) and our [Code of Conduct](/About/CODE_OF_CONDUCT.md). A summary of the code of conduct is also below.
 

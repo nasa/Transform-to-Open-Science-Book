@@ -120,8 +120,8 @@ We have collected tutorials for getting started with open-source coding in our [
 ### Start Thinking Like a Data Scientist
 Dr. [Lawrence Gray](https://www.linkedin.com/in/larry-gray-phd/) presented at PyData New York City in November 2022 on 20 easy steps that we can all take to build confidence in our data science skills. Many researchers might not think of themselves as “data scientists” necessarily, but everyone who analyzes data can benefit from his [“20 Ideas To Build Social Capital In The Data Science Ecosystem”](https://zenodo.org/record/7419059#.Y5YSMYfMI2w). 
 
-### Get Involved in the Year of Open Science
-Ready to talk to others about your open science journey? Excited to learn more about open science at NASA? [Join in](/Year_of_Open_Science_Guide/readme.md) on the activities for 2023 the Year of Open Science!
+### Get Involved in a Year of Open Science
+Ready to talk to others about your open science journey? Excited to learn more about open science at NASA? [Join in](/Year_of_Open_Science_Guide/readme.md) on the activities for 2023!
 
 ## Section 3: Open Science at Work
 
@@ -270,4 +270,4 @@ To help make this effort a success, TOPS will provide organizations with the fol
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name.
 
 ### Open Science at Conferences
-Wish to promote the Year of Open Science at your next conference? Navigate to the [TOPS Conferences Guide](/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md) to learn how.
+Wish to promote a Year of Open Science at your next conference? Navigate to the [TOPS Conferences Guide](/Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science.md) to learn how.

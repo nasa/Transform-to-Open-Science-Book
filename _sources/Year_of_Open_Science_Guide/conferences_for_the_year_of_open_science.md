@@ -1,4 +1,4 @@
-# Conferences with TOPS for the Year of Open Science
+# Conferences with TOPS for a Year of Open Science
 
 NASA has declared 2023 as the Year of Open Science! The TOPS team will be participating at numerous conferences throughout the nation (and internationally) to encourage the wider scientific community join us in promoting, engaging with, and strengthening open science. This guide will help get you and your organization started if you wish to collaborate with us. 
 
@@ -93,7 +93,7 @@ To help make this effort a success, TOPS will provide organizations with the fol
     * Support of a small, career-focused booth with information resources for attendees 
     * TOPS staff at the booth day(s) of event(s), to include answering questions, promoting the TOPS [open science curricula](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md), and providing information on other TOPS opportunities
 
-Other options for co-creation to strengthen the Year of Open Science can be found in Section 2 of each [Guide to Open Science](/Open_Science_Cookbook/readme.md). Some of our favorties are 
+Other options for co-creation to strengthen a Year of Open Science can be found in Section 2 of each [Guide to Open Science](/Open_Science_Cookbook/readme.md). Some of our favorties are 
 * Create a new open science award
 * Recognize open science in your community
 * Host open science listening sessions at your conference

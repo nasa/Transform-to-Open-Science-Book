@@ -70,7 +70,7 @@ A (short) collection of articles and research papers on how open science benefit
 * "A diverse view of science to catalyze change" by César A. Urbina-Blanco, Safia Z. Jilani, Isaiah R. Speight, Michael J. Bojdys, Tomislav Friščić, J. Fraser Stoddart, Toby L. Nelson, James Mack, Renã A. S. Robinson, Emanuel A. Waddell, Jodie L. Lutkenhaus, Murrell Godfrey, Martine I. Abboud, Stephen O. Aderinto, Damilola Aderohunmu, Lučka Bibič, João Borges, Vy M. Dong, Lori Ferrins, Fun Man Fung, Torsten John, Felicia P. L. Lim, Sarah L. Masters, Dickson Mambwe, Pall Thordarson, Maria-Magdalena Titirici, Gabriela D. Tormet-González, Miriam M. Unterlass, Austin Wadle, Vivian W.-W. Yam, and Ying-Wei Yang. [DOI: https://doi.org/10.1038/s41557-020-0529-x](https://www.nature.com/articles/s41557-020-0529-x)
 * "Open science, communal culture, and women's participation in the movement to improve science" by Mary C Murphy, Amanda F Mejia, Jorge Mejia, Xiaoran Yan, Sapna Cheryan, Nilanjana Dasgupta, Mesmin Destin, Stephanie A Fryberg, Julie A Garcia, Elizabeth L Haines, Judith M Harackiewicz, Alison Ledgerwood, Corinne A Moss-Racusin, Lora E Park, Sylvia P Perry, Kate A Ratliff, Aneeta Rattan, Diana T Sanchez, Krishna Savani, Denise Sekaquaptewa, Jessi L Smith, Valerie Jones Taylor, Dustin B Thoman, Daryl A Wout, Patricia L Mabry, Susanne Ressl, Amanda B Diekman, and Franco Pestilli. [DOI: 10.1073/pnas.1921320117](https://pubmed.ncbi.nlm.nih.gov/32929006/) 
 
-## NASA Image Credits:
+## NASA Image Credits
 You can find TOPS' "open science wheel" on our [graphic and images page](/Organizing_OS_Activities/branding_and_graphics/readme.md).  
 
 Image Credits for NASA Science Mission Photography:

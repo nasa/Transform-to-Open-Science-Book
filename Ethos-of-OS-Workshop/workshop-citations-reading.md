@@ -85,20 +85,19 @@ Image Credits for NASA Science Mission Photography:
 TOPS has a guide for [Getting Started with Open Science](/Open_Science_Cookbook/Your_Open_Science_Journey.md) which has step-by-step guides for acquiring each of the [Core Open Science Skills](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#section-1-core-open-science-skills) which will be the learning outcomes from the full, TOPS Open Science Certification.
 
 To get started practicing the concepts or using the tools specifically mentioned during the Ethos of Open Science Workshop, we refer you to the following resources:
-* [Metadata](https://guides.lib.unc.edu/metadata/definition)
-* [Digital Persistent Identifiers](https://sis.web.cern.ch/submit-and-publish/persistent-identifiers/what-are-pids#)
-     * [ORCID](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#get-an-orcid)
-     * [DOI](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#assign-a-doi)
-* [Zenodo](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#get-a-zenodo-account)
-* [GitHub](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#get-a-github)
-* [Licensing](http://blog.psyarxiv.com/2018/05/14/licensing-work-psyarxiv/)
-     * Written content – [Creative Commons licenses allow re-use](https://creativecommons.org/)
-     * Data – [Creative Commons Public Domain (CC0) licenses](https://creativecommons.org/publicdomain/zero/1.0/)
-     * Computer code – [The Open Source Initiative has a set of licenses designed specifically for code projects](https://opensource.org/licenses)
+* Get started with [Metadata](https://guides.lib.unc.edu/metadata/definition)
+* Learn more about [Digital Persistent Identifiers](https://sis.web.cern.ch/submit-and-publish/persistent-identifiers/what-are-pids#)
+     * Get an [ORCID](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#get-an-orcid)
+     * Get a [DOI](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#assign-a-doi)
+* Get started with [Zenodo](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#get-a-zenodo-account)
+* Get started with [GitHub](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#get-a-github)
+* Learn more about [Licensing](http://blog.psyarxiv.com/2018/05/14/licensing-work-psyarxiv/)
+     * For **written content** – [Creative Commons licenses allow re-use](https://creativecommons.org/)
+     * For **data** – [Creative Commons Public Domain (CC0) licenses](https://creativecommons.org/publicdomain/zero/1.0/)
+     * For **computer code** – [The Open Source Initiative has a set of licenses designed specifically for code projects](https://opensource.org/licenses)
 
 Read all the resources and looking for more? TOPS has examples of these open science skills in action in [Section 3 of the Open Science Guide](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#section-3-open-science-at-work).
 
 ## TOPS Open Science Reading List
 
 Interested in learning more? Have more open science reading to suggest? Check out our [Open Science Reading List](/Open_Science_Cookbook/reading_list.md)! 
-

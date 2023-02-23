@@ -6,24 +6,6 @@ If you wish to receive an email when the remaining modules become available, ple
 
 This page contains links to all research, case studies, and scenarios posed during the workshop, as well as suggestions for further reading. Resources are grouped by topic, and loosely follow the presentation order of the workshop. 
 
-## Thank you open science SMEs!
-We would like to thank the following open science subject matter experts for their leadership and contribution to workshop materials:
-|            | Ethos of Open Science | Open Data | Open Software | Open Tools | Open Results |
-| ---------- | --------------- | --------- | ----- | ------------------ | ------------------ |
-| Lead       | Yo Yehudi       |Sara El-Gebali | James Powell, Cameron Riddell | Shilaan Alzahawi | Natasha Batalha |
-|  | Amber Osman| Yuhan Rao| Johanna Bayer| Flavio Azevedo|Daniela Saderi |
-|  | Miguel Silan| Jannatul Ferdush| Ana Vaz | Rebecca Ringuette| Malvika Sharan|
-|  | Ismael Kherroubi Garcia| Siobhan Mackenzie Hall| Sierra Kaufman| Elli Papadopoulou |Michel Lacerda |
-|  | Tomoko Bell| Hugh Shanahan| Taher Chegini| Saranjeet Kaur Bhogal|Daniel Dunleavy|
-|  | Shamsuddeen Muhammad| Andrea Medina-Smith| Yeo Keat Ee| Tyson Swetnam|Anne Fouilloux|
-|  |Stephen Klusza|Esther Plomp| Babatunde Onabajo| Batool Almarzouq |Reina Camacho Toro|
-|  |Mariana Meireles| Pauline Karega |      | Melissa Black|Elio Campitelli|
-
-[Link to SME bios!](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/curriculum_leads.md#2022-tops-curricula-module-leads).
-
-## Thank you TOPS team and community members!
-[The TOPS community](https://github.com/nasa/Transform-to-Open-Science#contributors-) has helped to curate these resources throughout our mission. Thank you for your enthusiasm and expertise! 
-
 ## Workshop Introduction
 
 The TOPS Code of Conduct can be found [here](/About/CODE_OF_CONDUCT.md). Workshop participants are expected to abide by the code of conduct and treat all other participants, facilitators, and instructors with respect. Any concerns can be communicated to the TOPS team by emailing Chelle Gentemann at chelle.gentemann@nasa.gov.
@@ -101,3 +83,21 @@ Read all the resources and looking for more? TOPS has examples of these open sci
 ## TOPS Open Science Reading List
 
 Interested in learning more? Have more open science reading to suggest? Check out our [Open Science Reading List](/Open_Science_Cookbook/reading_list.md)! 
+
+## Thank you open science SMEs!
+We would like to thank the following open science subject matter experts (SMEs) for their leadership and contribution to workshop materials:
+|            | Ethos of Open Science | Open Data | Open Software | Open Tools | Open Results |
+| ---------- | --------------- | --------- | ----- | ------------------ | ------------------ |
+| Lead       | Yo Yehudi       |Sara El-Gebali | James Powell, Cameron Riddell | Shilaan Alzahawi | Natasha Batalha |
+|  | Amber Osman| Yuhan Rao| Johanna Bayer| Flavio Azevedo|Daniela Saderi |
+|  | Miguel Silan| Jannatul Ferdush| Ana Vaz | Rebecca Ringuette| Malvika Sharan|
+|  | Ismael Kherroubi Garcia| Siobhan Mackenzie Hall| Sierra Kaufman| Elli Papadopoulou |Michel Lacerda |
+|  | Tomoko Bell| Hugh Shanahan| Taher Chegini| Saranjeet Kaur Bhogal|Daniel Dunleavy|
+|  | Shamsuddeen Muhammad| Andrea Medina-Smith| Yeo Keat Ee| Tyson Swetnam|Anne Fouilloux|
+|  |Stephen Klusza|Esther Plomp| Babatunde Onabajo| Batool Almarzouq |Reina Camacho Toro|
+|  |Mariana Meireles| Pauline Karega |      | Melissa Black|Elio Campitelli|
+
+[Link to SME bios!](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area2_Capacity_Sharing/Open-Science-101/curriculum_leads.md#2022-tops-curricula-module-leads).
+
+## Thank you TOPS team and community members!
+[The TOPS community](https://github.com/nasa/Transform-to-Open-Science#contributors-) has helped to curate these resources throughout our mission. Thank you for your enthusiasm and expertise! 

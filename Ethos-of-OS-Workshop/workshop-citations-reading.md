@@ -23,19 +23,22 @@ Open Science graphics that TOPS uses in the Ethos of Open Science workshop inclu
 
 ## Stories of Open Science Successes and Barriers
 The following open science stories were shared during the TOPS Ethos of Open Science Workshop:
-* Learn more about the first image of a black hole, [in this video and post](https://www.nasa.gov/ames/ocs/summerseries/19/katie-bouman) by NASA. 
-     * Learn more about the team behind the black hole image [here](https://www.huffpost.com/entry/photo-woman-researcher-black-hole_n_5cae82e7e4b0a983fce3e5ad).
-* Learn more about open-source and the James Webb Space Telescope [here](https://github.blog/2022-01-18-how-open-source-is-supporting-nasas-new-eyes-in-space/). You can also explore some of the repositories at play:
+* First image of a black hole 
+     * [Video with more info](https://www.nasa.gov/ames/ocs/summerseries/19/katie-bouman) by NASA. 
+     * [Team behind the black hole image](https://www.huffpost.com/entry/photo-woman-researcher-black-hole_n_5cae82e7e4b0a983fce3e5ad).
+* [James Webb Space Telescope & Open-Source](https://github.blog/2022-01-18-how-open-source-is-supporting-nasas-new-eyes-in-space/). You can also explore some of the software repositories at play:
      * [Core data pipeline](https://github.com/spacetelescope/jwst)
      * [Simulation tools](https://github.com/spacetelescope/webbpsf) 
      * [Astronomy tools](https://github.com/spacetelescope/jdaviz)
-* Learn more about how open science practices during COVID-19 accelerated research, from the [UNESCO Open Science Conference of 2023](https://media.un.org/en/asset/k1h/k1hey0yqxm). 
-* Learn more about Wiley open access publication, refer to [their article "The Open Access Advantage"](https://authorservices.wiley.com/author-resources/Journal-Authors/open-access/the-open-access-advantage.html).
-     * Image credit for the photo of Wiley licenses worldwide is [here](https://www.wiley.com/content/dam/wiley-network/en/b2c/images/publishing/research-publishing/choosing-a-journal/institutions-with-access-to-wiley-journal-content-around-the-world-map-2.jpeg).
-* Learn more about the Double Asteroid Redirection Test (DART) mission, on the [mission pages](https://www.nasa.gov/press-release/nasa-confirms-dart-mission-impact-changed-asteroid-s-motion-in-space).
-* Learn about the controversy surrounding "proprietary time" on science missions, we suggest starting with ["Should Webb telescope's data be open to all?"](https://www.science.org/content/article/should-webb-telescope-s-data-be-open-all) by Daniel Clery for Science.org.
-* Learn more about the "JunoCam" and citizen science at NASA, we invite you to read ["Citizen Scientists Enhance New Europa Images From NASA’s Juno"](https://www.nasa.gov/feature/jpl/citizen-scientists-enhance-new-europa-images-from-nasa-s-juno) and [Citizen Science Projects from NASA Science](https://science.nasa.gov/citizenscience).
-* Learn more about advancing open science from the perspective of various stakeholders in the scientific process, the Board on Research Data and Information of the National Academies of Sciences, Engineering,and Medicine held a roundtable discussion on the topic on September 20, 2019 and made the [proceedings of that workshop](https://nap.nationalacademies.org/catalog/25725/advancing-open-science-practices-stakeholder-perspectives-on-incentives-and-disincentives) available. 
+* Ingenuity Mars Helicopter ("Ginny")
+     * [Meet the Open-Source Software Powering NASA’s Ingenuity Mars Helicopter](https://www.nasa.gov/feature/jpl/meet-the-open-source-software-powering-nasa-s-ingenuity-mars-helicopter)
+* Controversy surrounding "proprietary time" on science missions 
+     * ["Should Webb telescope's data be open to all?"](https://www.science.org/content/article/should-webb-telescope-s-data-be-open-all) by Daniel Clery for Science.org.
+* "JunoCam" and citizen science at NASA
+     * ["Citizen Scientists Enhance New Europa Images From NASA’s Juno"](https://www.nasa.gov/feature/jpl/citizen-scientists-enhance-new-europa-images-from-nasa-s-juno) 
+     * [Citizen Science Projects from NASA Science](https://science.nasa.gov/citizenscience).
+* Advancing open science from the perspective of various stakeholders in the scientific process: Roundtable discussion at the Board on Research Data and Information of the National Academies of Sciences, Engineering,and Medicine 
+     * [Proceedings](https://nap.nationalacademies.org/catalog/25725/advancing-open-science-practices-stakeholder-perspectives-on-incentives-and-disincentives) available. 
 
 ## Cited Studies 
 A (short) collection of articles and research papers on how open science benefits individual researchers:

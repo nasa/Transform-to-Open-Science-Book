@@ -26,22 +26,27 @@ Open Science graphics that TOPS uses in the Ethos of Open Science workshop inclu
 
 ## Stories of Open Science Successes and Barriers
 The following open science stories were shared during the TOPS Ethos of Open Science Workshop:
-* First image of a black hole: 
-     * [Video with more info](https://www.nasa.gov/ames/ocs/summerseries/19/katie-bouman) by NASA 
-     * [Team behind the black hole image](https://www.huffpost.com/entry/photo-woman-researcher-black-hole_n_5cae82e7e4b0a983fce3e5ad)
-* [James Webb Space Telescope & Open-Source](https://github.blog/2022-01-18-how-open-source-is-supporting-nasas-new-eyes-in-space/). You can also explore some of the software repositories at play:
-     * [Core data pipeline](https://github.com/spacetelescope/jwst)
-     * [Simulation tools](https://github.com/spacetelescope/webbpsf) 
-     * [Astronomy tools](https://github.com/spacetelescope/jdaviz)
-* Ingenuity Mars Helicopter ("Ginny"):
+* First image of a black hole 
+     * [Video with more info](https://www.nasa.gov/ames/ocs/summerseries/19/katie-bouman) by NASA. 
+     * [Team behind the black hole image](https://www.huffpost.com/entry/photo-woman-researcher-black-hole_n_5cae82e7e4b0a983fce3e5ad).
+* Birds on NEXRAD: Purple Martins respond to changes in the climate
+     * [The Birds in the Cloud: How the University of Oklahoma Uses NEXRAD Data to Study Birds](https://aws.amazon.com/blogs/publicsector/the-birds-in-the-cloud-how-the-university-of-oklahoma-uses-nexrad-data-to-study-birds/)
+     * [Climate Patterns Thousands of Miles Away Affect US Bird Migration](https://climate.nasa.gov/news/3201/climate-patterns-thousands-of-miles-away-affect-us-bird-migration/)
+* [James Webb Space Telescope & Open-Source](https://github.blog/2022-01-18-how-open-source-is-supporting-nasas-new-eyes-in-space/). 
+     * You can also explore some of the software repositories at play:
+          * [Core data pipeline](https://github.com/spacetelescope/jwst)
+          * [Simulation tools](https://github.com/spacetelescope/webbpsf) 
+          * [Astronomy tools](https://github.com/spacetelescope/jdaviz)
+     * [Webb telescope spots CO2 on exoplanet for first time: what it means for finding alien life](https://www.nature.com/articles/d41586-022-02350-2)
+* Ingenuity Mars Helicopter ("Ginny")
      * [Meet the Open-Source Software Powering NASA’s Ingenuity Mars Helicopter](https://www.nasa.gov/feature/jpl/meet-the-open-source-software-powering-nasa-s-ingenuity-mars-helicopter)
-* Controversy surrounding "proprietary time" on science missions: 
+* Controversy surrounding "proprietary time" on science missions 
      * ["Should Webb telescope's data be open to all?"](https://www.science.org/content/article/should-webb-telescope-s-data-be-open-all) by Daniel Clery for Science.org.
-* "JunoCam" and citizen science at NASA:
+* "JunoCam" and citizen science at NASA
      * ["Citizen Scientists Enhance New Europa Images From NASA’s Juno"](https://www.nasa.gov/feature/jpl/citizen-scientists-enhance-new-europa-images-from-nasa-s-juno) 
-     * [Citizen Science Projects from NASA Science](https://science.nasa.gov/citizenscience)
-* Advancing open science from the perspective of various stakeholders in the scientific process: Roundtable discussion at the Board on Research Data and Information of the National Academies of Sciences, Engineering,and Medicine:
-     * [Proceedings](https://nap.nationalacademies.org/catalog/25725/advancing-open-science-practices-stakeholder-perspectives-on-incentives-and-disincentives) available 
+     * [Citizen Science Projects from NASA Science](https://science.nasa.gov/citizenscience).
+* Advancing open science from the perspective of various stakeholders in the scientific process: Roundtable discussion at the Board on Research Data and Information of the National Academies of Sciences, Engineering,and Medicine 
+     * [Proceedings](https://nap.nationalacademies.org/catalog/25725/advancing-open-science-practices-stakeholder-perspectives-on-incentives-and-disincentives) available. 
 
 ## Cited Studies 
 A (short) collection of articles and research papers on how open science benefits individual researchers:
@@ -49,8 +54,12 @@ A (short) collection of articles and research papers on how open science benefit
 * ["Tropospheric temperature trends: history of an ongoing controversy"](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1318&context=usdeptcommercepub) (2011) by Thorne, Peter W.; Lanzante, John R.; Peterson, Thomas C.; Seidel, Dian J.; and Shine, Keith P.
 * ["Systemic Racism Reflected in Grant Allocations, Researchers Argue"](https://physics.aps.org/articles/v15/173)
 * ["Dual-Anonymous Peer Review"](https://science.nasa.gov/researchers/dual-anonymous-peer-review) from NASA Science
+* [Women who win prizes get less mondy and prestige](https://www.nature.com/articles/d41586-019-00091-3)
+* [Equity, Diversity and Inclusion: Racial inequity in grant funding from the US National Institutes of Health](https://elifesciences.org/articles/65697)
+* [Race, Ethnicity, and NIH Research Awards](https://www.science.org/doi/full/10.1126/science.1196783)
+* [Systemic racial disparities in funding rates at the National Science Foundation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9708090/)
 * ["Gender bias in Nobel prizes (2019)"](https://www.nature.com/articles/s41599-019-0256-3) by Lunnemann, P., Jensen, M.H. & Jauffred, L.  Palgrave
-* * ["Changing the gender narrative with open access"](https://blogs.lse.ac.uk/impactofsocialsciences/2022/07/14/changing-the-gender-narrative-with-open-access/) by Katie Wilson and Lucy Montgomery
+* ["Changing the gender narrative with open access"](https://blogs.lse.ac.uk/impactofsocialsciences/2022/07/14/changing-the-gender-narrative-with-open-access/) by Katie Wilson and Lucy Montgomery
 * ["Open data linked to higher citations for journal articles"](https://www.chemistryworld.com/news/open-data-linked-to-higher-citations-for-journal-articles/3010723.article) by Rebecca Trager
 * ["Is the open access citation advantage real? A systematic review of the citation of open access and subscription-based articles"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253129) by Allison Langham-Putrow, Caitlin Bakker, and Amy Riegelman
 * ["The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles"](https://peerj.com/articles/4375/) by Heather Piwowar, Jason Priem, Vincent Larivière, Juan Pablo Alperin, Lisa Matthias, Bree Norlander, Ashley Farley, Jevin West, and Stefanie Haustein.
@@ -58,7 +67,7 @@ A (short) collection of articles and research papers on how open science benefit
 * ["A diverse view of science to catalyze change"](https://www.nature.com/articles/s41557-020-0529-x) by César A. Urbina-Blanco, Safia Z. Jilani, Isaiah R. Speight, Michael J. Bojdys, Tomislav Friščić, J. Fraser Stoddart, Toby L. Nelson, James Mack, Renã A. S. Robinson, Emanuel A. Waddell, Jodie L. Lutkenhaus, Murrell Godfrey, Martine I. Abboud, Stephen O. Aderinto, Damilola Aderohunmu, Lučka Bibič, João Borges, Vy M. Dong, Lori Ferrins, Fun Man Fung, Torsten John, Felicia P. L. Lim, Sarah L. Masters, Dickson Mambwe, Pall Thordarson, Maria-Magdalena Titirici, Gabriela D. Tormet-González, Miriam M. Unterlass, Austin Wadle, Vivian W.-W. Yam, and Ying-Wei Yang.
 * ["Open science, communal culture, and women's participation in the movement to improve science"](https://pubmed.ncbi.nlm.nih.gov/32929006/)  by Mary C Murphy, Amanda F Mejia, Jorge Mejia, Xiaoran Yan, Sapna Cheryan, Nilanjana Dasgupta, Mesmin Destin, Stephanie A Fryberg, Julie A Garcia, Elizabeth L Haines, Judith M Harackiewicz, Alison Ledgerwood, Corinne A Moss-Racusin, Lora E Park, Sylvia P Perry, Kate A Ratliff, Aneeta Rattan, Diana T Sanchez, Krishna Savani, Denise Sekaquaptewa, Jessi L Smith, Valerie Jones Taylor, Dustin B Thoman, Daryl A Wout, Patricia L Mabry, Susanne Ressl, Amanda B Diekman, and Franco Pestilli.
 
-## NASA Image Credits
+## Image Credits
 You can find TOPS' "open science wheel" on our [graphic and images page](/Organizing_OS_Activities/branding_and_graphics/readme.md).  
 
 Image Credit for NASA Science Mission Photography:

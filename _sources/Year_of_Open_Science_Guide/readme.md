@@ -39,6 +39,7 @@ Not sure if your organizations is ready? Explore our guide on [Organization Acti
 - [Gathering for Open Science Hardware (GOSH)](./participants/GOSH.md)
 - [Higher Education Leadership Initiative for Open Scholarship (HELIOS)](./participants/HELIOS.md)
 - [Health Research Alliance (HRA)](./participants/HRA.md)
+- [Life Sciences Editors Foundation (LSEF)](./participants/LSEF.md)
 - [PREreview](./participants/PREreview.md)
 
 ## For You and For Your Team

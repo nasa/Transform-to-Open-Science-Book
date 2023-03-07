@@ -60,6 +60,7 @@ A (short) collection of articles and research papers on how open science benefit
 * [Systemic racial disparities in funding rates at the National Science Foundation](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC9708090/)
 * ["Gender bias in Nobel prizes (2019)"](https://www.nature.com/articles/s41599-019-0256-3) by Lunnemann, P., Jensen, M.H. & Jauffred, L.  Palgrave
 * ["Changing the gender narrative with open access"](https://blogs.lse.ac.uk/impactofsocialsciences/2022/07/14/changing-the-gender-narrative-with-open-access/) by Katie Wilson and Lucy Montgomery
+* ["Men get larger first NIH grants, but is the news all bad for female scientists?"](https://www.science.org/content/article/men-get-larger-first-nih-grants-news-all-bad-female-scientists) by Jocelyn Kaiser
 * ["Open data linked to higher citations for journal articles"](https://www.chemistryworld.com/news/open-data-linked-to-higher-citations-for-journal-articles/3010723.article) by Rebecca Trager
 * ["Is the open access citation advantage real? A systematic review of the citation of open access and subscription-based articles"](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0253129) by Allison Langham-Putrow, Caitlin Bakker, and Amy Riegelman
 * ["The state of OA: a large-scale analysis of the prevalence and impact of Open Access articles"](https://peerj.com/articles/4375/) by Heather Piwowar, Jason Priem, Vincent Larivière, Juan Pablo Alperin, Lisa Matthias, Bree Norlander, Ashley Farley, Jevin West, and Stefanie Haustein.
@@ -70,8 +71,7 @@ A (short) collection of articles and research papers on how open science benefit
 ## Image Credits
 You can find TOPS' "open science wheel" on our [graphic and images page](/Organizing_OS_Activities/branding_and_graphics/readme.md).  
 
-Image Credit for NASA Science Mission Photography:
-* [Worldview.earthdata](https://worldview.earthdata.nasa.gov/)
+Image Credit for NASA Science Mission Photography: [Worldview.earthdata](https://worldview.earthdata.nasa.gov/)
 
 ## Get started with Open Science!
 
@@ -96,6 +96,7 @@ Useful links for tools and resources:
      * **Software**
           * [The Open Source Initiative](https://opensource.org/licenses) has a set of licenses designed specifically for software
           * [Choose an open source license](https://choosealicense.com)
+* Got a DOI and need a full citation? Try [citation.crosscite.org](https://citation.crosscite.org/).
 
 Looking for more resources? TOPS has examples of these open science skills in action in [Section 3 of the Open Science Guide](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#section-3-open-science-at-work).
 

@@ -1,5 +1,5 @@
 # Transform to Open Science 
-Welcome to the open science guide for Transform to Open Science (TOPS), a NASA [Open-Source Science Initiative](https://science.nasa.gov/open-science-overview) mission.
+Welcome to the open science guide for Transform to Open Science (TOPS), a NASA [Open-Source Science Initiative](https://science.nasa.gov/open-science-overview) mission. Learn more at [nasa.github.io/Transform-to-Open-Science](https://nasa.github.io/Transform-to-Open-Science/).
 
 ## What is Open Science?
 The United States government [defines](https://open.science.gov/) open science as "the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity."

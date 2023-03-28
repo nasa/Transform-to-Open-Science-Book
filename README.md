@@ -28,6 +28,7 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/reeseIngraham"><img src="https://avatars.githubusercontent.com/u/39513784?v=4?s=100" width="100px;" alt="Reese Ingraham"/><br /><sub><b>Reese Ingraham</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science-Book/commits?author=reeseIngraham" title="Code">💻</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Earth2Ivey"><img src="https://avatars.githubusercontent.com/u/68339799?v=4?s=100" width="100px;" alt="Yvonne Ivey"/><br /><sub><b>Yvonne Ivey</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science-Book/commits?author=Earth2Ivey" title="Code">💻</a> <a href="#ideas-Earth2Ivey" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-Earth2Ivey" title="Project Management">📆</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/nasa/Transform-to-Open-Science"><img src="https://avatars.githubusercontent.com/u/84465804?v=4?s=100" width="100px;" alt="Cynthia Hall"/><br /><sub><b>Cynthia Hall</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science-Book/commits?author=chall-nasa" title="Code">💻</a> <a href="#ideas-chall-nasa" title="Ideas, Planning, & Feedback">🤔</a> <a href="#projectManagement-chall-nasa" title="Project Management">📆</a></td>
     </tr>
   </tbody>
   <tfoot>

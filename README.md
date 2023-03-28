@@ -8,6 +8,7 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
 
 [![All Contributors](https://img.shields.io/github/all-contributors/bello-mart-isabella/Transform-to-Open-Science-Book?color=ee8449&style=flat-square)](#contributors)
 
+
 ## Our Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
@@ -18,3 +19,4 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
 <!-- prettier-ignore-end -->
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
+

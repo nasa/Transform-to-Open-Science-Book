@@ -34,6 +34,9 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
       <td align="center" valign="top" width="14.28%"><a href="http://daniellegroenen.com"><img src="https://avatars.githubusercontent.com/u/89479247?v=4?s=100" width="100px;" alt="Danielle Groenen"/><br /><sub><b>Danielle Groenen</b></sub></a><br /><a href="#content-daniellegroenen" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.michaeljfox.org/"><img src="https://avatars.githubusercontent.com/u/3680365?v=4?s=100" width="100px;" alt="Chris Erdmann"/><br /><sub><b>Chris Erdmann</b></sub></a><br /><a href="#content-libcce" title="Content">🖋</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://wetlands.io"><img src="https://avatars.githubusercontent.com/u/5016453?v=4?s=100" width="100px;" alt="Qiusheng Wu"/><br /><sub><b>Qiusheng Wu</b></sub></a><br /><a href="#content-giswqs" title="Content">🖋</a></td>
+    </tr>
   </tbody>
   <tfoot>
     <tr>

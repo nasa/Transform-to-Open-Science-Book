@@ -26,7 +26,9 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/108359421?v=4",
       "profile": "https://zenodo.org/communities/tops",
       "contributions": [
-        "content"
+        "content",
+        "code",
+        "ideas"
       ]
     }
   ],

@@ -18,6 +18,7 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
   <tbody>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://zenodo.org/communities/tops"><img src="https://avatars.githubusercontent.com/u/108359421?v=4?s=100" width="100px;" alt="Isabella Bello Martinez"/><br /><sub><b>Isabella Bello Martinez</b></sub></a><br /><a href="#content-bello-mart-isabella" title="Content">🖋</a> <a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science-Book/commits?author=bello-mart-isabella" title="Code">💻</a> <a href="#ideas-bello-mart-isabella" title="Ideas, Planning, & Feedback">🤔</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://cgentemann.github.io"><img src="https://avatars.githubusercontent.com/u/35538868?v=4?s=100" width="100px;" alt="Chelle Gentemann"/><br /><sub><b>Chelle Gentemann</b></sub></a><br /><a href="#content-cgentemann" title="Content">🖋</a> <a href="#ideas-cgentemann" title="Ideas, Planning, & Feedback">🤔</a></td>
     </tr>
   </tbody>
   <tfoot>

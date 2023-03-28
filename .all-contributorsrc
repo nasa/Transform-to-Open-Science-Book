@@ -129,6 +129,15 @@
         "ideas",
         "review"
       ]
+    },
+    {
+      "login": "JustinGOSSES",
+      "name": "Justin Gosses",
+      "avatar_url": "https://avatars.githubusercontent.com/u/11600445?v=4",
+      "profile": "https://justingosses.com/",
+      "contributions": [
+        "bug"
+      ]
     }
   ],
   "commitConvention": "angular"

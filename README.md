@@ -46,6 +46,7 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://logankilpatrick.gumroad.com/l/juliacrashcourse"><img src="https://avatars.githubusercontent.com/u/35577566?v=4?s=100" width="100px;" alt="Logan Kilpatrick "/><br /><sub><b>Logan Kilpatrick </b></sub></a><br /><a href="#content-logankilpatrick" title="Content">🖋</a> <a href="#maintenance-logankilpatrick" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.lisafederer.net"><img src="https://avatars.githubusercontent.com/u/7302608?v=4?s=100" width="100px;" alt="Lisa Federer"/><br /><sub><b>Lisa Federer</b></sub></a><br /><a href="#content-informationista" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/maxrjones"><img src="https://avatars.githubusercontent.com/u/14077947?v=4?s=100" width="100px;" alt="Max Jones"/><br /><sub><b>Max Jones</b></sub></a><br /><a href="#maintenance-maxrjones" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
   <tfoot>

@@ -3,7 +3,9 @@
   "projectOwner": "bello-mart-isabella",
   "repoType": "github",
   "repoHost": "https://github.com",
-  "files": ["README.md"],
+  "files": [
+    "README.md"
+  ],
   "imageSize": 100,
   "commit": false,
   "contributorsPerLine": 7,
@@ -17,5 +19,16 @@
   },
   "linkToUsage": true,
   "skipCi": true,
-  "contributors": []
+  "contributors": [
+    {
+      "login": "bello-mart-isabella",
+      "name": "Isabella Bello Martinez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108359421?v=4",
+      "profile": "https://zenodo.org/communities/tops",
+      "contributions": [
+        "content"
+      ]
+    }
+  ],
+  "commitConvention": "angular"
 }

@@ -219,6 +219,16 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "logankilpatrick",
+      "name": "Logan Kilpatrick ",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35577566?v=4",
+      "profile": "https://logankilpatrick.gumroad.com/l/juliacrashcourse",
+      "contributions": [
+        "content",
+        "maintenance"
+      ]
     }
   ],
   "commitConvention": "angular"

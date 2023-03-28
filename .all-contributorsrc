@@ -30,6 +30,16 @@
         "code",
         "ideas"
       ]
+    },
+    {
+      "login": "cgentemann",
+      "name": "Chelle Gentemann",
+      "avatar_url": "https://avatars.githubusercontent.com/u/35538868?v=4",
+      "profile": "http://cgentemann.github.io",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
     }
   ],
   "commitConvention": "angular"

@@ -40,6 +40,7 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/selgebali"><img src="https://avatars.githubusercontent.com/u/23166543?v=4?s=100" width="100px;" alt="Sara"/><br /><sub><b>Sara</b></sub></a><br /><a href="#content-selgebali" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/abhilipsasahoo03"><img src="https://avatars.githubusercontent.com/u/80174214?v=4?s=100" width="100px;" alt="Abhilipsa Sahoo"/><br /><sub><b>Abhilipsa Sahoo</b></sub></a><br /><a href="#maintenance-abhilipsasahoo03" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://danielskatz.org"><img src="https://avatars.githubusercontent.com/u/2913845?v=4?s=100" width="100px;" alt="Daniel S. Katz"/><br /><sub><b>Daniel S. Katz</b></sub></a><br /><a href="#maintenance-danielskatz" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://orcid.org/0000-0001-9488-1870"><img src="https://avatars.githubusercontent.com/u/465923?v=4?s=100" width="100px;" alt="Daniel Mietchen"/><br /><sub><b>Daniel Mietchen</b></sub></a><br /><a href="#maintenance-Daniel-Mietchen" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
   <tfoot>

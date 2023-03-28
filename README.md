@@ -49,6 +49,7 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/maxrjones"><img src="https://avatars.githubusercontent.com/u/14077947?v=4?s=100" width="100px;" alt="Max Jones"/><br /><sub><b>Max Jones</b></sub></a><br /><a href="#maintenance-maxrjones" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://tysonswetnam.com"><img src="https://avatars.githubusercontent.com/u/11527041?v=4?s=100" width="100px;" alt="Tyson L. Swetnam"/><br /><sub><b>Tyson L. Swetnam</b></sub></a><br /><a href="#maintenance-tyson-swetnam" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://www.quantum-mads.com/"><img src="https://avatars.githubusercontent.com/u/11914201?v=4?s=100" width="100px;" alt="Jon Ander Oribe"/><br /><sub><b>Jon Ander Oribe</b></sub></a><br /><a href="#maintenance-JonanOribe" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sierra-MC"><img src="https://avatars.githubusercontent.com/u/88336748?v=4?s=100" width="100px;" alt="Sierra V. Brown"/><br /><sub><b>Sierra V. Brown</b></sub></a><br /><a href="#content-Sierra-MC" title="Content">🖋</a> <a href="#maintenance-Sierra-MC" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
   <tfoot>

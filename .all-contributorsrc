@@ -118,6 +118,17 @@
         "ideas",
         "projectManagement"
       ]
+    },
+    {
+      "login": "nasacrawford",
+      "name": "Steve Crawford",
+      "avatar_url": "https://avatars.githubusercontent.com/u/88837638?v=4",
+      "profile": "https://github.com/nasacrawford",
+      "contributions": [
+        "code",
+        "ideas",
+        "review"
+      ]
     }
   ],
   "commitConvention": "angular"

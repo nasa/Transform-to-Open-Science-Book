@@ -25,6 +25,9 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/dasaderi"><img src="https://avatars.githubusercontent.com/u/13750121?v=4?s=100" width="100px;" alt="Daniela Saderi"/><br /><sub><b>Daniela Saderi</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science-Book/commits?author=dasaderi" title="Documentation">📖</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/TKantz"><img src="https://avatars.githubusercontent.com/u/111452618?v=4?s=100" width="100px;" alt="TKantz"/><br /><sub><b>TKantz</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science-Book/commits?author=TKantz" title="Documentation">📖</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/reeseIngraham"><img src="https://avatars.githubusercontent.com/u/39513784?v=4?s=100" width="100px;" alt="Reese Ingraham"/><br /><sub><b>Reese Ingraham</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science-Book/commits?author=reeseIngraham" title="Code">💻</a></td>
+    </tr>
   </tbody>
   <tfoot>
     <tr>

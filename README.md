@@ -54,6 +54,7 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/amangoel185"><img src="https://avatars.githubusercontent.com/u/10528392?v=4?s=100" width="100px;" alt="Aman Goel"/><br /><sub><b>Aman Goel</b></sub></a><br /><a href="#maintenance-amangoel185" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://code.scienxlab.org"><img src="https://avatars.githubusercontent.com/u/1692372?v=4?s=100" width="100px;" alt="Matt Hall"/><br /><sub><b>Matt Hall</b></sub></a><br /><a href="#content-kwinkunks" title="Content">🖋</a></td>
     </tr>
   </tbody>
   <tfoot>

@@ -78,6 +78,15 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "TKantz",
+      "name": "TKantz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111452618?v=4",
+      "profile": "https://github.com/TKantz",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "commitConvention": "angular"

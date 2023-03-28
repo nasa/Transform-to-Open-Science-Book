@@ -96,6 +96,17 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "Earth2Ivey",
+      "name": "Yvonne Ivey",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68339799?v=4",
+      "profile": "https://github.com/Earth2Ivey",
+      "contributions": [
+        "code",
+        "ideas",
+        "projectManagement"
+      ]
     }
   ],
   "commitConvention": "angular"

@@ -40,6 +40,16 @@
         "content",
         "ideas"
       ]
+    },
+    {
+      "login": "paigem",
+      "name": "Paige Martin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26591824?v=4",
+      "profile": "http://paigem.github.io",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
     }
   ],
   "commitConvention": "angular"

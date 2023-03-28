@@ -38,6 +38,7 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
       <td align="center" valign="top" width="14.28%"><a href="https://wetlands.io"><img src="https://avatars.githubusercontent.com/u/5016453?v=4?s=100" width="100px;" alt="Qiusheng Wu"/><br /><sub><b>Qiusheng Wu</b></sub></a><br /><a href="#content-giswqs" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://slesa.com.np"><img src="https://avatars.githubusercontent.com/u/7830949?v=4?s=100" width="100px;" alt="Slesa Adhikari"/><br /><sub><b>Slesa Adhikari</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science-Book/issues?q=author%3Aslesaad" title="Bug reports">🐛</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/selgebali"><img src="https://avatars.githubusercontent.com/u/23166543?v=4?s=100" width="100px;" alt="Sara"/><br /><sub><b>Sara</b></sub></a><br /><a href="#content-selgebali" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/abhilipsasahoo03"><img src="https://avatars.githubusercontent.com/u/80174214?v=4?s=100" width="100px;" alt="Abhilipsa Sahoo"/><br /><sub><b>Abhilipsa Sahoo</b></sub></a><br /><a href="#maintenance-abhilipsasahoo03" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
   <tfoot>

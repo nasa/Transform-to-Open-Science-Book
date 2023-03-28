@@ -43,6 +43,9 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
       <td align="center" valign="top" width="14.28%"><a href="https://orcid.org/0000-0001-9488-1870"><img src="https://avatars.githubusercontent.com/u/465923?v=4?s=100" width="100px;" alt="Daniel Mietchen"/><br /><sub><b>Daniel Mietchen</b></sub></a><br /><a href="#maintenance-Daniel-Mietchen" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://edwinkofler.com"><img src="https://avatars.githubusercontent.com/u/24364012?v=4?s=100" width="100px;" alt="Edwin Kofler"/><br /><sub><b>Edwin Kofler</b></sub></a><br /><a href="#maintenance-hyperupcall" title="Maintenance">🚧</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://logankilpatrick.gumroad.com/l/juliacrashcourse"><img src="https://avatars.githubusercontent.com/u/35577566?v=4?s=100" width="100px;" alt="Logan Kilpatrick "/><br /><sub><b>Logan Kilpatrick </b></sub></a><br /><a href="#content-logankilpatrick" title="Content">🖋</a> <a href="#maintenance-logankilpatrick" title="Maintenance">🚧</a></td>
+    </tr>
   </tbody>
   <tfoot>
     <tr>

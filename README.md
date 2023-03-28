@@ -52,6 +52,9 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/Sierra-MC"><img src="https://avatars.githubusercontent.com/u/88336748?v=4?s=100" width="100px;" alt="Sierra V. Brown"/><br /><sub><b>Sierra V. Brown</b></sub></a><br /><a href="#content-Sierra-MC" title="Content">🖋</a> <a href="#maintenance-Sierra-MC" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://batool-almarzouq.netlify.app/"><img src="https://avatars.githubusercontent.com/u/53487593?v=4?s=100" width="100px;" alt="Batool Almarzouq"/><br /><sub><b>Batool Almarzouq</b></sub></a><br /><a href="#maintenance-BatoolMM" title="Maintenance">🚧</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/amangoel185"><img src="https://avatars.githubusercontent.com/u/10528392?v=4?s=100" width="100px;" alt="Aman Goel"/><br /><sub><b>Aman Goel</b></sub></a><br /><a href="#maintenance-amangoel185" title="Maintenance">🚧</a></td>
+    </tr>
   </tbody>
   <tfoot>
     <tr>

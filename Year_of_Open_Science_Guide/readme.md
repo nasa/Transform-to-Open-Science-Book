@@ -43,7 +43,7 @@ Not sure if your organizations is ready? Explore our guide on [Organization Acti
 - [PREreview](./participants/PREreview.md)
 
 ## For You and For Your Team
-The Year of Open Science is not just for organizations, check out our Year of Open Science materials for you and your team!
+The Year of Open Science is not just for organizations, check out our a Year of Open Science materials for you and your team!
 
 ### Individual Participation
 Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog. All of these behaviors exemplify open science and we would like for you to join us! 

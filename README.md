@@ -66,6 +66,7 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/SALONICONTRACTOR"><img src="https://avatars.githubusercontent.com/u/90577825?v=4?s=100" width="100px;" alt="Saloni Contractor"/><br /><sub><b>Saloni Contractor</b></sub></a><br /><a href="#maintenance-SALONICONTRACTOR" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/peternewman"><img src="https://avatars.githubusercontent.com/u/6216436?v=4?s=100" width="100px;" alt="Peter Newman"/><br /><sub><b>Peter Newman</b></sub></a><br /><a href="#maintenance-peternewman" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://bsipocz.github.io/"><img src="https://avatars.githubusercontent.com/u/6788290?v=4?s=100" width="100px;" alt="Brigitta Sipőcz"/><br /><sub><b>Brigitta Sipőcz</b></sub></a><br /><a href="#maintenance-bsipocz" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://natashabatalha.github.io"><img src="https://avatars.githubusercontent.com/u/6554465?v=4?s=100" width="100px;" alt="Natasha Batalha"/><br /><sub><b>Natasha Batalha</b></sub></a><br /><a href="#content-natashabatalha" title="Content">🖋</a></td>
     </tr>
   </tbody>
   <tfoot>

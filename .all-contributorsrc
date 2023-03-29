@@ -393,6 +393,15 @@
       "contributions": [
         "content"
       ]
+    },
+    {
+      "login": "sophieclayton",
+      "name": "Sophie Clayton",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7740937?v=4",
+      "profile": "http://www.sophieclayton.com",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "commitConvention": "angular"

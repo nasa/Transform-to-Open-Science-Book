@@ -1,6 +1,8 @@
-## Expectations for Organizations Joining a Year of Open Science 
+# Year of Open Science: Goals for Organizations
 
 **To sign up your organization, please fill out [this form](https://forms.gle/KPKaejc2WP7dm5XVA).**
+
+## Expectations for Organizations Joining a Year of Open Science 
 
 TOPS is asking participating organizations to set a Year of Open Science goal, aligned with one or more of the four goals listed below. TOPS will periodically organize events for participants, to check for progress against these goals and provide a space for collaboration. 
 

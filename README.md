@@ -63,6 +63,7 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
     </tr>
     <tr>
       <td align="center" valign="top" width="14.28%"><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=TSUNA36"><img src="https://avatars.githubusercontent.com/u/1802656?v=4?s=100" width="100px;" alt="Ting Sun"/><br /><sub><b>Ting Sun</b></sub></a><br /><a href="#maintenance-sunt05" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/SALONICONTRACTOR"><img src="https://avatars.githubusercontent.com/u/90577825?v=4?s=100" width="100px;" alt="Saloni Contractor"/><br /><sub><b>Saloni Contractor</b></sub></a><br /><a href="#maintenance-SALONICONTRACTOR" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
   <tfoot>

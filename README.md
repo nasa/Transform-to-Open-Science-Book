@@ -61,6 +61,9 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/emilyscassidy"><img src="https://avatars.githubusercontent.com/u/58826433?v=4?s=100" width="100px;" alt="Emily Cassidy"/><br /><sub><b>Emily Cassidy</b></sub></a><br /><a href="#maintenance-emilyscassidy" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/senya2"><img src="https://avatars.githubusercontent.com/u/45128147?v=4?s=100" width="100px;" alt="Senya Stein"/><br /><sub><b>Senya Stein</b></sub></a><br /><a href="#maintenance-senya2" title="Maintenance">🚧</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://iris.ucl.ac.uk/iris/browse/profile?upi=TSUNA36"><img src="https://avatars.githubusercontent.com/u/1802656?v=4?s=100" width="100px;" alt="Ting Sun"/><br /><sub><b>Ting Sun</b></sub></a><br /><a href="#maintenance-sunt05" title="Maintenance">🚧</a></td>
+    </tr>
   </tbody>
   <tfoot>
     <tr>

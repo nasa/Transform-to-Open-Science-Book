@@ -32,24 +32,6 @@ To help catalyze the move to open science and support changing cultural norms, N
 
 **Through collaboration with other organizations, NASA will support and enable the scientific community to move towards open science.** The following list of planned activities represents the areas in which TOPS aims to take action to transform towards open science. If you and your organization are ready to add your strength--via your people, resources, and work--to this transformation, we invite you to join us in these areas of action. 
 
-#### TOPS Planned Activities
-  
-  1. Promoting   a   common   understanding   of   open   science,   associated   benefits   and   challenges, as well as diverse paths to open science.
-       * Increase open science visibility through high-level support and communication strategies, give colloquia, and build partnerships with companies, philanthropic groups, organizations, and institutions to advance open science activities.
-  2. Developing an enabling policy environment for open science.
-       * The TOPS team will provide advice and guidance to agencies and organizations on targeted policy adjustments to allow for open science activities by federal employees and contractors.
-  3. Investing in open science infrastructures and services.
-       * Support development of an open science infrastructure center of excellence that has a strong community-led base to advance interoperability and inclusivity, and can advance open infrastructures and FAIR Analysis-Ready Cloud-Optimized (ARCO) data and software.
-  4. Investing in human resources, education, digital literacy and capacity building for open science.
-       * Support development of an open science education center of excellence that has a strong community-led base to advance open science literacy. Massive Open Online Courses (MOOCs), collaboratively develop curriculum on open science and data science skills with open science certificates and badges. 
-       * Leverage existing investments in training and support summer internships, summer schools, HackWeeks, Open Science Launchpads, and challenges.
-  5. Aligning incentives and fostering a culture of open science.
-       * Create open science awards, highlight successes, and integrate open science community building and practices into performance evaluations, research awards, and reporting.
-  6. Promoting innovative approaches for open science at different stages of the scientific process.
-       * Integrate open science practices into citizen science, provide a free, low-barrier path to large-scale research infrastructures (e.g. interactive notebook deployments on commercial clouds).
-  7. Promoting international and multi stakeholder cooperation in the context of open science and in view of reducing digital and knowledge gaps.
-       * Engage with international partners to participate in joint activities around open science, including open infrastructures, open MOOCs, international awards, and open metrics.
-
 ### Develop Governance Frameworks and Policies to Support Open Science Action Plans
 
 There are several cultural and institutional barriers which have prevented the adoption of open science in the past. Some of these are born from the academic incentive system, while others are reinforced by the desire to capitalize research. Organizations with clear policies that support the sharing of resources, data, code, and results such that they can be utilized by others encourage the adoption of open science. 
@@ -182,23 +164,9 @@ Recommendations for this page were pulled from the following publications. Thank
 * Martin S. Hagger (2022) Developing an open science ‘mindset’, Health Psychology and Behavioral Medicine, 10:1, 1-21, DOI: 10.1080/21642850.2021.2012474. [https://doi.org/10.1080/21642850.2021.2012474](https://doi.org/10.1080/21642850.2021.2012474)  
 * Miedema, Frank 2022. Open Science: The Very Idea. Utrecht, The Netherlands: Springer Nature. [https://doi.org/10.1007/978-94-024-2115-6](https://doi.org/10.1007/978-94-024-2115-6)
 
-## Section 2: Collaborate with TOPS
+## Section 2: Working With TOPS
 
-### Budget for Year of Open Science Activities
-
-**What is it?**
-
-The Year of Open Science will activate our communities, encouraging everyone to adopt and champion open science practices. TOPS invites all organizations to join us during a Year of Open Science, and suggests that organizations set aside a budget for targeted activities best suited to transform the culture in your organization. 
-
-**How do I get started?**
-
-This collaboration guide has examples of several Year of Open Science activities, including hackathons, open science training, webinars, listening sessions, and town halls. The employees of your organization may be more motivated to participate in these if they are compensated for their time; and some of the activities require funding for the resources necessary to complete them. Decide on a Year of Open Science strategy that works for you, and consider if pre-existing budgets–for example, for training–can be utilized. 
-
-**TOPS Will Provide**
-
-To help make this event a success, TOPS will provide organizations with the following support:
-* Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
-* Packet of engagement ideas for a Year of Open Science 
+*The following are ideas for co-hosted events your organization can do with TOPS or other Year of Open Science organizations. Feel free to pull from this list, or bring your own ideas! If you are ready to do an event together, reach out to us using [this contact form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY).* 
 
 ### Host a Hackathon 
 
@@ -293,42 +261,3 @@ What is the biggest challenge that your organization is poised to tackle? Consid
 
 To help make this event a success, TOPS will provide organizations with the following support:
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
-
-### Contribute to the ScienceCore
-
-**What is it?**
-
-Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. The core TOPS [open science curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/), will provide beginners with important definitions, tools, resources and best practices. 
-
-To help scientists and researchers deepen their knowledge of open science practices in a particular field, gain advanced skills in data science or other research-enabling practices, and gain a more nuanced understanding of open science principles, TOPS aims to create the [ScienceCore](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/ScienceCore/readme.md). 
-
-**How do I get started?**
-
-TOPS has released a ROSES seeking contributors to the ScienceCore. Learn more in [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init), in Section 3.1. Please refer to the official solicitation for additional details.
-* Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md) are available. 
-
-
-### Host a Summer School on Open Science
-
-**What is it?**
-
-Science team summer schools are five-day workshops, hosted by various partner and collaborator organizations in the months of June, July and August. During these weeks, members of a science team dive deeply into a particular topic, allowing time for training, discussion and ideation. 
-
-**How do I get started?**
-
-More information on TOPS open science summer schools is contained in ROSES [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init), in Section 3.2. Please refer to the official solicitation for additional details.
-* Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md) are available. 
-
-### Run a Virtual Cohort
-
-**What is it?**
-
-Whether someone is looking to transition to a new way of conducting research or just getting started in their scientific career, TOPS aims to meet everyone where they are at on their open science journey. As such, one of TOPS' priorities is to develop and launch an open science curriculum that includes important definitions, tools, resources and best practices. You can learn more about the TOPS curriculum on [our GitHub](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/readme.md). 
-
-TOPS is seeking solicitations for organizations who will organize and run “virtual cohorts” of learners to take the TOPS core open science curriculum.    
-
-**How do I get started?**
-
-More information on TOPS virtual cohorts is contained in ROSES [F.14 Transform to Open Science Training](https://nspires.nasaprs.com/external/solicitations/summary.do?solId=%7bAB776446-03A8-4C24-845D-2E5A2ADA2D5A%7d&path=&method=init), in Section 3.2. Please refer to the official solicitation for additional details.
-* Resources for [getting started with NASA proposals](/docs/Area4_Moving_To_Openness/TOPST/proposal_resources.md) are available. 
-

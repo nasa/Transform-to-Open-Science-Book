@@ -1,16 +1,14 @@
 # Guide for Your Organization's Open Science Journey
 
-In recent decades, the technological barriers to participating in open science have decreased, but barriers due to policy, bureaucracy, funding, and culture remain. Fully engaging with open science is thus dependent on individuals entering into dialogue with their institutions, universities, agencies and companies to identify changes--both small and large--which will support the movement towards open science. 
+In recent decades, the technological barriers to participating in open science have decreased, but barriers due to bureaucracy, funding practices, and research culture remain. Fully engaging with open science is thus dependent on individuals entering into dialogue with their universities, agencies, and companies to identify changes--both small and large--which will support the movement towards open science. 
 
-Building on the work of others over the past several years, TOPS invites individuals, agencies, academic institutions and other organizations to examine the kind of science which they support and encourage, and move towards a more open framework. Join us in our journey, and encourage the pursuit of open scientific progress!  
+Building on the work of others over the past several years, TOPS invites everyone to examine the science practices which they support and encourage, and move towards a more open framework. Join us in our journey, and encourage the pursuit of open scientific progress!  
 
-Suggestions for how to get those in your organization excited about open science, as well as how to have some tough discussions about policy, are in **Section 1: Engage with Open Science**.
+Suggestions for how to get started examining where your organization is on its open science journey are in **Section 1: Engage with Open Science**.
 
-**Section 2: Holding Discussions on Open Science** contains a list of curated questions to help guide listening sessions, workshops, and open meetings centered on setting new open science policies. 
+Suggestions for how to prompt and lead listening sessions, workshops, and open meetings centered on setting new open science policies are in **Section 2: Holding Discussions on Open Science**. 
 
 Interested in learning how you can collaborate with TOPS? Jump ahead to **Section 3: Working With TOPS**.
-
-To help catalyze the move to open science and support changing cultural norms, NASA has joined several federal agencies in recognizing [**2023 as a Year Of Open Science**](https://nasa.github.io/Transform-to-Open-Science/year-of-open-science/). Ready to join us? Skip ahead to the [Year of Open Science: Goals for Organizations](/Year_of_Open_Science_Guide/participants/readme.md) guide. 
 
 ## Section 1: Engage with Open Science
 
@@ -22,7 +20,7 @@ TOPS has adopted the definition of open science put forth by the Office of Scien
 
 *"Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity."*
 
-TOPS break this definition down further in our materials, discussing it in terms of data, software, results, tools and an open science ethos. Having such a definition can serve as a north star for conversation, and we invite all organizations to clearly commnicate the definition of open science that it is using to staff and stakeholders. If your organization is brand-new to open science, hosting a public discussion to set this definition is a good way to get folks invested in the work. 
+In our resources, TOPS breaks this definition down further, discussing it in terms of data, software, results, tools and an open science ethos. Having such a definition can serve as a north star for conversation, and we invite all organizations to clearly commnicate the definition of open science that it is using to staff and stakeholders. If your organization is brand-new to open science, hosting a public discussion to set this definition is a good way to get folks invested in the work. 
 
 ### Step 2: Collect and make findable those open science policies and practices that are already in place.
 
@@ -253,3 +251,5 @@ We suggest the following considerations when creating an open science award:
 To help make this event a success, TOPS will provide organizations with the following support:
 * Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
 
+### A Year of Open Science
+To help catalyze the move to open science and support changing cultural norms, NASA has joined several federal agencies in recognizing [**2023 as a Year Of Open Science**](https://nasa.github.io/Transform-to-Open-Science/year-of-open-science/). Ready to join us? Head to the [Year of Open Science: Goals for Organizations](/Year_of_Open_Science_Guide/participants/readme.md) guide. 

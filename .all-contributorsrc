@@ -357,6 +357,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "SALONICONTRACTOR",
+      "name": "Saloni Contractor",
+      "avatar_url": "https://avatars.githubusercontent.com/u/90577825?v=4",
+      "profile": "https://github.com/SALONICONTRACTOR",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "commitConvention": "angular"

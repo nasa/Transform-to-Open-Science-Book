@@ -59,6 +59,7 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
       <td align="center" valign="top" width="14.28%"><a href="http://space.mit.edu/home/guenther/"><img src="https://avatars.githubusercontent.com/u/498688?v=4?s=100" width="100px;" alt="Hans Moritz Günther"/><br /><sub><b>Hans Moritz Günther</b></sub></a><br /><a href="#maintenance-hamogu" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://tomchor.github.io/"><img src="https://avatars.githubusercontent.com/u/13205162?v=4?s=100" width="100px;" alt="Tomas Chor"/><br /><sub><b>Tomas Chor</b></sub></a><br /><a href="#maintenance-tomchor" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/emilyscassidy"><img src="https://avatars.githubusercontent.com/u/58826433?v=4?s=100" width="100px;" alt="Emily Cassidy"/><br /><sub><b>Emily Cassidy</b></sub></a><br /><a href="#maintenance-emilyscassidy" title="Maintenance">🚧</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/senya2"><img src="https://avatars.githubusercontent.com/u/45128147?v=4?s=100" width="100px;" alt="Senya Stein"/><br /><sub><b>Senya Stein</b></sub></a><br /><a href="#maintenance-senya2" title="Maintenance">🚧</a></td>
     </tr>
   </tbody>
   <tfoot>

@@ -67,6 +67,7 @@ Contribution guidelines can be found [here](./About/CONTRIBUTING.md).
       <td align="center" valign="top" width="14.28%"><a href="https://github.com/peternewman"><img src="https://avatars.githubusercontent.com/u/6216436?v=4?s=100" width="100px;" alt="Peter Newman"/><br /><sub><b>Peter Newman</b></sub></a><br /><a href="#maintenance-peternewman" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://bsipocz.github.io/"><img src="https://avatars.githubusercontent.com/u/6788290?v=4?s=100" width="100px;" alt="Brigitta Sipőcz"/><br /><sub><b>Brigitta Sipőcz</b></sub></a><br /><a href="#maintenance-bsipocz" title="Maintenance">🚧</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://natashabatalha.github.io"><img src="https://avatars.githubusercontent.com/u/6554465?v=4?s=100" width="100px;" alt="Natasha Batalha"/><br /><sub><b>Natasha Batalha</b></sub></a><br /><a href="#content-natashabatalha" title="Content">🖋</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="http://www.sophieclayton.com"><img src="https://avatars.githubusercontent.com/u/7740937?v=4?s=100" width="100px;" alt="Sophie Clayton"/><br /><sub><b>Sophie Clayton</b></sub></a><br /><a href="https://github.com/bello-mart-isabella/Transform-to-Open-Science-Book/commits?author=sophieclayton" title="Code">💻</a></td>
     </tr>
   </tbody>
   <tfoot>

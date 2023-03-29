@@ -366,6 +366,15 @@
       "contributions": [
         "maintenance"
       ]
+    },
+    {
+      "login": "peternewman",
+      "name": "Peter Newman",
+      "avatar_url": "https://avatars.githubusercontent.com/u/6216436?v=4",
+      "profile": "https://github.com/peternewman",
+      "contributions": [
+        "maintenance"
+      ]
     }
   ],
   "commitConvention": "angular"

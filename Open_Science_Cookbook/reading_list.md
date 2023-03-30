@@ -31,8 +31,10 @@
 - A course devoted to equitable [data science](https://www.nceas.ucsb.edu/OSS) from UCSB
 - An introduction to open science [tutorial](https://www.complexityexplorer.org/courses/125-introduction-to-open-science) by Helena Miton 
 - EarthCube has strong resources for learning how to make data more Findable, Accessible, Interoperable, and Reproducible [here](https://www.earthcube.org/implementing-fair)*
+- The [Environmental Data Science Book](https://the-environmental-ds-book.netlify.app/welcome.html) is, in their words, a "a living, open and community-driven online resource to showcase and support the publication of data, research and open-source tools for collaborative, reproducible and transparent Environmental Data Science." Although focused on Environmental Data, a lot of the resources are applicable across several fields
 
 ## Open Science Communities, Blogs, and Mentorship 
+- Resources for building your own open science community are available from the [Center for Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/online-communities-and-communication-tools/)
 - Openscapes open science mentorship [program](https://www.openscapes.org/)
 - The [Research Software Alliance](https://www.researchsoft.org/#) has monthly meetings focused on advancing tools for and usage of open-source software for research, more information is [here](https://www.researchsoft.org/events/2022-06/)
 - Open Update is Liberate Science’s weekly digest on what’s been going on in the open science space! [Listen here](https://anchor.fm/open-update)

@@ -14,6 +14,7 @@
 - PyData has a library of [videos](https://www.youtube.com/user/PyDataTV) on a wide variety of data science topics, including introductions to various coding languages. PyData is a project of [NumFOCUS](https://numfocus.org/). 
 - The "quickstart" guide to [Pangeo](https://pangeo.io/quickstart.html), a "community platform for big data science" for the global scientific community
 - The *Julia Crash Course* is an upcoming Julia book by TOPS 2022 Panelist [Logan Kilpatrick](https://github.com/logankilpatrick) which covers the basics of the language, making your first contributions to the ecosystem, scientific computing, and more! You can pre-order your [here](https://logankilpatrick.gumroad.com/) and it will be available [here](https://juliacrashcourse.com/) 
+- [Project Pythia](https://projectpythia.org/)is an education and training hub for the geoscientific Python community. Although a bit geoscience centric, a lot of what they provide can be easily applied to other fields
 
 ## Research Software
 - Curated list research software policies from around the world can be found in *[Overview of the research software funding landscape](https://www.researchsoft.org/blog/2021-12/)* by the [Research Software Alliance](https://www.researchsoft.org/#). They have additional information and resources [here](https://www.researchsoft.org/resa-resources/).
@@ -29,4 +30,5 @@
 - Python oceanography [Resources](https://scrapbox.io/pycoaj/oceanography)
 - [Project Pythia (Pangeo)](https://projectpythia.org/)
 - [Scientific Python](https://scientific-python.org/)
+- [Python](https://prappleizer.github.io/index.html) for astronomers
 

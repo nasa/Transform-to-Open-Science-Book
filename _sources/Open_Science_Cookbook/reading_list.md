@@ -20,7 +20,6 @@
 - [Center for Open Science](https://osf.io/vkhbt/wiki/home/) provides a single location for researchers to share their data, code, resources, and pre-prints as well as a variety of resources to enable that 
 - Open coding and data learning materials can be found on [The Carpentries'](https://carpentries.org/) website
 - Online resource [list](https://github.com/asoplata/open-science-resources)
-- [Python](https://prappleizer.github.io/index.html) for astronomers
 - [OpenScienceMOOC](https://opensciencemooc.eu/)
 - [Foster's Open Science Toolkit](https://www.fosteropenscience.eu/toolkit) and resources for [training](https://open-science-training-handbook.gitbook.io/book/examples-and-practical-guidance) others in open science 
 - [TUDelft's](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/) Open Science Training
@@ -30,8 +29,12 @@
 - A video on the Reproducibility and Open Science in Astronomy from [ESO ROSA2022](https://www.youtube.com/watch?v=wBDFYYcfu6s)
 - A course devoted to equitable [data science](https://www.nceas.ucsb.edu/OSS) from UCSB
 - An introduction to open science [tutorial](https://www.complexityexplorer.org/courses/125-introduction-to-open-science) by Helena Miton 
+- EarthCube has strong resources for learning how to make data more Findable, Accessible, Interoperable, and Reproducible [here](https://www.earthcube.org/implementing-fair)*
+- The [Environmental Data Science Book](https://the-environmental-ds-book.netlify.app/welcome.html) is, in their words, a "a living, open and community-driven online resource to showcase and support the publication of data, research and open-source tools for collaborative, reproducible and transparent Environmental Data Science." Although focused on Environmental Data, a lot of the resources are applicable across several fields
+- AGU has collected several open science checklists [here](https://data.agu.org/2022/12/07/parsec-fm.html)
 
 ## Open Science Communities, Blogs, and Mentorship 
+- Resources for building your own open science community are available from the [Center for Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/online-communities-and-communication-tools/)
 - Openscapes open science mentorship [program](https://www.openscapes.org/)
 - The [Research Software Alliance](https://www.researchsoft.org/#) has monthly meetings focused on advancing tools for and usage of open-source software for research, more information is [here](https://www.researchsoft.org/events/2022-06/)
 - Open Update is Liberate Science’s weekly digest on what’s been going on in the open science space! [Listen here](https://anchor.fm/open-update)
@@ -45,6 +48,7 @@
 - [AstroBetter](https://www.astrobetter.com/) - Tips and tricks for astronomers, including how to use open tools and open-source software 
 - [The Carpentries Blog](https://carpentries.org/blog/) - Stay apprised of new trainings and new thinking about old models of teaching 
 - [The Turing Podcast](https://www.turing.ac.uk/news/turing-podcast) - Hosted by the Turing Institute, this podcast covers all things computing, including its importance to open science 
+- Go FAIR USA has a great collection of news and articles about making research Findable, Accessible, Interoperable and Reproducible [here](https://www.gofair.us/news)
 
 ## Open Science Publications
 *This reading list is organized following the structure of the TOPS [Open Science curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md).*

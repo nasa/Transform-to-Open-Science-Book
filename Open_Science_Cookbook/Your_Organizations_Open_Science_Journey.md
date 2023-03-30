@@ -1,8 +1,8 @@
 # Guide for Your Organization's Open Science Journey
 
-In recent decades, the technological barriers to participating in open science have decreased, but barriers due to bureaucracy, funding practices, and research culture remain. Fully engaging with open science is thus dependent on individuals entering into dialogue with their universities, agencies, and companies to identify changes--both small and large--which will support the movement towards open science. 
+In recent decades, the technological barriers to participating in open science have decreased, but barriers due to bureaucracy, funding practices, and research culture remain. Fully engaging with open science is thus dependent on individuals entering into dialogue with their universities, agencies, and companies to identify changes which will support the movement towards open science. 
 
-Building on the work of others over the past several years, TOPS invites everyone to examine the science practices which they support and encourage, and move towards a more open framework. Join us in our journey, and encourage the pursuit of open scientific progress!  
+Building on the work of others over the past several years, TOPS invites everyone to examine the research practices which they support and encourage, and move towards a more open framework. Join us in our journey, and encourage the pursuit of open scientific progress!  
 
 Suggestions for how to get started examining where your organization is on its open science journey are in **Section 1: Engage with Open Science**.
 
@@ -20,25 +20,23 @@ TOPS has adopted the definition of open science put forth by the Office of Scien
 
 *"Open Science is the principle and practice of making research products and processes available to all, while respecting diverse cultures, maintaining security and privacy, and fostering collaborations, reproducibility, and equity."*
 
-In our resources, TOPS breaks this definition down further, discussing it in terms of data, software, results, tools and an open science ethos. Having such a definition can serve as a north star for conversation, and we invite all organizations to clearly commnicate the definition of open science that it is using to staff and stakeholders. If your organization is brand-new to open science, hosting a public discussion to set this definition is a good way to get folks invested in the work. 
+In our resources, TOPS breaks this definition down further, discussing it in terms of data, software, results, tools and an open science ethos. Having such a definition can serve as a north star for conversation, and we invite all organizations to clearly communicate the definition of open science that it is using to staff and stakeholders. If your organization is brand-new to open science, hosting a public discussion to set this definition is a good way to get folks invested in the work. 
 
-### Step 2: Collect and make findable those open science policies and practices that are already in place.
+### Step 2: Collect and make findable open science policies and practices that are already in place.
 
-Consider your organization’s current open science practices. For example, do researchers use open-source code, are pre-prints encouraged, or are studies pre-registered? What policies are in place regarding sharing instrument data, user surveys, and detailed methodology? How about instructions regarding licenses and copyrights? 
+Consider your organization’s current practices. For example, do researchers use open-source code, are pre-prints encouraged, or are studies pre-registered? What policies are in place regarding sharing instrument data, user surveys, and detailed methodology? How about instructions regarding licenses and copyrights? Demonstrate where your organization is on its open science journey by making it easier for everyone to find and access the relevant resources and policies.
 
-Folks at the start of their open science journey may wonder if they are really practicing "open science" if they are unable to practice openness in every way. At TOPS, we believe it is better to get started and do what you can, than let perfect be the enemy of progress. Show those at your organization how you are beginning an open science journey, by making it easier for everyone to find and access the relevant resources and policies.
+Start by examining official policies at your organization. Areas to begin include mentions of pre-registration, pre-prints, open access, open-source software and/or code, data sharing or data management, open access publication or publication archiving, licenses, copyrights, meta-data, persistent digital identifiers, and digital object identifiers. Additionally, the official policy around collaborations with other organizations or government entities could either help or hinder open science. 
 
-Start by examining official policies at your organization that are already in place. Some things to search for include mentions of pre-registration, pre-prints, open access, open-source software and/or code, data sharing or data management, open access publication or publication archiving, licenses, copyrights, meta-data, persistent digital identifiers, and digital object identifiers. Another place to look is official policy around collaborations with other organizations or government entities. 
+Collect the relevant policies in one location and, if possible, write a directory or table of contents to passages in these policies that specifically align with open science principles. 
 
-Collect the relevant policies in one location and, if possible, write a “directory” to passages in these policies that align with open science principles. 
-
-Next, examine any “unofficial” policies. What are the research norms at your organization? Can these be updated to be more inclusive, equitable, accessible, or transparent? Address such unoffical procedures, as appropriate, in a statement that accompanies the new open science directory.  
+Next, examine any “unofficial” policies. What are the research norms at your organization? Can these be updated to be more inclusive, equitable, accessible, or transparent? Address such unofficial procedures, as appropriate, in a statement that accompanies the new directory.  
 
 ### Step 3: Provide examples of open science success stories in your organization.
 
-When highlighting how your organization is already engaging in open science, you provide those just beginning their open science journey with a model to follow and a place to ask questions. Therefore, to ensure the success of these researchers, we recommend starting a repository of open science success stories for your organization. 
+When highlighting how your organization is already engaging in open science, you provide those just beginning their open science journey with a model to follow, as well as a place to ask questions. Therefore, to ensure the success of these researchers, we recommend starting a repository of open science success stories for your organization. 
 
-NASA has some examples [here](https://science.nasa.gov/open-science/transform-to-open-science/stories). A *very* neat example also came out of an ongoing collaboration by Arizona State University and the Open Research Funders Group, in conjunction with the National Academies of Sciences, Engineering, and Medicine. It is called [Project Open](https://projectopen.io/), and focuses on collecting information on how open science broadly benefits researchers. 
+NASA has some examples [here](https://science.nasa.gov/open-science/transform-to-open-science/stories). A great example also came out of an ongoing collaboration by Arizona State University and the Open Research Funders Group, in conjunction with the National Academies of Sciences, Engineering, and Medicine. It is called [Project Open](https://projectopen.io/), and focuses on collecting information on how open science broadly benefits researchers. 
 
 For your organization, we suggest highlighting specific ways that existing policies allow for open science practice.
 
@@ -46,15 +44,15 @@ For your organization, we suggest highlighting specific ways that existing polic
 
 The US federal government has [taken steps](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/Open_Timeline.md) towards mandating the open sharing of publications and data produced by US government funding. Additionally, there are several [global policies](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area4_Moving_To_Openness/global_policies.md) supporting the move to open science. 
 
-Once an organization knows which policies are currently in place for open science within the organization, they can more easily compare those policies to official guidance and field best practices, moving to address any gaps. Additionally, organizations should examine the practices of the most popular journals or publication venues for the researchers of their organization. Any conflicting guidance should be noted, and addressed in the frameworks created for your organization. In some cases, organizations may need to provide greater detail or guidance than is currently avaialble, to account for the needs and practices of a particular community or scientific field.
+Once an organization knows which policies currently support open science, they can more easily compare those policies to government guidance and field best practices, and move to address any gaps. Additionally, organizations should examine the practices of the most popular journals or publication venues for the researchers of their organization. Any conflicting guidance should be noted, and addressed in the frameworks created for your organization. In some cases, organizations may need to provide greater detail or guidance than is currently available, to account for the needs and practices of a particular community or scientific field.
 
-Be sure to include your organization’s researchers and scientists in the process of creating any new policies; hold listening sessions, town halls, or office hours in which those most affected by these policies can provide feedback, and perhaps reveal barriers to their adoption. 
+Be sure to involve your organization’s researchers and scientists in the process of creating any new policies; hold listening sessions, town halls, or office hours in which those most affected by these policies can provide feedback, and perhaps reveal barriers to adoption. 
 
 **In need of discussion questions? Jump ahead to Section 2!**
 
 ### Step 5: Consider crafting an Open Science Action Plan for your organization.
 
-There are several cultural and institutional barriers which have prevented the adoption of open science in the past. Some of these are born from the academic incentive system, while others are reinforced by the desire to capitalize on research. Organizations with clear policies that support the sharing of resources, data, code, and results such that they can be utilized by others encourage the adoption of open science. 
+There are several cultural and institutional barriers which have prevented the adoption of open science in the past. Some of these are born from the academic incentive system, while others are reinforced by the desire to monetize research. Organizations with clear policies that support the sharing of resources, data, code, and results such that they can be utilized by others encourage the adoption of open science. 
 
 Open Science Action Plans (OSAPs) are comprehensive strategy documents designed to advance adoption of open science practices. They should document: 
 
@@ -79,12 +77,19 @@ These areas of action are:
 
 Not sure where these investments need to be made? Section 2 of this guide has some questions to consider. 
 
-UNESCO also [provided guidance](https://en.unesco.org/science-sustainable-future/open-science/recommendation) to consider “the development of a monitoring framework with qualitative and quantitative indicators, within national strategic plans and shared at the international level, with objectives and actions in the short, medium and long term for the implementation of the present.” 
-
 Once an open science plan is developed, ideally, it is shared publicly alongside clearly defined metrics. Here are some example activities that could be a part of that plan, sorted by type of organization:
-* **Science Associations:** Designate one day of annual meetings to focus on open science education. This could include workshops, tutorials, and showcases, and should aim to represent all the aspects of participating in and contributing to open science. This would reach a large percentage of the scientific community and create an urgency around learning to use these new tools to conduct research. Consider creating open science awards and include open science activities in criteria for existing honors where possible, and allow award nominations to include teams. 
-* **Federal Agencies:** Designate one day each month to advance open science practices. Remove bureaucratic barriers to open science, incentivise open science activities, and provide training opportunities for learning open science tools. Update agency evaluation, promotion criteria, and guidelines to better enable participation in open science.
-* **Academic Institutions:** Update evaluation and promotion criteria to include recognition of open science activities. Incorporate open science best practices into graduate and undergraduate curricula. Update intellectual property guidelines to align with open initiatives. Develop open science cohorts within departments to support the move towards openness.
+* **Science Associations:** 
+     * Designate one day of annual meetings to focus on open science education. This could include workshops, tutorials, and showcases, and should aim to represent all the aspects of participating in and contributing to open science. 
+     * Consider creating open science awards and include open science activities in criteria for existing honors where possible, and allow award nominations to include teams. 
+* **Federal Agencies:** 
+     * Designate one day each month to advance open science practices. 
+     * Work to incentivise open science activities, and provide training opportunities for learning open science tools. 
+     * Update agency evaluation, promotion criteria, and guidelines to better enable participation in open science.
+* **Academic Institutions:** 
+     * Update evaluation and promotion criteria to include recognition of open science activities. 
+     * Incorporate open science best practices into graduate and undergraduate curricula. 
+     * Update intellectual property guidelines to align with open initiatives. 
+     * Develop open science cohorts within departments to support the move towards openness.
 
 ## Section 2: Holding Discussions on Open Science
 
@@ -111,9 +116,9 @@ It can be a bit difficult to know where to begin when you are updating existing 
     * Do you require that the list of materials, study methods, and computational environment be included in the final results which are shared publicly? 
 * For data or research produced *by* your organization: 
     * In what languages is the research available? Are bilingual researchers encouraged to apply for funding or publish in multiple languages? 
-    * What services are avaialble for translation of research producted by your organization?
+    * What services are available for translation of research produced by your organization?
 * Does your organization develop software? 
-    * Can this code be made publicly available via GitHub, BitBucket or other mechanisms? 
+    * Can this code be made publicly available via GitHub, BitBucket, Zenodo, or other mechanisms? 
     * Consider how much of the work of your group ought to be kept “closed” and how much can be made available to advance the work of others, particularly young professionals and early career researchers.
   
 ### Discussing Metrics and Incentives
@@ -121,7 +126,9 @@ It can be a bit difficult to know where to begin when you are updating existing 
 According to [Suominen *et al*](https://doi.org/10.1016/j.techfore.2021.120882) motivating forces for researchers and scientists are “curiosity, good practice, high-quality science, and making a difference” while de-motivating factors include “collaboration problems, competition, and lack of feedback and recognition for management.” The article goes on to conclude that motivating factors tend to be intrinsic, while the de-motivating factors were often environmental and specific to the organization where the researcher worked. With this in mind, consider the following: 
 
 * If your organization conducts research, consider the metrics used when evaluating professors, researchers, lab assistants etc. for promotions and opportunities. 
-    * What do these metrics *actually* measure? Do these metrics account for historic bias, institutional bias, or other inclusivity or accessibility considerations? Do these metrics account for time and effort spent on research that ultimately produced null and/or negative results? 
+    * What do these metrics *actually* measure? 
+     * Do these metrics account for historic bias, institutional bias, or other inclusivity or accessibility considerations? 
+     * Do these metrics account for time and effort spent on research that ultimately produced null and/or negative results? 
     * Explore using alternative metrics that value transparency, reproducibility, replicability, and access. In particular, consider metrics which reflect readability and accessibility of software, code, and data, to encourage and reward researchers who spend time and resources on data science principles 
     * To learn more about this topic, explore work by [Fire and Guestrin](https://academic.oup.com/gigascience/article/8/6/giz053/5506490); [Beall](https://pubs.acs.org/doi/10.1021/acs.jpclett.5b00910); and [Carpenter, Cone and Sarli](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987709/) in analyzing the impact of traditional metrics for journal publications and research merit 
 * Does your institution incentive and reward researchers in which the primary output of the research is code or software development? Consider highlighting work which results in “good code” and valuing publication in “code first” journals equally to those published in other, more traditional journals. 
@@ -132,7 +139,7 @@ According to [Suominen *et al*](https://doi.org/10.1016/j.techfore.2021.120882) 
     * For example, are applicants for a job asked about their commitment to open science in their recent work? Are post-docs encouraged to make their data open when conducting their work? 
     * An excellent resource on this topic can be found in the [National Academies of Sciences, Engineering, and Medicine. 2021. Developing a Toolkit for Fostering Open Science Practices: Proceedings of a Workshop. Washington, DC: The National Academies Press](https://doi.org/10.17226/26308). 
 
-### Discussing Representation, and Mentoring and Training Practicies 
+### Discussing Representation, and Mentoring and Training Practices 
 
 * What is the “signaling language” used in grant applications, job postings, and descriptions of research conducted at your organization? 
     * Does this language imply open or closed science practice? 
@@ -165,9 +172,10 @@ These discussion prompts are heavily associated with academic coursework. In add
 * For researchers who conduct “field work:” 
     * How do they work with the communities in the field they are studying? If they are being immersed into a community, culture and/or society other than their own, what are your institution's practices and suggestions for that interaction? Are they required to know the language? Study the history and context? Are they required to have partners who are of that community, culture and/or society on their research team? 
     * Consider if your institution may benefit from adjusting the metrics for success in these situations, to include time and incentive for researchers to fully engage with the people most closely affected–either directly or indirectly–by their work. 
-    * On a related note, are STEM majors and those pursuing graduate studies in STEM encouraged to study other languages and/or cultures? Are the requirements for a major structured in such a way that they have room in their schedules to pursue those interests? Studying other languages can be a great way to begin to understand the motivations of another community. Next time you review requirements, consider this: what do the requirements of these majors teach students about what is important? 
+* On a related note, are STEM majors and those pursuing graduate studies in STEM encouraged to study other languages and/or cultures? 
+     * Are the requirements for a major structured in such a way that they have room in their schedules to pursue those interests? Studying other languages can be a great way to begin to understand the motivations of another community. 
+     * Next time you review requirements, consider this: what do the requirements of these majors teach students about what is important? 
 
-We invite academic institutions to read the work of [MIT’s Future of the Libraries Task Force](https://mitl.pubpub.org/pub/future-of-libraries/release/1) from 2016 and consider whether those recommendations, particularly those related to open access, are applicable to your library system.
 
 ### Citing Our Sources
 Recommendations for this page were pulled from the following publications. Thank you to the contributors, authors, and editors of these reports for sharing the power of open science with the world.
@@ -185,7 +193,7 @@ Recommendations for this page were pulled from the following publications. Thank
 
 ## Section 3: Working With TOPS
 
-The following are ideas for co-hosted events your organization can do with TOPS or other Year of Open Science organizations. Feel free to pull from this list, or bring your own ideas! If you are ready to do an event together, reach out to us using [this contact form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY).
+If you are ready to do an event together, reach out to us using [this contact form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY). You can request a meeting to learn more, suggest one of the ideas we list below, or bring us whatever ideas you may have! 
 
 ### Host a Hackathon 
 
@@ -207,7 +215,7 @@ A hackathon with a Year of Open Science theme should, at minimum:
 To help make this event a success, TOPS will provide organizations with the following support:
 * TOPS will amplify your event on our listserv, via Twitter, and in our community forums.
 * A directory of NASA’s open data and open resources to search and use them. More information available on the pages of the [Open-Source Science Initiative](https://science.nasa.gov/open-science-overview) (OSSI).
-* Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
+* Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name.
 
 
 ### Host a Webinar on Using Your Organization’s Open Data or Open Software
@@ -223,14 +231,14 @@ Prior to scheduling the session, make sure to gather any instructions related to
 To help make this event a success, we recommend the following:
 * If your organization has open data, open-source software, a preprint or open access server, and free resources for scientific analysis we recommend *not* trying to cover them all in a single webinar. Instead, consider putting on a webinar series, with each event focusing on one type of scientific information. Similarly, if your organization has multiple types of data, with special access instructions for each type, consider splitting that webinar into a multi-part series, too. 
 * Ensure that the instructions for accessing your organization’s open scientific information are easy to find. Clearly display any limitations to the usage of the data or software, and include instructions for citing the data and code of others. 
-* If possible, include a demo of using the data, software etc. during the webinar, and use  that to highlight those in your organization already engaged in open science.
+* If possible, include a demo of using the data, software etc. during the webinar, and use that to highlight those in your organization already engaged in open science.
 * Contact TOPS to amplify your event! We can send your event series to our listserv and amplify your Tweets.
 
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
 * TOPS will amplify your event on our listserv, via Twitter, and in our community forums.
-* Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
+* Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name.
 
 ### Sponsor an Award
 
@@ -257,7 +265,8 @@ We suggest the following considerations when creating an open science award:
 **TOPS Will Provide**
 
 To help make this event a success, TOPS will provide organizations with the following support:
-* Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name
+* TOPS can amplify your event and award winners on our listserv, via Twitter, and in our community forums.
+* Year of Open Science branding packet, including templates for stickers, presentation templates, Zoom backgrounds, and a guide for the use of NASA’s and TOPS’ logo and name.
 
 ### A Year of Open Science
 To help catalyze the move to open science and support changing cultural norms, NASA has joined several federal agencies in recognizing [**2023 as a Year Of Open Science**](https://nasa.github.io/Transform-to-Open-Science/year-of-open-science/). Ready to join us? Head to the [Year of Open Science: Goals for Organizations](/Year_of_Open_Science_Guide/participants/readme.md) guide. 

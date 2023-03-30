@@ -30,4 +30,5 @@
 - Python oceanography [Resources](https://scrapbox.io/pycoaj/oceanography)
 - [Project Pythia (Pangeo)](https://projectpythia.org/)
 - [Scientific Python](https://scientific-python.org/)
+- [Python](https://prappleizer.github.io/index.html) for astronomers
 

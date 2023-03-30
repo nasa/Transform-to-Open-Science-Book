@@ -48,6 +48,7 @@
 - [AstroBetter](https://www.astrobetter.com/) - Tips and tricks for astronomers, including how to use open tools and open-source software 
 - [The Carpentries Blog](https://carpentries.org/blog/) - Stay apprised of new trainings and new thinking about old models of teaching 
 - [The Turing Podcast](https://www.turing.ac.uk/news/turing-podcast) - Hosted by the Turing Institute, this podcast covers all things computing, including its importance to open science 
+- Go FAIR USA has a great collection of news and articles about making research Findable, Accessible, Interoperable and Reproducible [here](https://www.gofair.us/news)
 
 ## Open Science Publications
 *This reading list is organized following the structure of the TOPS [Open Science curriculum](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/OpenCore/readme.md).*

@@ -20,7 +20,6 @@
 - [Center for Open Science](https://osf.io/vkhbt/wiki/home/) provides a single location for researchers to share their data, code, resources, and pre-prints as well as a variety of resources to enable that 
 - Open coding and data learning materials can be found on [The Carpentries'](https://carpentries.org/) website
 - Online resource [list](https://github.com/asoplata/open-science-resources)
-- [Python](https://prappleizer.github.io/index.html) for astronomers
 - [OpenScienceMOOC](https://opensciencemooc.eu/)
 - [Foster's Open Science Toolkit](https://www.fosteropenscience.eu/toolkit) and resources for [training](https://open-science-training-handbook.gitbook.io/book/examples-and-practical-guidance) others in open science 
 - [TUDelft's](https://online-learning.tudelft.nl/courses/open-science-sharing-your-research-with-the-world/) Open Science Training

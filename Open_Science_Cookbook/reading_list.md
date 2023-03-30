@@ -32,6 +32,7 @@
 - An introduction to open science [tutorial](https://www.complexityexplorer.org/courses/125-introduction-to-open-science) by Helena Miton 
 - EarthCube has strong resources for learning how to make data more Findable, Accessible, Interoperable, and Reproducible [here](https://www.earthcube.org/implementing-fair)*
 - The [Environmental Data Science Book](https://the-environmental-ds-book.netlify.app/welcome.html) is, in their words, a "a living, open and community-driven online resource to showcase and support the publication of data, research and open-source tools for collaborative, reproducible and transparent Environmental Data Science." Although focused on Environmental Data, a lot of the resources are applicable across several fields
+- AGU has collected several open science checklists [here](https://data.agu.org/2022/12/07/parsec-fm.html)
 
 ## Open Science Communities, Blogs, and Mentorship 
 - Resources for building your own open science community are available from the [Center for Scientific Collaboration and Community Engagement](https://www.cscce.org/resources/online-communities-and-communication-tools/)

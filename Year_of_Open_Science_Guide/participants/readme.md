@@ -20,3 +20,13 @@ Additionally, TOPS asks that:
 * Each organization adds a link on their website pointing to the TOPS Open Science Guide, and to encourage its members and/or employees to participate in TOPS' events
 
 Organizations are also strongly encouraged to set a NASA Open Science certification goal, and to participate in the virtual NASA Open Science training this Summer and Fall.
+
+## Resources
+
+TOPS has curated resources for an organization-wide approach to open science in our [Open Science Guide](/Open_Science_Cookbook/Your_Organizations_Open_Science_Journey.md). 
+
+Additionally, here are a few resources aligned with each of the 2023 Year of Open Science Goals:
+1. To help **develop a strategic plan for open science** we recommend [the UNESCO Recommendations on Open Science](https://en.unesco.org/science-sustainable-future/open-science/recommendation) which sets out 7 areas of action to advance open science. Within that report, there are specific examples for different types of organizations.  
+2. To help **examine the review process** we recommend work by [Fire and Guestrin](https://academic.oup.com/gigascience/article/8/6/giz053/5506490); [Beall](https://pubs.acs.org/doi/10.1021/acs.jpclett.5b00910); and [Carpenter, Cone and Sarli](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4987709/) in analyzing the impact of traditional metrics for journal publications and research merit.
+3. For **developing a pilot to reward open science activities** we highlight [this report](https://ec.europa.eu/research-and-innovation/sites/default/files/rio/report/MLE%2520OS_Final%2520Report_0.pdf) by the European Commission on Altmetrics and Rewards for open science.
+4. For **engagement with underrepresented communities we recommend exploring the [Guide to Ethical Research](https://the-turing-way.netlify.app/ethical-research/ethical-research.html) by the Turing Way and the [DEI Resources](https://www.cscce.org/resources/dei/) from Center for Scientific Collaboration and Community Engagement.

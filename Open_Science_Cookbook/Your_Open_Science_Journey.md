@@ -85,7 +85,7 @@ Data Management Plans and Software Management plans are designed to help researc
 
 - Step 3: A checklist for writing a Software Management Plan can be [found here](https://zenodo.org/record/2159713#.Y5KCHezML0o), and is courtesy of Michael Jackson from the Software Sustainability Institute. 
 
-*Bonus Step: Did you know NASA requires Data Management Plans for certain grant submissions? NASA’s resources are [here](https://www.earthdata.nasa.gov/engage/new-missions/data-management-plan-guidance)!* 
+*Bonus Steps: Did you know NASA requires Data Management Plans for certain grant submissions? NASA’s resources are [here](https://www.earthdata.nasa.gov/engage/new-missions/data-management-plan-guidance)! Also, EarthCube has strong resources for learning how to make data more Findable, Accessible, Interoperable, and Reproducible [here](https://www.earthcube.org/implementing-fair)* 
 
 ### Community Software Repositories
 The term “community software repositories” refers to groups of researchers (often doing research in the same scientific area) that have agreed to share code using a particular platform. This facilitates the sharing, continued evolution of, and use of scientific research software. The repository that is most valuable to you will depend on your field, where you are in your career, and the tools you use to do your research. 

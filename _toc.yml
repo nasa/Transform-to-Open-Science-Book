@@ -62,7 +62,6 @@ parts:
     - file: Year_of_Open_Science_Guide/participants/ASAPbio.md
     - file: Year_of_Open_Science_Guide/participants/COS.md
     - file: Year_of_Open_Science_Guide/participants/CTF.md
-    - file: Year_of_Open_Science_Guide/participants/demo.md
     - file: Year_of_Open_Science_Guide/participants/GOSH.md
     - file: Year_of_Open_Science_Guide/participants/HRA.md
     - file: Year_of_Open_Science_Guide/participants/HELIOS.md

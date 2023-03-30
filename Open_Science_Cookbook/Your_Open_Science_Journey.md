@@ -105,6 +105,8 @@ Holding meetings which are open to the public–or at least to the entire resear
 
 - Step 3: Ensure your meetings are inclusive. Creating an inclusive environment will ensure that everyone, particularly those who might feel left out of the scientific process, have an opportunity to share their ideas. A few guides to inclusive meetings that we recommend are available from [Harvard](https://edib.harvard.edu/files/dib/files/inclusive_meeting_guide_final_1.pdf?m=1617641674) , [Quiet Revolutions](https://www.quietrev.com/wp-content/uploads/2018/11/RC_Inclusive-Meetings-Checklist.pdf) , [Gabi Serrato Marks](https://blog.ucsusa.org/science-blogger/how-to-make-professional-conferences-more-accessible-for-disabled-people-guidance-from-actual-disabled-scientists), and [Kathryn Heath and Brenda F. Wensil](https://hbr.org/2019/09/to-build-an-inclusive-culture-start-with-inclusive-meetings). 
 
+*Bonus Step: Additional resources for building an open science community are available [here](https://www.cscce.org/resources/online-communities-and-communication-tools/) from the Center for Scientific Collaboration and Community Engagement.*
+
 ## Section 2: Engage with Open Science
 
 The Transform to Open Science team is building on the shoulders of giants. 

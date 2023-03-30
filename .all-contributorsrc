@@ -1,20 +1,91 @@
 {
+  "projectName": "Transform-to-Open-Science-Book",
+  "projectOwner": "bello-mart-isabella",
+  "repoType": "github",
+  "repoHost": "https://github.com",
   "files": [
-    "index.md"
+    "README.md"
   ],
   "imageSize": 100,
   "commit": false,
-  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributorsSortAlphabetically": false,
+  "types": {
+    "custom": {
+      "symbol": "🔭",
+      "description": "A custom contribution type.",
+      "link": "[<%= symbol %>](<%= url %> \"<%= description %>\"),"
+    }
+  },
+  "linkToUsage": true,
+  "skipCi": true,
   "contributors": [
+    {
+      "login": "bello-mart-isabella",
+      "name": "Isabella Bello Martinez",
+      "avatar_url": "https://avatars.githubusercontent.com/u/108359421?v=4",
+      "profile": "https://zenodo.org/communities/tops",
+      "contributions": [
+        "content",
+        "code",
+        "ideas"
+      ]
+    },
     {
       "login": "cgentemann",
       "name": "Chelle Gentemann",
       "avatar_url": "https://avatars.githubusercontent.com/u/35538868?v=4",
       "profile": "http://cgentemann.github.io",
       "contributions": [
+        "content",
         "ideas",
-        "code",
         "projectManagement"
+      ]
+    },
+    {
+      "login": "paigem",
+      "name": "Paige Martin",
+      "avatar_url": "https://avatars.githubusercontent.com/u/26591824?v=4",
+      "profile": "http://paigem.github.io",
+      "contributions": [
+        "content",
+        "ideas"
+      ]
+    },
+    {
+      "login": "amanda-staller",
+      "name": "amanda-staller",
+      "avatar_url": "https://avatars.githubusercontent.com/u/126284110?v=4",
+      "profile": "https://github.com/amanda-staller",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "jpolka2",
+      "name": "jpolka2",
+      "avatar_url": "https://avatars.githubusercontent.com/u/39165531?v=4",
+      "profile": "https://github.com/jpolka2",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "dasaderi",
+      "name": "Daniela Saderi",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13750121?v=4",
+      "profile": "https://github.com/dasaderi",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "TKantz",
+      "name": "TKantz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/111452618?v=4",
+      "profile": "https://github.com/TKantz",
+      "contributions": [
+        "doc"
       ]
     },
     {
@@ -24,17 +95,6 @@
       "profile": "https://github.com/reeseIngraham",
       "contributions": [
         "code"
-      ]
-    },
-    {
-      "login": "bello-mart-isabella",
-      "name": "Isabella Bello Martinez",
-      "avatar_url": "https://avatars.githubusercontent.com/u/108359421?v=4",
-      "profile": "https://zenodo.org/communities/tops",
-      "contributions": [
-        "code",
-        "ideas",
-        "content"
       ]
     },
     {
@@ -56,7 +116,7 @@
       "contributions": [
         "code",
         "ideas",
-        "promotion"
+        "projectManagement"
       ]
     },
     {
@@ -85,7 +145,7 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/89479247?v=4",
       "profile": "http://daniellegroenen.com",
       "contributions": [
-        "code"
+        "content"
       ]
     },
     {
@@ -137,7 +197,7 @@
       "login": "danielskatz",
       "name": "Daniel S. Katz",
       "avatar_url": "https://avatars.githubusercontent.com/u/2913845?v=4",
-      "profile": "https://github.com/danielskatz",
+      "profile": "https://danielskatz.org",
       "contributions": [
         "maintenance"
       ]
@@ -164,7 +224,7 @@
       "login": "logankilpatrick",
       "name": "Logan Kilpatrick ",
       "avatar_url": "https://avatars.githubusercontent.com/u/35577566?v=4",
-      "profile": "https://www.linkedin.com/in/logankilpatrick/",
+      "profile": "https://logankilpatrick.gumroad.com/l/juliacrashcourse",
       "contributions": [
         "content",
         "maintenance"
@@ -212,8 +272,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/88336748?v=4",
       "profile": "https://github.com/Sierra-MC",
       "contributions": [
-        "maintenance",
-        "content"
+        "content",
+        "maintenance"
       ]
     },
     {
@@ -238,7 +298,7 @@
       "login": "kwinkunks",
       "name": "Matt Hall",
       "avatar_url": "https://avatars.githubusercontent.com/u/1692372?v=4",
-      "profile": "http://www.agilescientific.com/",
+      "profile": "https://code.scienxlab.org",
       "contributions": [
         "content"
       ]
@@ -249,7 +309,8 @@
       "avatar_url": "https://avatars.githubusercontent.com/u/5370471?v=4",
       "profile": "http://malvikasharan.github.io/",
       "contributions": [
-        "content"
+        "content",
+        "code"
       ]
     },
     {
@@ -298,32 +359,12 @@
       ]
     },
     {
-      "login": "all-contributors",
-      "name": "All Contributors",
-      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
-      "profile": "https://allcontributors.org",
-      "contributions": [
-        "maintenance"
-      ]
-    },
-    {
       "login": "SALONICONTRACTOR",
-      "name": "SALONICONTRACTOR",
+      "name": "Saloni Contractor",
       "avatar_url": "https://avatars.githubusercontent.com/u/90577825?v=4",
       "profile": "https://github.com/SALONICONTRACTOR",
       "contributions": [
-        "code"
-      ]
-    },
-    {
-      "login": "paigem",
-      "name": "Paige Martin",
-      "avatar_url": "https://avatars.githubusercontent.com/u/26591824?v=4",
-      "profile": "http://paigem.github.io",
-      "contributions": [
-        "code",
-        "ideas",
-        "content"
+        "maintenance"
       ]
     },
     {
@@ -354,37 +395,14 @@
       ]
     },
     {
-      "login": "TKantz",
-      "name": "TKantz",
-      "avatar_url": "https://avatars.githubusercontent.com/u/111452618?v=4",
-      "profile": "https://github.com/TKantz",
-      "contributions": [
-        "code"
-      ]
-    },
-    {
       "login": "sophieclayton",
       "name": "Sophie Clayton",
       "avatar_url": "https://avatars.githubusercontent.com/u/7740937?v=4",
       "profile": "http://www.sophieclayton.com",
       "contributions": [
-        "maintenance"
-      ]
-    },
-    {
-      "login": "dasaderi",
-      "name": "Daniela Saderi",
-      "avatar_url": "https://avatars.githubusercontent.com/u/13750121?v=4",
-      "profile": "https://github.com/dasaderi",
-      "contributions": [
-        "content"
+        "code"
       ]
     }
   ],
-  "contributorsPerLine": 7,
-  "skipCi": true,
-  "repoType": "github",
-  "repoHost": "https://github.com",
-  "projectName": "Transform-to-Open-Science-Book",
-  "projectOwner": "bello-mart-isabella"
+  "commitConvention": "angular"
 }

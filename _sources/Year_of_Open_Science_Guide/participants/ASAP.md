@@ -47,7 +47,7 @@ For the 2023 year, we have the following main objectives:
     - neurophysiology datasets (two-photon imaging, electrophysiology, fiber photometry)
     - single-cell multiomics data
     - quality control standards for iPSCs<br><br>
-    For these efforts, we are also reaching out to others within the community who are also creating data standards. 
+    For these efforts, we are also reaching out to others within the community who are also creating data standards.<br> 
 
   - To continually evaluate and share our success in tracking open science compliance and measuring impact. Specifically, to ensure that all research outputs    from 2023 papers are openly available and compliant with our open science policy.
 

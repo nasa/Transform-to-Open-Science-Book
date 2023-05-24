@@ -213,7 +213,7 @@ Collect open science stories about your organization, highlighting how open scie
 
 **Basic Requirements**
 
-In order to docuemnt an Open Science Story, the following elements should be included in the blog or interview:
+In order to document an Open Science Story, the following elements should be included in the blog or interview:
 * The interviewee’s personal definition of open science, and how it connects to [NASA’s definition](https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area4_Moving_To_Openness/Open_Science.md) 
 * A description of at least one, distinct research project or scientific initiative which demonstrates open science principles or practices. 
 * Information or stories about the challenges or barriers faced when first embarking on the open science project, as well as the ultimate benefits of preserving, to help encourage others to also adopt open science. 

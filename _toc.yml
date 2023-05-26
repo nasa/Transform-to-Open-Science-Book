@@ -68,6 +68,10 @@ parts:
     - file: Year_of_Open_Science_Guide/participants/LSEF.md
     - file: Year_of_Open_Science_Guide/participants/PREreview.md
     - file: Year_of_Open_Science_Guide/participants/ORFG.md
+    - file: Year_of_Open_Science_Guide/participants/CreativeCommons.md
+    - file: Year_of_Open_Science_Guide/participants/SPARC.md
+    - file: Year_of_Open_Science_Guide/participants/MJFoxFoundation.md
+    - file: Year_of_Open_Science_Guide/participants/GOFAIRUS.md
     - file: Year_of_Open_Science_Guide/participants/readme.md
   - file: Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science
 - caption: TOPS Proposal Resources

@@ -46,6 +46,7 @@ Not sure if your organizations is ready? Explore our guide on [Organization Acti
 - [Scholarly Publishing and Academic Resources Coalition (SPARC)](./participants/SPARC.md)
 - [The Michael J. Fox Foundation for Parkinson’s Research](./participants/MJFoxFoundation.md)
 - [GO FAIR US](./participants/GOFAIRUS.md)
+- [Springer Nature Group](./participants/SpringerNature.md)
 
 ## For You and For Your Team
 The Year of Open Science is not just for organizations, check out our Year of Open Science materials for you and your team!

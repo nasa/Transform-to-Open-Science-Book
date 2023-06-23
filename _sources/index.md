@@ -37,4 +37,4 @@ This guide is for you, your team, or your organization to become more involved w
 At NASA, we hope that this Year of Open Science will spark change and inspire open science engagement through events and activities that will shift the current paradigm and change practices. *The Transform to Open Science (TOPS) community coordinates efforts designed to rapidly transform agencies, organizations, and communities.*
 
 ## Join the TOPS Mailing List
-Please join the TOPS [email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to hear about further activities. If you are ready to become more involved or have an idea for a collaboration, you can [contact us using this form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY).
+Please join the TOPS [email list](https://nasa.github.io/Transform-to-Open-Science/signup/) to hear about further activities. If you are ready to become more involved or have an idea for a collaboration, you can [contact us using this form](https://docs.google.com/forms/d/1XcjQU9vYyXAMmJFdB6H021PFypGYWbNKvNR_em5q2UY).

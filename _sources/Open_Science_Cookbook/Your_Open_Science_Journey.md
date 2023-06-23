@@ -237,7 +237,7 @@ A “fast-pass” option will be available for those who are already well-versed
 
 **How do I get started?**
 
-Join the [TOPS email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to get announcements, including the dates when the first version of the NASA open science curriculum is released. Once available, share the Open Science 101 with your organization and encourage participation via newsletters, announcement boards, tweets, emails or whichever communication method you prefer. 
+Join the [TOPS email list](https://nasa.github.io/Transform-to-Open-Science/signup/) to get announcements, including the dates when the first version of the NASA open science curriculum is released. Once available, share the Open Science 101 with your organization and encourage participation via newsletters, announcement boards, tweets, emails or whichever communication method you prefer. 
 
 **Basic Requirements**
 
@@ -263,13 +263,13 @@ Every month, TOPS has an open meeting to share updates on TOPS events, progress 
 
 **How do I get started?**
 
-Sign up for the [TOPS email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform) to get information on each month’s topic, and sign-up for the next event. 
+Sign up for the [TOPS email list](https://nasa.github.io/Transform-to-Open-Science/signup/) to get information on each month’s topic, and sign-up for the next event. 
 
 **Basic Requirements**
 
 When encouraging folks at your organization to join us at the next TOPS community forum, be sure to mention:
 * TOPS’ mission goals and areas of action, a summary of which is [here](https://github.com/nasa/Transform-to-Open-Science#what-we-do), and 
-* To join the listserv ([here](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform)).
+* To join the listserv ([here](https://nasa.github.io/Transform-to-Open-Science/signup/)).
 
 **TOPS Will Provide**
 

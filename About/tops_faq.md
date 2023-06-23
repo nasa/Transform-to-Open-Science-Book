@@ -78,7 +78,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   The 2022 memorandum titled, <a href = "https://www.whitehouse.gov/ostp/news-updates/2022/08/25/breakthroughs-for-alldelivering-equitable-access-to-americas-research/">Ensuring Free, Immediate, and Equitable Access to Federally Funded Research</a>, will take critical steps to achieve equitable delivery of Federally funded research results and data to all of America. This is a very exciting step in creating more equitable access to the incredible research NASA funds. Additionally, NASA released a new Science Information Policy in December 2022! You can find resources, frequently asked questions and the full text of the policy at <a href = "https://science.nasa.gov/researchers/science-data/science-information-policy">science.nasa.gov</a>. At TOPS, we are especially excited about the <a href = "https://science.nasa.gov/science-red/s3fs-public/atoms/files/SMD%20Open-Source%20Science%20Guidance%20v1%2020221208.pdf">Open-Source Science Guidance</a> for researchers funded by NASA's Science Mission Directorate.
   
   <h4>How will you enable open meetings? Will they all be virtual? Will funding be provided for volunteers to present at science meetings?</h4>
-  We are enabling open meetings by providing an option for virtual attendance, including the ability to submit questions. We have plans to expand participation at NASA science team meetings; please subscribe to our <a href = "https://go.nasa.gov/3Lwlb87">listserv</a> to hear more.
+  We are enabling open meetings by providing an option for virtual attendance, including the ability to submit questions. We have plans to expand participation at NASA science team meetings; please subscribe to our <a href = "https://nasa.github.io/Transform-to-Open-Science/signup/">listserv</a> to hear more.
   
   <h4>Is there a specific place in the Github repository(ies) that you shared that lists these meetings and conferences?</h4></summary>
     <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">Please refer to the TOPS priority events for 2023 list on our GitHub.</a>
@@ -93,7 +93,7 @@ A few ways to get started are: Make data non-proprietary and available in an ope
    Formal and informal partnerships with other agencies and organizations will be announced soon! 
 
   <h4>Where can we get TOPS stickers and pins?</h4>
-  You can visit us at conferences to find our latest educational and informational resources. We are also working on a distribution mechanism to share resources with the full community, so join our <a href = "https://go.nasa.gov/3Lwlb87">listserv</a> to stay tuned!
+  You can visit us at conferences to find our latest educational and informational resources. We are also working on a distribution mechanism to share resources with the full community, so join our <a href = "https://nasa.github.io/Transform-to-Open-Science/signup/">listserv</a> to stay tuned!
   
   </details>
   
@@ -117,10 +117,10 @@ A few ways to get started are: Make data non-proprietary and available in an ope
   <summary><span style="font-size:x-large;">Getting Involved in TOPS</span></summary>
   
   <h4>Who can participate?</h4>
-  Anyone with an interest in open science is welcome to participate in TOPS! <a href = "https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform">Sign up for the TOPS newsletter</a> to learn how to get involved and keep up-to-date with the latest TOPS activities.
+  Anyone with an interest in open science is welcome to participate in TOPS! <a href = "https://nasa.github.io/Transform-to-Open-Science/signup/">Sign up for the TOPS newsletter</a> to learn how to get involved and keep up-to-date with the latest TOPS activities.
   
   <h4>How can students at different levels get involved?</h4>
-  Anyone with an interest in open science is welcome to participate in TOPS! Sign up for the <a href = "https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform">TOPS newsletter</a> to keep up-to-date with the latest TOPS activities, including student internships. Contribute to the <a href = "https://github.com/nasa/Transform-to-Open-Science/discussions">discussion on our GitHub</a>. Further, the open science curriculum that TOPS is developing will be free and open for all regardless of disciplinary or education level.
+  Anyone with an interest in open science is welcome to participate in TOPS! Sign up for the <a href = "https://nasa.github.io/Transform-to-Open-Science/signup/">TOPS newsletter</a> to keep up-to-date with the latest TOPS activities, including student internships. Contribute to the <a href = "https://github.com/nasa/Transform-to-Open-Science/discussions">discussion on our GitHub</a>. Further, the open science curriculum that TOPS is developing will be free and open for all regardless of disciplinary or education level.
   
   <h4>What specific plans do you have for outreach that will reach different communities?</h4>
     See our calendar for a <a href = "https://github.com/nasa/Transform-to-Open-Science/blob/main/docs/Area1_Engagement/Outreach/tops_conferences.md">list of conferences</a> we will be attending this year and next.

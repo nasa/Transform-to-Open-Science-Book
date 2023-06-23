@@ -2,7 +2,7 @@
 
 Thank you for attending a Transform to Open Science workshop on the Ethos of Open Science! We are glad to have been able to share the first module of our [Open Science 101 Certification](https://github.com/nasa/Transform-to-Open-Science/tree/main/docs/Area2_Capacity_Sharing/Open-Science-101) with you, and hope to see you in workshops or virtual forums for the remaining modules on open data, open-source software, open results, and open tools for conducting open science as soon as they become available. 
 
-If you wish to receive an email when the remaining modules become available, please [join our email list](https://docs.google.com/forms/d/e/1FAIpQLSeb_6PdbaPYFcVwXWgMJ053Q_pF2rW2YOu51Qmrh5nWaRYc7Q/viewform).
+If you wish to receive an email when the remaining modules become available, please [join our email list](https://nasa.github.io/Transform-to-Open-Science/signup/).
 
 This page contains links to all research, case studies, and scenarios posed during the workshop. Resources are grouped by topic, and loosely follow the presentation order of the workshop. 
 

@@ -4,7 +4,7 @@
 :width: 150px
 :align: right
 ```
-##### <ins>Year of Open Science</ins>
+**<ins>Year of Open Science</ins>**
 
 STM stands for advancing open and trusted research, where researchers and the rest of society can rely on information that is credible, accessible, linked and searchable in perpetuity.
 

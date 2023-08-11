@@ -6,7 +6,7 @@
 ```
 FAS is a nonprofit, nonpartisan policy research organization working to develop and implement innovative ideas in science and technology. By providing new avenues for public engagement in policy design, we work to democratize the conversation around both science's impact on policy and policy’s impact on science. 
 
-## FAS's Year of Open Science Goal
+### FAS's Year of Open Science Goal
 
 Building on the incredible momentum in federal open science policy, we plan to use our platform to: 
 

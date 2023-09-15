@@ -75,6 +75,8 @@ parts:
     - file: Year_of_Open_Science_Guide/participants/SpringerNature.md
     - file: Year_of_Open_Science_Guide/participants/STM.md
     - file: Year_of_Open_Science_Guide/participants/FAS.md
+    - file: Year_of_Open_Science_Guide/participants/WilsonCenter.md
+    - file: Year_of_Open_Science_Guide/participants/Frontiers.md
     - file: Year_of_Open_Science_Guide/participants/readme.md
   - file: Year_of_Open_Science_Guide/conferences_for_the_year_of_open_science
 - caption: TOPS Proposal Resources

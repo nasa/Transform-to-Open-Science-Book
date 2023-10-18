@@ -51,6 +51,9 @@ Not sure if your organizations is ready? Explore our guide on [Organization Acti
 - [Federation of American Scientists (FAS)](./participants/FAS.md)
 - [The Wilson Center](./participants/WilsonCenter.md)
 - [Frontiers](./participants/Frontiers.md)
+- [Invest in Open Infrastructure (IOI)](./participants/IOI.md)
+- [Federation of American Societies for Experimental Biology (FASEB)](./participants/FASEB.md)
+- [Elsevier](./participants/Elsevier.md)
 
 ## For You and For Your Team
 The Year of Open Science is not just for organizations, check out our Year of Open Science materials for you and your team!

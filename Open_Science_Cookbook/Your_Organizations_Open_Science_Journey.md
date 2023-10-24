@@ -36,7 +36,11 @@ Next, examine any “unofficial” policies. What are the research norms at your
 
 When highlighting how your organization is already engaging in open science, you provide those just beginning their open science journey with a model to follow, as well as a place to ask questions. Therefore, to ensure the success of these researchers, we recommend starting a repository of open science success stories for your organization. 
 
-NASA has some examples [here](https://science.nasa.gov/open-science/transform-to-open-science/stories). A great example also came out of an ongoing collaboration by Arizona State University and the Open Research Funders Group, in conjunction with the National Academies of Sciences, Engineering, and Medicine. It is called [Project Open](https://projectopen.io/), and focuses on collecting information on how open science broadly benefits researchers. 
+<!--
+NASA has some examples [here](https://science.nasa.gov/open-science/transform-to-open-science/stories). A great example also came out of an ongoing collaboration by Arizona State University and the Open Research Funders Group, in conjunction with the National Academies of Sciences, Engineering, and Medicine. It is called [Project Open](https://projectopen.io/), and focuses on collecting information on how open science broadly benefits researchers.
+-->
+
+A great example came out of an ongoing collaboration by Arizona State University and the Open Research Funders Group, in conjunction with the National Academies of Sciences, Engineering, and Medicine. It is called [Project Open](https://projectopen.io/), and focuses on collecting information on how open science broadly benefits researchers.
 
 For your organization, we suggest highlighting specific ways that existing policies allow for open science practice.
 

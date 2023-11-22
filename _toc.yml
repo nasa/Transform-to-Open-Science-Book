@@ -40,9 +40,6 @@ parts:
 - caption: TOPS Proposal Resources
   chapters:
   - file: Proposal_Resources/readme
-    sections:
-    - file: Proposal_Resources/NASA_open_data
-    - file: Proposal_Resources/inclusion_plan_resources
 - caption: TOPS Training Solicitation
   chapters:
   - file: TOPST/readme

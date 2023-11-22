@@ -9,17 +9,6 @@ parts:
     sections:
     - file: About/LICENSE
     - file: About/CODE_OF_CONDUCT
-- caption: TOPS' Guide to Open Science  
-  chapters:
-  - file: Open_Science_Cookbook/readme
-    sections:
-    - file: Open_Science_Cookbook/Your_Open_Science_Journey
-      sections:
-      - file: Open_Science_Cookbook/reading_list
-      - file: Open_Science_Cookbook/code_learning_resources
-      - file: Open_Science_Cookbook/software_citation_checklist
-    - file: Open_Science_Cookbook/Your_Teams_Open_Science_Journey
-    - file: Open_Science_Cookbook/Your_Organizations_Open_Science_Journey
 - caption: Year of Open Science 
   chapters:
   - file: Year_of_Open_Science_Guide/readme

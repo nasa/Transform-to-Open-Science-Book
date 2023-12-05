@@ -61,9 +61,8 @@ The Year of Open Science is not just for organizations, check out our Year of Op
 ### Individual Participation
 Are you just beginning your open science journey? Perhaps you have only just begun to post your code or data online, share your pre-prints, or share your null hypothesis as part of your grant application? Or perhaps you are exploring science communication on a personal blog. All of these behaviors exemplify open science and we would like for you to join us! 
 
-If you are excited to learn and encourage others to learn about open science as part of a Year of Open Science, then we invite you to explore how to take [Individual Actions for a Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Open_Science_Journey.html#section-3-open-science-at-work)!
 
 ### Team Participation
 Is your team interested in adopting open science principles and practices, but unsure of how to begin? The Year of Open Science team activities could help you reflect together on how to equip the people at your organization with practical knowledge in open science, as well as introduce them to a wider community of open science practitioners. 
 
-Learn how to get your team involved in [Team Actions for Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Teams_Open_Science_Journey.html#section-1-engage-with-open-science)!
+

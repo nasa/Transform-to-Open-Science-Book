@@ -40,9 +40,3 @@ parts:
   - file: TOPST/readme
     sections:
     - file: TOPST/TOPST_proposal_elements
-- caption: TOPS Ethos of Open Science Workshop Materials
-  chapters:
-  - file: Ethos-of-OS-Workshop/readme
-    sections:
-    - file: Ethos-of-OS-Workshop/workshop-citations-reading
-    - file: Ethos-of-OS-Workshop/workshop-links.md

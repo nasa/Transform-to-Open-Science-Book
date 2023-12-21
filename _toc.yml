@@ -5,10 +5,6 @@ parts:
   chapters:
   - file: About/About-Announcements
   - file: About/tops_faq
-  - file: About/CONTRIBUTING
-    sections:
-    - file: About/LICENSE
-    - file: About/CODE_OF_CONDUCT
 - caption: Year of Open Science 
   chapters:
   - file: Year_of_Open_Science_Guide/readme

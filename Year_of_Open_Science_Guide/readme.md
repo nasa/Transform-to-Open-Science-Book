@@ -1,4 +1,4 @@
-# Guide to a Year of Open Science
+# Participating Organizations
 
 A Guide for Participating in a Year of Open Science!
 
@@ -23,15 +23,10 @@ The Year of Open Science has set out 4 goals to work towards:
 1. Account for open science activities in evaluations
 1. Engage underrepresented communities in the advancement of open science
 
-## Join Us! 
-To sign up your organization and be listed below, please fill out this [form](https://forms.gle/KPKaejc2WP7dm5XVA).
+## Thank You for Joining Us!
+We want to give a special thank you for organizations that participated with us in a Year of Open Science!
 
-### Participating Organizations
-Is your organization ready to devote people, funds, and other resources to adopting open science? If your leaders are committed to becoming known as an open science organization, and excited to facilitate open science research through its policy and actions, then we invite you to join us by [signing up here](https://forms.gle/KPKaejc2WP7dm5XVA)!
-
-Not sure if your organizations is ready? Explore our guide on [Organization Actions for a Year of Open Science](https://nasa.github.io/Transform-to-Open-Science-Book/Open_Science_Cookbook/Your_Organizations_Open_Science_Journey.html) to see what open science at the organizational level is all about! You can also review our expectations for participating organizations [here](./participants/readme.md).
-
-**We hope you will join us and the following organizations in a Year of Open Science!**
+**The following organizations have joined us in a Year of Open Science!**
 - [Aligning Science Across Parkinson's (ASAP)](./participants/ASAP.md)
 - [ASAPbio](./participants/ASAPbio.md)
 - [Center for Open Science (COS)](./participants/COS.md)

@@ -26,7 +26,9 @@ The Year of Open Science has set out 4 goals to work towards:
 ## Thank You for Joining Us in a Year of Open Science!
 We would like to give a special thank you to organizations that participated with us in a Year of Open Science.
 
-### Organizations That Participated:
+### Participating Organizations:
+
+Each of these organizations has a dedicated page with a statement of the work they do and what open science means for them.
 
 - [Aligning Science Across Parkinson's (ASAP)](./participants/ASAP.md)
 - [ASAPbio](./participants/ASAPbio.md)
